@@ -1,0 +1,47 @@
+[serieson_free]
+title = "[시리즈온] 이주의 무료영화"
+url = "https://serieson.naver.com/movie/freeMovieList.nhn"
+entrySelector = "ul.lst_freemovie li"
+titleSelector = "strong.freemovie_title"
+linkSelector = "a"
+imageSelector = "a img"
+contentSelector = "span.freemovie_deadline"
+waitUntil = "networkidle"
+
+[serieson_sale]
+title = "[시리즈온] 할인 영화관"
+url = "https://serieson.naver.com/movie/categoryList.nhn?categoryCode=300003"
+entrySelector = "ul.lst_thum.v1 li"
+titleSelector = "a strong"
+linkSelector = "a"
+imageSelector = "a img"
+contentSelector = "strong.payment"
+waitUntil = "networkidle"
+
+[serieson_sale1000]
+title = "[시리즈온] 천원관"
+url = "https://serieson.naver.com/movie/categoryList.nhn?categoryCode=300007"
+entrySelector = "ul.lst_thum.v1 li"
+titleSelector = "a strong"
+linkSelector = "a"
+imageSelector = "a img"
+contentSelector = "p.price2.v2 em"
+waitUntil = "networkidle"
+
+[serieson_barrierfree]
+title = "[시리즈온] 가치봄 영화관"
+url = "https://serieson.naver.com/movie/categoryList.nhn?categoryCode=300009&tagCode=200000"
+entrySelector = "ul.lst_thum.v1 li"
+titleSelector = "a strong"
+linkSelector = "a"
+imageSelector = "a img"
+contentSelector = "p.price2.v2"
+waitUntil = "networkidle"
+
+[serieson_event]
+title = "[시리즈온] 이벤트"
+url = "https://serieson.naver.com/movie/eventList.nhn"
+entrySelector = "ul li.event:not(:first-child)"
+titleSelector = "a"
+linkSelector = "a"
+waitUntil = "networkidle"
