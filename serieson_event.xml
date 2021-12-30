@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2021-12-30T14:02:49.924Z</updated>
+    <updated>2021-12-30T15:02:41.001Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
     <entry>
@@ -104,25 +104,11 @@
         <content type="html"><![CDATA[<a href="/events/20010?productType=movie" class="" onclick="nclk(this, 'mov.list', '20010', '');">🎄갓벽한 연말연초를 보내는 최고의 방법! 시리즈온 무료 영화 확인하세요~</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[💓전종서와 손석구의 빨간 맛 썸의 세계 ‘연애 빠진 로맨스'보고 1만 캐시 받자!]]></title>
-        <id>https://serieson.naver.com/events/20002?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20002?productType=movie"/>
-        <updated>2021-12-30T04:59:20.871Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20002?productType=movie" class="" onclick="nclk(this, 'mov.list', '20002', '');">💓전종서와 손석구의 빨간 맛 썸의 세계 ‘연애 빠진 로맨스'보고 1만 캐시 받자!</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[🥳연말에는 시리즈온에서 팝콘 파티! 시리즈온 X 농심 특급 콜라보 프로모션]]></title>
         <id>https://serieson.naver.com/events/13674?productType=movie</id>
         <link href="https://serieson.naver.com/events/13674?productType=movie"/>
         <updated>2021-12-30T04:59:20.872Z</updated>
         <content type="html"><![CDATA[<a href="/events/13674?productType=movie" class="" onclick="nclk(this, 'mov.list', '13674', '');">🥳연말에는 시리즈온에서 팝콘 파티! 시리즈온 X 농심 특급 콜라보 프로모션</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[폴 버호벤 감독 신작! '베네데타' 시리즈온 오픈]]></title>
-        <id>https://serieson.naver.com/events/20001?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20001?productType=movie"/>
-        <updated>2021-12-30T04:59:20.873Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20001?productType=movie" class="" onclick="nclk(this, 'mov.list', '20001', '');">폴 버호벤 감독 신작! '베네데타' 시리즈온 오픈</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[12월 우수이용자! 놓치지 말고 확인!]]></title>

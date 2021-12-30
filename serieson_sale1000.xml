@@ -4,7 +4,7 @@
         <title>[시리즈온] 천원관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Dec 2021 14:02:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Dec 2021 15:02:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,6 +112,14 @@
             <enclosure url="https://movie-phinf.pstatic.net/20200325_124/1585104977889IXrqR_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[라라걸]]></title>
+            <link>https://serieson.naver.com/v2/movie/371143</link>
+            <guid>https://serieson.naver.com/v2/movie/371143</guid>
+            <pubDate>Thu, 30 Dec 2021 15:02:20 GMT</pubDate>
+            <content:encoded><![CDATA[대여]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20200325_18/1585107103550sVyVU_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이장]]></title>
             <link>https://serieson.naver.com/v2/movie/372791</link>
             <guid>https://serieson.naver.com/v2/movie/372791</guid>
@@ -198,14 +206,6 @@
             <pubDate>Thu, 30 Dec 2021 04:59:05 GMT</pubDate>
             <content:encoded><![CDATA[대여]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20190930_289/1569807701952m4QR2_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시크릿 슈퍼스타]]></title>
-            <link>https://serieson.naver.com/v2/movie/329509</link>
-            <guid>https://serieson.naver.com/v2/movie/329509</guid>
-            <pubDate>Thu, 30 Dec 2021 04:59:05 GMT</pubDate>
-            <content:encoded><![CDATA[대여]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20190927_8/1569550909963dbsdI_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>[시리즈온] 이주의 무료영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Dec 2021 14:02:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Dec 2021 15:02:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,16 +30,6 @@
             <pubDate>Thu, 30 Dec 2021 04:58:49 GMT</pubDate>
             <content:encoded><![CDATA[1월 6일까지]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20190405_72/155444000594589QMA_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자막
-										
-											겨울왕국의 무민]]></title>
-            <link>https://serieson.naver.com/v2/movie/223151</link>
-            <guid>https://serieson.naver.com/v2/movie/223151</guid>
-            <pubDate>Thu, 30 Dec 2021 04:58:49 GMT</pubDate>
-            <content:encoded><![CDATA[12월 30일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20180108_81/1515374105706kpMAJ_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[19
@@ -78,41 +68,6 @@
             <enclosure url="https://movie-phinf.pstatic.net/20200615_180/1592206351186TCyYk_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[더빙
-											호두까기 인형: 장난감 왕국 대모험]]></title>
-            <link>https://serieson.naver.com/v2/movie/166719</link>
-            <guid>https://serieson.naver.com/v2/movie/166719</guid>
-            <pubDate>Thu, 30 Dec 2021 04:58:49 GMT</pubDate>
-            <content:encoded><![CDATA[12월 30일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20161123_55/1479878956485QxEcr_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자막
-										
-											극장판 도라에몽:진구의 남극 꽁꽁 대모험]]></title>
-            <link>https://serieson.naver.com/v2/movie/199662</link>
-            <guid>https://serieson.naver.com/v2/movie/199662</guid>
-            <pubDate>Thu, 30 Dec 2021 04:58:49 GMT</pubDate>
-            <content:encoded><![CDATA[12월 30일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20170713_47/1499907463413CgUMz_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[와일드 로즈]]></title>
-            <link>https://serieson.naver.com/v2/movie/420510</link>
-            <guid>https://serieson.naver.com/v2/movie/420510</guid>
-            <pubDate>Thu, 30 Dec 2021 04:58:49 GMT</pubDate>
-            <content:encoded><![CDATA[12월 30일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20190923_94/1569206662506HNCPf_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[간첩]]></title>
-            <link>https://serieson.naver.com/v2/movie/369098</link>
-            <guid>https://serieson.naver.com/v2/movie/369098</guid>
-            <pubDate>Thu, 30 Dec 2021 04:58:49 GMT</pubDate>
-            <content:encoded><![CDATA[12월 30일까지]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20211018_219/1634530577414erycl_PNG/ONPOSTER_105..png?type=w320" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[더 파더]]></title>
             <link>https://serieson.naver.com/v2/movie/436412</link>
             <guid>https://serieson.naver.com/v2/movie/436412</guid>
@@ -129,14 +84,6 @@
             <enclosure url="https://movie-phinf.pstatic.net/20180920_268/1537425274130wtXzB_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[증인]]></title>
-            <link>https://serieson.naver.com/v2/movie/274964</link>
-            <guid>https://serieson.naver.com/v2/movie/274964</guid>
-            <pubDate>Thu, 30 Dec 2021 04:58:49 GMT</pubDate>
-            <content:encoded><![CDATA[12월 30일까지]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20211111_100/1636634080863mm85A_PNG/ONPOSTER_24..png?type=w320" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[선샤인 패밀리]]></title>
             <link>https://serieson.naver.com/v2/movie/418340</link>
             <guid>https://serieson.naver.com/v2/movie/418340</guid>
@@ -145,12 +92,72 @@
             <enclosure url="https://movie-phinf.pstatic.net/20201221_210/1608530645207eplhA_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[신의 은총으로]]></title>
-            <link>https://serieson.naver.com/v2/movie/339790</link>
-            <guid>https://serieson.naver.com/v2/movie/339790</guid>
-            <pubDate>Thu, 30 Dec 2021 04:58:49 GMT</pubDate>
-            <content:encoded><![CDATA[12월 30일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20191227_58/1577425715965n3ulU_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+            <title><![CDATA[19
+										
+											
+										
+										
+										
+											넬리]]></title>
+            <link>https://serieson.naver.com/v2/movie/198872</link>
+            <guid>https://serieson.naver.com/v2/movie/198872</guid>
+            <pubDate>Thu, 30 Dec 2021 15:02:03 GMT</pubDate>
+            <content:encoded><![CDATA[1월 13일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20170727_16/1501119943001IhrLx_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[돌로레스]]></title>
+            <link>https://serieson.naver.com/v2/movie/198870</link>
+            <guid>https://serieson.naver.com/v2/movie/198870</guid>
+            <pubDate>Thu, 30 Dec 2021 15:02:03 GMT</pubDate>
+            <content:encoded><![CDATA[1월 13일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20170818_101/1503024641662tzAlx_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[돌멩이]]></title>
+            <link>https://serieson.naver.com/v2/movie/406746</link>
+            <guid>https://serieson.naver.com/v2/movie/406746</guid>
+            <pubDate>Thu, 30 Dec 2021 15:02:03 GMT</pubDate>
+            <content:encoded><![CDATA[1월 13일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20201015_255/1602740964713IkI6w_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[굿타임]]></title>
+            <link>https://serieson.naver.com/v2/movie/219646</link>
+            <guid>https://serieson.naver.com/v2/movie/219646</guid>
+            <pubDate>Thu, 30 Dec 2021 15:02:03 GMT</pubDate>
+            <content:encoded><![CDATA[1월 13일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20171218_205/1513571722256ULu6q_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[100미터]]></title>
+            <link>https://serieson.naver.com/v2/movie/195980</link>
+            <guid>https://serieson.naver.com/v2/movie/195980</guid>
+            <pubDate>Thu, 30 Dec 2021 15:02:03 GMT</pubDate>
+            <content:encoded><![CDATA[1월 13일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20170626_262/1498460542134vDS2F_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[19
+										
+											
+										
+										
+										
+											버닝]]></title>
+            <link>https://serieson.naver.com/v2/movie/234437</link>
+            <guid>https://serieson.naver.com/v2/movie/234437</guid>
+            <pubDate>Thu, 30 Dec 2021 15:02:03 GMT</pubDate>
+            <content:encoded><![CDATA[1월 13일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20180430_157/1525055069155UyYXg_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[라라걸]]></title>
+            <link>https://serieson.naver.com/v2/movie/371143</link>
+            <guid>https://serieson.naver.com/v2/movie/371143</guid>
+            <pubDate>Thu, 30 Dec 2021 15:02:03 GMT</pubDate>
+            <content:encoded><![CDATA[1월 13일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20200325_18/1585107103550sVyVU_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
