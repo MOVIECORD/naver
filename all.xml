@@ -4,9 +4,77 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Dec 2021 15:02:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Dec 2021 16:04:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[19
+										
+											
+										
+										
+										
+											넬리 ([시리즈온] 이주의 무료영화)]]></title>
+            <link>https://serieson.naver.com/v2/movie/198872</link>
+            <guid>https://serieson.naver.com/v2/movie/198872</guid>
+            <pubDate>Thu, 30 Dec 2021 15:02:03 GMT</pubDate>
+            <content:encoded><![CDATA[1월 13일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20170727_16/1501119943001IhrLx_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[돌로레스 ([시리즈온] 이주의 무료영화)]]></title>
+            <link>https://serieson.naver.com/v2/movie/198870</link>
+            <guid>https://serieson.naver.com/v2/movie/198870</guid>
+            <pubDate>Thu, 30 Dec 2021 15:02:03 GMT</pubDate>
+            <content:encoded><![CDATA[1월 13일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20170818_101/1503024641662tzAlx_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[돌멩이 ([시리즈온] 이주의 무료영화)]]></title>
+            <link>https://serieson.naver.com/v2/movie/406746</link>
+            <guid>https://serieson.naver.com/v2/movie/406746</guid>
+            <pubDate>Thu, 30 Dec 2021 15:02:03 GMT</pubDate>
+            <content:encoded><![CDATA[1월 13일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20201015_255/1602740964713IkI6w_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[굿타임 ([시리즈온] 이주의 무료영화)]]></title>
+            <link>https://serieson.naver.com/v2/movie/219646</link>
+            <guid>https://serieson.naver.com/v2/movie/219646</guid>
+            <pubDate>Thu, 30 Dec 2021 15:02:03 GMT</pubDate>
+            <content:encoded><![CDATA[1월 13일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20171218_205/1513571722256ULu6q_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[100미터 ([시리즈온] 이주의 무료영화)]]></title>
+            <link>https://serieson.naver.com/v2/movie/195980</link>
+            <guid>https://serieson.naver.com/v2/movie/195980</guid>
+            <pubDate>Thu, 30 Dec 2021 15:02:03 GMT</pubDate>
+            <content:encoded><![CDATA[1월 13일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20170626_262/1498460542134vDS2F_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[19
+										
+											
+										
+										
+										
+											버닝 ([시리즈온] 이주의 무료영화)]]></title>
+            <link>https://serieson.naver.com/v2/movie/234437</link>
+            <guid>https://serieson.naver.com/v2/movie/234437</guid>
+            <pubDate>Thu, 30 Dec 2021 15:02:03 GMT</pubDate>
+            <content:encoded><![CDATA[1월 13일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20180430_157/1525055069155UyYXg_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[라라걸 ([시리즈온] 이주의 무료영화)]]></title>
+            <link>https://serieson.naver.com/v2/movie/371143</link>
+            <guid>https://serieson.naver.com/v2/movie/371143</guid>
+            <pubDate>Thu, 30 Dec 2021 15:02:03 GMT</pubDate>
+            <content:encoded><![CDATA[1월 13일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20200325_18/1585107103550sVyVU_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유열의 음악앨범 ([시리즈온] 이주의 무료영화)]]></title>
             <link>https://serieson.naver.com/v2/movie/317970</link>
@@ -90,74 +158,6 @@
             <pubDate>Thu, 30 Dec 2021 04:58:49 GMT</pubDate>
             <content:encoded><![CDATA[1월 7일까지]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20201221_210/1608530645207eplhA_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[19
-										
-											
-										
-										
-										
-											넬리 ([시리즈온] 이주의 무료영화)]]></title>
-            <link>https://serieson.naver.com/v2/movie/198872</link>
-            <guid>https://serieson.naver.com/v2/movie/198872</guid>
-            <pubDate>Thu, 30 Dec 2021 15:02:03 GMT</pubDate>
-            <content:encoded><![CDATA[1월 13일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20170727_16/1501119943001IhrLx_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[돌로레스 ([시리즈온] 이주의 무료영화)]]></title>
-            <link>https://serieson.naver.com/v2/movie/198870</link>
-            <guid>https://serieson.naver.com/v2/movie/198870</guid>
-            <pubDate>Thu, 30 Dec 2021 15:02:03 GMT</pubDate>
-            <content:encoded><![CDATA[1월 13일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20170818_101/1503024641662tzAlx_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[돌멩이 ([시리즈온] 이주의 무료영화)]]></title>
-            <link>https://serieson.naver.com/v2/movie/406746</link>
-            <guid>https://serieson.naver.com/v2/movie/406746</guid>
-            <pubDate>Thu, 30 Dec 2021 15:02:03 GMT</pubDate>
-            <content:encoded><![CDATA[1월 13일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20201015_255/1602740964713IkI6w_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[굿타임 ([시리즈온] 이주의 무료영화)]]></title>
-            <link>https://serieson.naver.com/v2/movie/219646</link>
-            <guid>https://serieson.naver.com/v2/movie/219646</guid>
-            <pubDate>Thu, 30 Dec 2021 15:02:03 GMT</pubDate>
-            <content:encoded><![CDATA[1월 13일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20171218_205/1513571722256ULu6q_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[100미터 ([시리즈온] 이주의 무료영화)]]></title>
-            <link>https://serieson.naver.com/v2/movie/195980</link>
-            <guid>https://serieson.naver.com/v2/movie/195980</guid>
-            <pubDate>Thu, 30 Dec 2021 15:02:03 GMT</pubDate>
-            <content:encoded><![CDATA[1월 13일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20170626_262/1498460542134vDS2F_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[19
-										
-											
-										
-										
-										
-											버닝 ([시리즈온] 이주의 무료영화)]]></title>
-            <link>https://serieson.naver.com/v2/movie/234437</link>
-            <guid>https://serieson.naver.com/v2/movie/234437</guid>
-            <pubDate>Thu, 30 Dec 2021 15:02:03 GMT</pubDate>
-            <content:encoded><![CDATA[1월 13일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20180430_157/1525055069155UyYXg_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[라라걸 ([시리즈온] 이주의 무료영화)]]></title>
-            <link>https://serieson.naver.com/v2/movie/371143</link>
-            <guid>https://serieson.naver.com/v2/movie/371143</guid>
-            <pubDate>Thu, 30 Dec 2021 15:02:03 GMT</pubDate>
-            <content:encoded><![CDATA[1월 13일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20200325_18/1585107103550sVyVU_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[더빙
@@ -613,7 +613,7 @@
             <title><![CDATA[라라걸 ([시리즈온] 천원관)]]></title>
             <link>https://serieson.naver.com/v2/movie/371143</link>
             <guid>https://serieson.naver.com/v2/movie/371143</guid>
-            <pubDate>Thu, 30 Dec 2021 15:02:20 GMT</pubDate>
+            <pubDate>Thu, 30 Dec 2021 15:02:03 GMT</pubDate>
             <content:encoded><![CDATA[대여]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20200325_18/1585107103550sVyVU_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
@@ -944,6 +944,13 @@
             <guid>https://serieson.naver.com/events/20009?productType=movie</guid>
             <pubDate>Thu, 30 Dec 2021 04:59:20 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/events/20009?productType=movie" class="" onclick="nclk(this, 'mov.list', '20009', '');">✨올 겨울 가장 마법같은 영화 '엔칸토: 마법의 세계' 오픈 프로모션</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[🔥22년에도 시리즈온과 함께! 쿠폰 피버 핫타임! ([시리즈온] 이벤트)]]></title>
+            <link>https://serieson.naver.com/events/20023?productType=movie</link>
+            <guid>https://serieson.naver.com/events/20023?productType=movie</guid>
+            <pubDate>Thu, 30 Dec 2021 16:03:59 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/events/20023?productType=movie" class="" onclick="nclk(this, 'mov.list', '20023', '');">🔥22년에도 시리즈온과 함께! 쿠폰 피버 핫타임!</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[⏱뷰티 인사이드와 존 윅이 만난 신선도 맥스 '유체이탈자' 시리즈온 오픈! ([시리즈온] 이벤트)]]></title>
