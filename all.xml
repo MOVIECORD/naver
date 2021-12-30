@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Dec 2021 04:59:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Dec 2021 05:12:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -502,7 +502,7 @@
             <title><![CDATA[더 파더 ([시리즈온] 천원관)]]></title>
             <link>https://serieson.naver.com/v2/movie/436412</link>
             <guid>https://serieson.naver.com/v2/movie/436412</guid>
-            <pubDate>Thu, 30 Dec 2021 04:59:05 GMT</pubDate>
+            <pubDate>Thu, 30 Dec 2021 04:58:49 GMT</pubDate>
             <content:encoded><![CDATA[대여]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20210323_50/1616476169545z5HcO_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
