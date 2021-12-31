@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Dec 2021 14:02:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Dec 2021 15:03:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -907,7 +907,7 @@
             <guid>https://serieson.naver.com/v2/movie/468983</guid>
             <pubDate>Thu, 30 Dec 2021 04:59:13 GMT</pubDate>
             <content:encoded><![CDATA[<em class="">구매</em>
-                    <strong class="payment"><span>2,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
+                    <strong class="payment"><span>1,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20200703_48/1593739617223iuD2b_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -937,6 +937,13 @@
             <content:encoded><![CDATA[<em class="">구매</em>
                     <strong class="payment"><span>6,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
             <enclosure url="https://tvstore-phinf.pstatic.net/20210924_31/1632481266455FBBUT_PNG/ONPOSTER_3..png?type=f102_138" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[22년 1월 우수 이용자! 꼭 확인해보자! ([시리즈온] 이벤트)]]></title>
+            <link>https://serieson.naver.com/events/20026?productType=movie</link>
+            <guid>https://serieson.naver.com/events/20026?productType=movie</guid>
+            <pubDate>Fri, 31 Dec 2021 15:03:14 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/events/20026?productType=movie" class="" onclick="nclk(this, 'mov.list', '20026', '');">22년 1월 우수 이용자! 꼭 확인해보자!</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[✨올 겨울 가장 마법같은 영화 '엔칸토: 마법의 세계' 오픈 프로모션 ([시리즈온] 이벤트)]]></title>
@@ -981,25 +988,11 @@
             <content:encoded><![CDATA[<a href="/events/20021?productType=movie" class="" onclick="nclk(this, 'mov.list', '20021', '');">😎유쾌한 놈들과의 위험한 동행 '픽시' 오픈 프로모션</a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[🥂만나서 반가웠고, 쿨하게 헤어지자 2021년! Year-end 파티! ([시리즈온] 이벤트)]]></title>
-            <link>https://serieson.naver.com/events/13673?productType=movie</link>
-            <guid>https://serieson.naver.com/events/13673?productType=movie</guid>
-            <pubDate>Thu, 30 Dec 2021 04:59:20 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/13673?productType=movie" class="" onclick="nclk(this, 'mov.list', '13673', '');">🥂만나서 반가웠고, 쿨하게 헤어지자 2021년! Year-end 파티!</a>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[👂당신은 좋은 리스너 인가요? 전세계를 울린 ‘리슨‘은 지금 시리즈온에서! ([시리즈온] 이벤트)]]></title>
             <link>https://serieson.naver.com/events/20020?productType=movie</link>
             <guid>https://serieson.naver.com/events/20020?productType=movie</guid>
             <pubDate>Thu, 30 Dec 2021 04:59:20 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/events/20020?productType=movie" class="" onclick="nclk(this, 'mov.list', '20020', '');">👂당신은 좋은 리스너 인가요? 전세계를 울린 ‘리슨‘은 지금 시리즈온에서!</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[🏆2021 영화 결산 SOTY 올해를 빛낸 작품들 ([시리즈온] 이벤트)]]></title>
-            <link>https://serieson.naver.com/events/13677?productType=movie</link>
-            <guid>https://serieson.naver.com/events/13677?productType=movie</guid>
-            <pubDate>Thu, 30 Dec 2021 04:59:20 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/13677?productType=movie" class="" onclick="nclk(this, 'mov.list', '13677', '');">🏆2021 영화 결산 SOTY 올해를 빛낸 작품들</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[CJ X 시리즈온👀 특급 쿠폰과 함께 할인가로 즐겨요! ([시리즈온] 이벤트)]]></title>
@@ -1030,53 +1023,11 @@
             <content:encoded><![CDATA[<a href="/events/20011?productType=movie" class="" onclick="nclk(this, 'mov.list', '20011', '');">❄️영화만 봤는데 올라프 굿즈가 선물로? 디즈니와 함께하는 ‘해피 홀리데이’ 이벤트 중!</a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[🎁새해맞이 꿀이득 쿠폰북 이벤트💰 ([시리즈온] 이벤트)]]></title>
-            <link>https://serieson.naver.com/events/20012?productType=movie</link>
-            <guid>https://serieson.naver.com/events/20012?productType=movie</guid>
-            <pubDate>Thu, 30 Dec 2021 04:59:20 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/20012?productType=movie" class="" onclick="nclk(this, 'mov.list', '20012', '');">🎁새해맞이 꿀이득 쿠폰북 이벤트💰</a>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[🎄갓벽한 연말연초를 보내는 최고의 방법! 시리즈온 무료 영화 확인하세요~ ([시리즈온] 이벤트)]]></title>
             <link>https://serieson.naver.com/events/20010?productType=movie</link>
             <guid>https://serieson.naver.com/events/20010?productType=movie</guid>
             <pubDate>Thu, 30 Dec 2021 04:59:20 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/events/20010?productType=movie" class="" onclick="nclk(this, 'mov.list', '20010', '');">🎄갓벽한 연말연초를 보내는 최고의 방법! 시리즈온 무료 영화 확인하세요~</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[🥳연말에는 시리즈온에서 팝콘 파티! 시리즈온 X 농심 특급 콜라보 프로모션 ([시리즈온] 이벤트)]]></title>
-            <link>https://serieson.naver.com/events/13674?productType=movie</link>
-            <guid>https://serieson.naver.com/events/13674?productType=movie</guid>
-            <pubDate>Thu, 30 Dec 2021 04:59:20 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/13674?productType=movie" class="" onclick="nclk(this, 'mov.list', '13674', '');">🥳연말에는 시리즈온에서 팝콘 파티! 시리즈온 X 농심 특급 콜라보 프로모션</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[12월 우수이용자! 놓치지 말고 확인! ([시리즈온] 이벤트)]]></title>
-            <link>https://serieson.naver.com/events/13661?productType=movie</link>
-            <guid>https://serieson.naver.com/events/13661?productType=movie</guid>
-            <pubDate>Thu, 30 Dec 2021 04:59:20 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/13661?productType=movie" class="" onclick="nclk(this, 'mov.list', '13661', '');">12월 우수이용자! 놓치지 말고 확인!</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[✅ 무료영화 보는 꿀팁 안내 ([시리즈온] 이벤트)]]></title>
-            <link>https://serieson.naver.com/events/13621?productType=movie</link>
-            <guid>https://serieson.naver.com/events/13621?productType=movie</guid>
-            <pubDate>Thu, 30 Dec 2021 04:59:20 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/13621?productType=movie" class="" onclick="nclk(this, 'mov.list', '13621', '');">✅ 무료영화 보는 꿀팁 안내</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이번주 가격인하작, 시리즈온에서 확인! ([시리즈온] 이벤트)]]></title>
-            <link>https://serieson.naver.com/events/13192?productType=movie</link>
-            <guid>https://serieson.naver.com/events/13192?productType=movie</guid>
-            <pubDate>Thu, 30 Dec 2021 04:59:20 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/13192?productType=movie" class="" onclick="nclk(this, 'mov.list', '13192', '');">이번주 가격인하작, 시리즈온에서 확인!</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[📌100캐시로 5천 캐시 영화 소장할 수 있는 기회! ([시리즈온] 이벤트)]]></title>
-            <link>https://serieson.naver.com/events/13632?productType=movie</link>
-            <guid>https://serieson.naver.com/events/13632?productType=movie</guid>
-            <pubDate>Thu, 30 Dec 2021 04:59:20 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/13632?productType=movie" class="" onclick="nclk(this, 'mov.list', '13632', '');">📌100캐시로 5천 캐시 영화 소장할 수 있는 기회!</a>]]></content:encoded>
         </item>
     </channel>
 </rss>
