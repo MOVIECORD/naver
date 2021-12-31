@@ -4,7 +4,7 @@
         <title>[시리즈온] 천원관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Dec 2021 15:03:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Dec 2021 16:03:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Thu, 30 Dec 2021 04:59:05 GMT</pubDate>
             <content:encoded><![CDATA[대여]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20210323_50/1616476169545z5HcO_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이]]></title>
-            <link>https://serieson.naver.com/v2/movie/428766</link>
-            <guid>https://serieson.naver.com/v2/movie/428766</guid>
-            <pubDate>Thu, 30 Dec 2021 04:59:05 GMT</pubDate>
-            <content:encoded><![CDATA[대여]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20210924_31/1632481266455FBBUT_PNG/ONPOSTER_3..png?type=f102_138" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[마이 미씽 발렌타인]]></title>
@@ -176,14 +168,6 @@
             <enclosure url="https://movie-phinf.pstatic.net/20191028_202/15722268699153zHt3_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[윤희에게]]></title>
-            <link>https://serieson.naver.com/v2/movie/335790</link>
-            <guid>https://serieson.naver.com/v2/movie/335790</guid>
-            <pubDate>Thu, 30 Dec 2021 04:59:05 GMT</pubDate>
-            <content:encoded><![CDATA[구매]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20191203_217/1575347950420leqmB_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[블랙머니 (가치봄영화:시청각장..]]></title>
             <link>https://serieson.naver.com/v2/movie/371673</link>
             <guid>https://serieson.naver.com/v2/movie/371673</guid>
@@ -206,6 +190,22 @@
             <pubDate>Thu, 30 Dec 2021 04:59:05 GMT</pubDate>
             <content:encoded><![CDATA[대여]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20190930_289/1569807701952m4QR2_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시크릿 슈퍼스타]]></title>
+            <link>https://serieson.naver.com/v2/movie/329509</link>
+            <guid>https://serieson.naver.com/v2/movie/329509</guid>
+            <pubDate>Fri, 31 Dec 2021 16:03:17 GMT</pubDate>
+            <content:encoded><![CDATA[대여]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20190927_8/1569550909963dbsdI_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[메기]]></title>
+            <link>https://serieson.naver.com/v2/movie/327831</link>
+            <guid>https://serieson.naver.com/v2/movie/327831</guid>
+            <pubDate>Fri, 31 Dec 2021 16:03:17 GMT</pubDate>
+            <content:encoded><![CDATA[구매]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20190903_89/1567472276429VUl4Y_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

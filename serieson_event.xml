@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2021-12-31T15:03:14.975Z</updated>
+    <updated>2021-12-31T16:03:36.289Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[22년 1월 우수 이용자! 꼭 확인해보자!]]></title>
-        <id>https://serieson.naver.com/events/20026?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20026?productType=movie"/>
-        <updated>2021-12-31T15:03:14.166Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20026?productType=movie" class="" onclick="nclk(this, 'mov.list', '20026', '');">22년 1월 우수 이용자! 꼭 확인해보자!</a>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[✨올 겨울 가장 마법같은 영화 '엔칸토: 마법의 세계' 오픈 프로모션]]></title>
         <id>https://serieson.naver.com/events/20009?productType=movie</id>
@@ -83,6 +76,13 @@
         <content type="html"><![CDATA[<a href="/events/20016?productType=movie" class="" onclick="nclk(this, 'mov.list', '20016', '');">📙뉴욕에서 쓰는 인생의 첫 페이지! '마이 뉴욕 다이어리' 경품 이벤트</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[🎄갓벽한 연말연초를 보내는 최고의 방법! 시리즈온 무료 영화 확인하세요~]]></title>
+        <id>https://serieson.naver.com/events/20010?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20010?productType=movie"/>
+        <updated>2021-12-30T04:59:20.870Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20010?productType=movie" class="" onclick="nclk(this, 'mov.list', '20010', '');">🎄갓벽한 연말연초를 보내는 최고의 방법! 시리즈온 무료 영화 확인하세요~</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[❄️영화만 봤는데 올라프 굿즈가 선물로? 디즈니와 함께하는 ‘해피 홀리데이’ 이벤트 중!]]></title>
         <id>https://serieson.naver.com/events/20011?productType=movie</id>
         <link href="https://serieson.naver.com/events/20011?productType=movie"/>
@@ -90,10 +90,10 @@
         <content type="html"><![CDATA[<a href="/events/20011?productType=movie" class="" onclick="nclk(this, 'mov.list', '20011', '');">❄️영화만 봤는데 올라프 굿즈가 선물로? 디즈니와 함께하는 ‘해피 홀리데이’ 이벤트 중!</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[🎄갓벽한 연말연초를 보내는 최고의 방법! 시리즈온 무료 영화 확인하세요~]]></title>
-        <id>https://serieson.naver.com/events/20010?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20010?productType=movie"/>
-        <updated>2021-12-30T04:59:20.870Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20010?productType=movie" class="" onclick="nclk(this, 'mov.list', '20010', '');">🎄갓벽한 연말연초를 보내는 최고의 방법! 시리즈온 무료 영화 확인하세요~</a>]]></content>
+        <title type="html"><![CDATA[22년 1월 우수 이용자! 꼭 확인해보자!]]></title>
+        <id>https://serieson.naver.com/events/20026?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20026?productType=movie"/>
+        <updated>2021-12-31T15:03:14.166Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20026?productType=movie" class="" onclick="nclk(this, 'mov.list', '20026', '');">22년 1월 우수 이용자! 꼭 확인해보자!</a>]]></content>
     </entry>
 </feed>
