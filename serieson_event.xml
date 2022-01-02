@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-01-02T14:03:00.314Z</updated>
+    <updated>2022-01-02T15:02:24.825Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
     <entry>
@@ -11,13 +11,6 @@
         <link href="https://serieson.naver.com/events/20009?productType=movie"/>
         <updated>2021-12-30T04:59:20.855Z</updated>
         <content type="html"><![CDATA[<a href="/events/20009?productType=movie" class="" onclick="nclk(this, 'mov.list', '20009', '');">✨올 겨울 가장 마법같은 영화 '엔칸토: 마법의 세계' 오픈 프로모션</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🔥22년에도 시리즈온과 함께! 쿠폰 피버 핫타임!]]></title>
-        <id>https://serieson.naver.com/events/20023?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20023?productType=movie"/>
-        <updated>2021-12-30T16:03:59.684Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20023?productType=movie" class="" onclick="nclk(this, 'mov.list', '20023', '');">🔥22년에도 시리즈온과 함께! 쿠폰 피버 핫타임!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[⏱뷰티 인사이드와 존 윅이 만난 신선도 맥스 '유체이탈자' 시리즈온 오픈!]]></title>
@@ -60,13 +53,6 @@
         <link href="https://serieson.naver.com/events/20015?productType=movie"/>
         <updated>2021-12-30T04:59:20.864Z</updated>
         <content type="html"><![CDATA[<a href="/events/20015?productType=movie" class="" onclick="nclk(this, 'mov.list', '20015', '');">CJ X 시리즈온👀 특급 쿠폰과 함께 할인가로 즐겨요!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[📌연말은 스파이더맨 & 베놈과 함께! SONY 특급 이벤트 오픈!]]></title>
-        <id>https://serieson.naver.com/events/20008?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20008?productType=movie"/>
-        <updated>2021-12-30T04:59:20.865Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20008?productType=movie" class="" onclick="nclk(this, 'mov.list', '20008', '');">📌연말은 스파이더맨 &amp; 베놈과 함께! SONY 특급 이벤트 오픈!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[📙뉴욕에서 쓰는 인생의 첫 페이지! '마이 뉴욕 다이어리' 경품 이벤트]]></title>

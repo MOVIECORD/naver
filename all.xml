@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Jan 2022 14:03:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Jan 2022 15:02:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -996,13 +996,6 @@
             <content:encoded><![CDATA[<a href="/events/20009?productType=movie" class="" onclick="nclk(this, 'mov.list', '20009', '');">✨올 겨울 가장 마법같은 영화 '엔칸토: 마법의 세계' 오픈 프로모션</a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[🔥22년에도 시리즈온과 함께! 쿠폰 피버 핫타임! ([시리즈온] 이벤트)]]></title>
-            <link>https://serieson.naver.com/events/20023?productType=movie</link>
-            <guid>https://serieson.naver.com/events/20023?productType=movie</guid>
-            <pubDate>Thu, 30 Dec 2021 16:03:59 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/20023?productType=movie" class="" onclick="nclk(this, 'mov.list', '20023', '');">🔥22년에도 시리즈온과 함께! 쿠폰 피버 핫타임!</a>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[⏱뷰티 인사이드와 존 윅이 만난 신선도 맥스 '유체이탈자' 시리즈온 오픈! ([시리즈온] 이벤트)]]></title>
             <link>https://serieson.naver.com/events/20005?productType=movie</link>
             <guid>https://serieson.naver.com/events/20005?productType=movie</guid>
@@ -1043,13 +1036,6 @@
             <guid>https://serieson.naver.com/events/20015?productType=movie</guid>
             <pubDate>Thu, 30 Dec 2021 04:59:20 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/events/20015?productType=movie" class="" onclick="nclk(this, 'mov.list', '20015', '');">CJ X 시리즈온👀 특급 쿠폰과 함께 할인가로 즐겨요!</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[📌연말은 스파이더맨 & 베놈과 함께! SONY 특급 이벤트 오픈! ([시리즈온] 이벤트)]]></title>
-            <link>https://serieson.naver.com/events/20008?productType=movie</link>
-            <guid>https://serieson.naver.com/events/20008?productType=movie</guid>
-            <pubDate>Thu, 30 Dec 2021 04:59:20 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/20008?productType=movie" class="" onclick="nclk(this, 'mov.list', '20008', '');">📌연말은 스파이더맨 &amp; 베놈과 함께! SONY 특급 이벤트 오픈!</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[📙뉴욕에서 쓰는 인생의 첫 페이지! '마이 뉴욕 다이어리' 경품 이벤트 ([시리즈온] 이벤트)]]></title>
