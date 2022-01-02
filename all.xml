@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Jan 2022 19:02:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Jan 2022 20:02:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -716,17 +716,17 @@
             <enclosure url="https://movie-phinf.pstatic.net/20191028_202/15722268699153zHt3_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[블랙머니 ([시리즈온] 천원관)]]></title>
-            <link>https://serieson.naver.com/v2/movie/335615</link>
-            <guid>https://serieson.naver.com/v2/movie/335615</guid>
+            <title><![CDATA[블랙머니 (가치봄영화:시청각장.. ([시리즈온] 천원관)]]></title>
+            <link>https://serieson.naver.com/v2/movie/371673</link>
+            <guid>https://serieson.naver.com/v2/movie/371673</guid>
             <pubDate>Thu, 30 Dec 2021 04:59:05 GMT</pubDate>
             <content:encoded><![CDATA[대여]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20191113_203/1573610067050zNCj1_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[블랙머니 (가치봄영화:시청각장.. ([시리즈온] 천원관)]]></title>
-            <link>https://serieson.naver.com/v2/movie/371673</link>
-            <guid>https://serieson.naver.com/v2/movie/371673</guid>
+            <title><![CDATA[블랙머니 ([시리즈온] 천원관)]]></title>
+            <link>https://serieson.naver.com/v2/movie/335615</link>
+            <guid>https://serieson.naver.com/v2/movie/335615</guid>
             <pubDate>Thu, 30 Dec 2021 04:59:05 GMT</pubDate>
             <content:encoded><![CDATA[대여]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20191113_203/1573610067050zNCj1_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
