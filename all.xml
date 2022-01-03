@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jan 2022 20:02:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jan 2022 21:02:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -481,7 +481,7 @@
             <title><![CDATA[더 파더 ([시리즈온] 할인 영화관)]]></title>
             <link>https://serieson.naver.com/v2/movie/436412</link>
             <guid>https://serieson.naver.com/v2/movie/436412</guid>
-            <pubDate>Mon, 03 Jan 2022 20:02:05 GMT</pubDate>
+            <pubDate>Mon, 03 Jan 2022 20:01:56 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/v2/movie/436412" class="NPI=a:content" title="더 파더 ">
 		<span class="mask"></span>
 		
@@ -556,7 +556,7 @@
             <title><![CDATA[더 파더 ([시리즈온] 천원관)]]></title>
             <link>https://serieson.naver.com/v2/movie/436412</link>
             <guid>https://serieson.naver.com/v2/movie/436412</guid>
-            <pubDate>Mon, 03 Jan 2022 20:02:13 GMT</pubDate>
+            <pubDate>Mon, 03 Jan 2022 20:01:56 GMT</pubDate>
             <content:encoded><![CDATA[대여]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20210323_50/1616476169545z5HcO_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
@@ -652,7 +652,7 @@
             <title><![CDATA[라라걸 ([시리즈온] 천원관)]]></title>
             <link>https://serieson.naver.com/v2/movie/371143</link>
             <guid>https://serieson.naver.com/v2/movie/371143</guid>
-            <pubDate>Mon, 03 Jan 2022 20:02:13 GMT</pubDate>
+            <pubDate>Mon, 03 Jan 2022 20:01:56 GMT</pubDate>
             <content:encoded><![CDATA[대여]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20200325_18/1585107103550sVyVU_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
