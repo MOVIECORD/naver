@@ -4,7 +4,7 @@
         <title>[시리즈온] 할인 영화관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jan 2022 15:02:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jan 2022 16:03:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -294,17 +294,6 @@
             <enclosure url="https://tvstore-phinf.pstatic.net/20210623_261/1624425567386pgigc_JPEG/CONJURING_TDMMDI_PVOD_STD_V_DD_KA_TT_2160x2880_300dpi_KR.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[19
-			
-			
-			캐시트럭]]></title>
-            <link>https://serieson.naver.com/v2/movie/447253</link>
-            <guid>https://serieson.naver.com/v2/movie/447253</guid>
-            <pubDate>Fri, 31 Dec 2021 16:03:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span>1,250</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20210610_47/1623286504396SomKE_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[크루엘라 (패키지: 자막판+더빙..]]></title>
             <link>https://serieson.naver.com/v2/movie/445793</link>
             <guid>https://serieson.naver.com/v2/movie/445793</guid>
@@ -402,6 +391,14 @@
 				
 			</p>]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20210323_50/1616476169545z5HcO_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[라야와 마지막 드래곤 (패키지..]]></title>
+            <link>https://serieson.naver.com/v2/movie/433004</link>
+            <guid>https://serieson.naver.com/v2/movie/433004</guid>
+            <pubDate>Mon, 03 Jan 2022 16:03:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span>5,005</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20210518_285/1621263755963icaD4_JPEG/raya_and_the_last_dragon_kr_main_b_210330.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
