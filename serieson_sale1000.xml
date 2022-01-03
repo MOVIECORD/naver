@@ -1,8 +1,211 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://serieson.naver.com/movie/categoryList.nhn?categoryCode=300007</id>
-    <title>[시리즈온] 천원관</title>
-    <updated>2022-01-03T19:02:00.483Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://serieson.naver.com/movie/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>[시리즈온] 천원관</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 03 Jan 2022 20:02:33 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[더 파더]]></title>
+            <link>https://serieson.naver.com/v2/movie/436412</link>
+            <guid>https://serieson.naver.com/v2/movie/436412</guid>
+            <pubDate>Mon, 03 Jan 2022 20:02:13 GMT</pubDate>
+            <content:encoded><![CDATA[대여]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20210323_50/1616476169545z5HcO_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마이 미씽 발렌타인]]></title>
+            <link>https://serieson.naver.com/v2/movie/422752</link>
+            <guid>https://serieson.naver.com/v2/movie/422752</guid>
+            <pubDate>Mon, 03 Jan 2022 20:02:13 GMT</pubDate>
+            <content:encoded><![CDATA[대여]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20210104_262/1609726445748nxzg9_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[종이꽃]]></title>
+            <link>https://serieson.naver.com/v2/movie/407120</link>
+            <guid>https://serieson.naver.com/v2/movie/407120</guid>
+            <pubDate>Mon, 03 Jan 2022 20:02:13 GMT</pubDate>
+            <content:encoded><![CDATA[대여]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20200922_187/1600766020751jJdur_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[교실 안의 야크]]></title>
+            <link>https://serieson.naver.com/v2/movie/410678</link>
+            <guid>https://serieson.naver.com/v2/movie/410678</guid>
+            <pubDate>Mon, 03 Jan 2022 20:02:13 GMT</pubDate>
+            <content:encoded><![CDATA[대여]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20200910_92/1599711981305fdQMq_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다시 만난 날들]]></title>
+            <link>https://serieson.naver.com/v2/movie/407122</link>
+            <guid>https://serieson.naver.com/v2/movie/407122</guid>
+            <pubDate>Mon, 03 Jan 2022 20:02:13 GMT</pubDate>
+            <content:encoded><![CDATA[대여]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20200917_279/1600307438633Dai1n_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나를 구하지 마세요]]></title>
+            <link>https://serieson.naver.com/v2/movie/400758</link>
+            <guid>https://serieson.naver.com/v2/movie/400758</guid>
+            <pubDate>Mon, 03 Jan 2022 20:02:13 GMT</pubDate>
+            <content:encoded><![CDATA[대여]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20200828_264/1598606865588n9WXo_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[69세]]></title>
+            <link>https://serieson.naver.com/v2/movie/400137</link>
+            <guid>https://serieson.naver.com/v2/movie/400137</guid>
+            <pubDate>Mon, 03 Jan 2022 20:02:13 GMT</pubDate>
+            <content:encoded><![CDATA[대여]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20200804_267/1596505576712zw2dt_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소년시절의 너]]></title>
+            <link>https://serieson.naver.com/v2/movie/392036</link>
+            <guid>https://serieson.naver.com/v2/movie/392036</guid>
+            <pubDate>Mon, 03 Jan 2022 20:02:13 GMT</pubDate>
+            <content:encoded><![CDATA[대여]]></content:encoded>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20200825_91/1598342584173UBqqV_JPEG/BD_MNPO_.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[너는 달밤에 빛나고]]></title>
+            <link>https://serieson.naver.com/v2/movie/382751</link>
+            <guid>https://serieson.naver.com/v2/movie/382751</guid>
+            <pubDate>Mon, 03 Jan 2022 20:02:13 GMT</pubDate>
+            <content:encoded><![CDATA[대여]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20200522_230/1590125376715JeW0r_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[카페 벨에포크]]></title>
+            <link>https://serieson.naver.com/v2/movie/374978</link>
+            <guid>https://serieson.naver.com/v2/movie/374978</guid>
+            <pubDate>Mon, 03 Jan 2022 20:02:13 GMT</pubDate>
+            <content:encoded><![CDATA[대여]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20200513_255/1589352192563Cb3mX_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[고양이 집사]]></title>
+            <link>https://serieson.naver.com/v2/movie/377528</link>
+            <guid>https://serieson.naver.com/v2/movie/377528</guid>
+            <pubDate>Mon, 03 Jan 2022 20:02:13 GMT</pubDate>
+            <content:encoded><![CDATA[대여]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20200427_139/1587954977691kaCua_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[애프터 웨딩 인 뉴욕]]></title>
+            <link>https://serieson.naver.com/v2/movie/371784</link>
+            <guid>https://serieson.naver.com/v2/movie/371784</guid>
+            <pubDate>Mon, 03 Jan 2022 20:02:13 GMT</pubDate>
+            <content:encoded><![CDATA[대여]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20200325_124/1585104977889IXrqR_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[라라걸]]></title>
+            <link>https://serieson.naver.com/v2/movie/371143</link>
+            <guid>https://serieson.naver.com/v2/movie/371143</guid>
+            <pubDate>Mon, 03 Jan 2022 20:02:13 GMT</pubDate>
+            <content:encoded><![CDATA[대여]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20200325_18/1585107103550sVyVU_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[주디]]></title>
+            <link>https://serieson.naver.com/v2/movie/366666</link>
+            <guid>https://serieson.naver.com/v2/movie/366666</guid>
+            <pubDate>Mon, 03 Jan 2022 20:02:13 GMT</pubDate>
+            <content:encoded><![CDATA[대여]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20200313_59/1584086196479WLA9j_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이장]]></title>
+            <link>https://serieson.naver.com/v2/movie/372791</link>
+            <guid>https://serieson.naver.com/v2/movie/372791</guid>
+            <pubDate>Mon, 03 Jan 2022 20:02:13 GMT</pubDate>
+            <content:encoded><![CDATA[대여]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20200310_275/1583820865612VfIMX_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다크 워터스]]></title>
+            <link>https://serieson.naver.com/v2/movie/364946</link>
+            <guid>https://serieson.naver.com/v2/movie/364946</guid>
+            <pubDate>Mon, 03 Jan 2022 20:02:13 GMT</pubDate>
+            <content:encoded><![CDATA[대여]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20200219_277/15820765775925k14P_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[1917]]></title>
+            <link>https://serieson.naver.com/v2/movie/364425</link>
+            <guid>https://serieson.naver.com/v2/movie/364425</guid>
+            <pubDate>Mon, 03 Jan 2022 20:02:13 GMT</pubDate>
+            <content:encoded><![CDATA[대여]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20200212_161/1581489520959v0cjn_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[파비안느에 관한 진실]]></title>
+            <link>https://serieson.naver.com/v2/movie/367077</link>
+            <guid>https://serieson.naver.com/v2/movie/367077</guid>
+            <pubDate>Mon, 03 Jan 2022 20:02:13 GMT</pubDate>
+            <content:encoded><![CDATA[대여]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20191106_121/1573001259052YGdvh_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[너의 여자친구]]></title>
+            <link>https://serieson.naver.com/v2/movie/334559</link>
+            <guid>https://serieson.naver.com/v2/movie/334559</guid>
+            <pubDate>Mon, 03 Jan 2022 20:02:13 GMT</pubDate>
+            <content:encoded><![CDATA[구매]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20191111_109/1573460854635gWmli_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[헤로니모]]></title>
+            <link>https://serieson.naver.com/v2/movie/335617</link>
+            <guid>https://serieson.naver.com/v2/movie/335617</guid>
+            <pubDate>Mon, 03 Jan 2022 20:02:13 GMT</pubDate>
+            <content:encoded><![CDATA[대여]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20191028_202/15722268699153zHt3_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[블랙머니 (가치봄영화:시청각장..]]></title>
+            <link>https://serieson.naver.com/v2/movie/371673</link>
+            <guid>https://serieson.naver.com/v2/movie/371673</guid>
+            <pubDate>Mon, 03 Jan 2022 20:02:13 GMT</pubDate>
+            <content:encoded><![CDATA[대여]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20191113_203/1573610067050zNCj1_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[블랙머니]]></title>
+            <link>https://serieson.naver.com/v2/movie/335615</link>
+            <guid>https://serieson.naver.com/v2/movie/335615</guid>
+            <pubDate>Mon, 03 Jan 2022 20:02:13 GMT</pubDate>
+            <content:encoded><![CDATA[대여]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20191113_203/1573610067050zNCj1_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[니나 내나]]></title>
+            <link>https://serieson.naver.com/v2/movie/330916</link>
+            <guid>https://serieson.naver.com/v2/movie/330916</guid>
+            <pubDate>Mon, 03 Jan 2022 20:02:13 GMT</pubDate>
+            <content:encoded><![CDATA[대여]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20190930_289/1569807701952m4QR2_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시크릿 슈퍼스타]]></title>
+            <link>https://serieson.naver.com/v2/movie/329509</link>
+            <guid>https://serieson.naver.com/v2/movie/329509</guid>
+            <pubDate>Mon, 03 Jan 2022 20:02:13 GMT</pubDate>
+            <content:encoded><![CDATA[대여]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20190927_8/1569550909963dbsdI_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[메기]]></title>
+            <link>https://serieson.naver.com/v2/movie/327831</link>
+            <guid>https://serieson.naver.com/v2/movie/327831</guid>
+            <pubDate>Mon, 03 Jan 2022 20:02:13 GMT</pubDate>
+            <content:encoded><![CDATA[구매]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20190903_89/1567472276429VUl4Y_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
