@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jan 2022 15:02:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jan 2022 16:03:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -710,17 +710,17 @@
             <enclosure url="https://movie-phinf.pstatic.net/20191028_202/15722268699153zHt3_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[블랙머니 (가치봄영화:시청각장.. ([시리즈온] 천원관)]]></title>
-            <link>https://serieson.naver.com/v2/movie/371673</link>
-            <guid>https://serieson.naver.com/v2/movie/371673</guid>
+            <title><![CDATA[블랙머니 ([시리즈온] 천원관)]]></title>
+            <link>https://serieson.naver.com/v2/movie/335615</link>
+            <guid>https://serieson.naver.com/v2/movie/335615</guid>
             <pubDate>Mon, 03 Jan 2022 20:02:13 GMT</pubDate>
             <content:encoded><![CDATA[대여]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20191113_203/1573610067050zNCj1_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[블랙머니 ([시리즈온] 천원관)]]></title>
-            <link>https://serieson.naver.com/v2/movie/335615</link>
-            <guid>https://serieson.naver.com/v2/movie/335615</guid>
+            <title><![CDATA[블랙머니 (가치봄영화:시청각장.. ([시리즈온] 천원관)]]></title>
+            <link>https://serieson.naver.com/v2/movie/371673</link>
+            <guid>https://serieson.naver.com/v2/movie/371673</guid>
             <pubDate>Mon, 03 Jan 2022 20:02:13 GMT</pubDate>
             <content:encoded><![CDATA[대여]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20191113_203/1573610067050zNCj1_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
@@ -983,18 +983,18 @@
             <enclosure url="https://movie-phinf.pstatic.net/20200515_153/1589521029136pyDNk_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[👻우리 보고 싶었어? 심쿵 어택 특급 굿즈와 함께 '고스트 버스터즈 라이즈' 시리즈온 오픈! ([시리즈온] 이벤트)]]></title>
+            <link>https://serieson.naver.com/events/20029?productType=movie</link>
+            <guid>https://serieson.naver.com/events/20029?productType=movie</guid>
+            <pubDate>Tue, 04 Jan 2022 16:03:47 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/events/20029?productType=movie" class="" onclick="nclk(this, 'mov.list', '20029', '');">👻우리 보고 싶었어? 심쿵 어택 특급 굿즈와 함께 '고스트 버스터즈 라이즈' 시리즈온 오픈!</a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[🤖올 겨울 마음을 울리는 바로 그 애니! '고장난 론' 오픈 이벤트 ([시리즈온] 이벤트)]]></title>
             <link>https://serieson.naver.com/events/20025?productType=movie</link>
             <guid>https://serieson.naver.com/events/20025?productType=movie</guid>
             <pubDate>Tue, 04 Jan 2022 15:02:55 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/events/20025?productType=movie" class="" onclick="nclk(this, 'mov.list', '20025', '');">🤖올 겨울 마음을 울리는 바로 그 애니! '고장난 론' 오픈 이벤트</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[✨올 겨울 가장 마법같은 영화 '엔칸토: 마법의 세계' 오픈 프로모션 ([시리즈온] 이벤트)]]></title>
-            <link>https://serieson.naver.com/events/20009?productType=movie</link>
-            <guid>https://serieson.naver.com/events/20009?productType=movie</guid>
-            <pubDate>Mon, 03 Jan 2022 20:02:33 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/20009?productType=movie" class="" onclick="nclk(this, 'mov.list', '20009', '');">✨올 겨울 가장 마법같은 영화 '엔칸토: 마법의 세계' 오픈 프로모션</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[😎힙한 바로 그 호러! '라스트 나잇 인 소호' 시리즈온 입점! ([시리즈온] 이벤트)]]></title>
@@ -1009,6 +1009,13 @@
             <guid>https://serieson.naver.com/events/20028?productType=movie</guid>
             <pubDate>Tue, 04 Jan 2022 15:02:55 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/events/20028?productType=movie" class="" onclick="nclk(this, 'mov.list', '20028', '');">🖤진짜 ‘유태오’ 의 세계로 지금 LOG IN! ‘로그 인 벨지움’ 오픈!</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[✨올 겨울 가장 마법같은 영화 '엔칸토: 마법의 세계' 오픈 프로모션 ([시리즈온] 이벤트)]]></title>
+            <link>https://serieson.naver.com/events/20009?productType=movie</link>
+            <guid>https://serieson.naver.com/events/20009?productType=movie</guid>
+            <pubDate>Mon, 03 Jan 2022 20:02:33 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/events/20009?productType=movie" class="" onclick="nclk(this, 'mov.list', '20009', '');">✨올 겨울 가장 마법같은 영화 '엔칸토: 마법의 세계' 오픈 프로모션</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[자유, 돈, 명예를 위해 피부를 팔겠습니까? 날카로운 아트 스릴러 ‘피부를 판 남자‘ 오픈! ([시리즈온] 이벤트)]]></title>
