@@ -4,9 +4,17 @@
         <title>[시리즈온] 할인 영화관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jan 2022 14:02:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jan 2022 15:02:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[고스트버스터즈 라이즈 (세트:..]]></title>
+            <link>https://serieson.naver.com/v2/movie/479292</link>
+            <guid>https://serieson.naver.com/v2/movie/479292</guid>
+            <pubDate>Tue, 04 Jan 2022 15:02:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span>9,900</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20211111_55/163661684693985n5R_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[더빙
 			된다! 뭐든! 무서울 뻔~한..]]></title>
@@ -24,25 +32,6 @@
             <pubDate>Mon, 03 Jan 2022 20:02:05 GMT</pubDate>
             <content:encoded><![CDATA[<span>5,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
             <enclosure url="https://tvstore-phinf.pstatic.net/20211222_96/16401772530894OmkM_JPEG/-__.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자막
-			
-			미첼 가족과 기계 전쟁]]></title>
-            <link>https://serieson.naver.com/v2/movie/476279</link>
-            <guid>https://serieson.naver.com/v2/movie/476279</guid>
-            <pubDate>Mon, 03 Jan 2022 20:02:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2,800</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20211206_137/1638769611123w2kzJ_JPEG/DP_6322394_TheMitchellsVsTheMachines_2000x3000_KR.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더빙
-			미첼 가족과 기계 전쟁]]></title>
-            <link>https://serieson.naver.com/v2/movie/476281</link>
-            <guid>https://serieson.naver.com/v2/movie/476281</guid>
-            <pubDate>Mon, 03 Jan 2022 20:02:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2,800</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20211206_137/1638769611123w2kzJ_JPEG/DP_6322394_TheMitchellsVsTheMachines_2000x3000_KR.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[샹치와 텐 링즈의 전설 (패키지..]]></title>
@@ -244,6 +233,14 @@
             <pubDate>Mon, 03 Jan 2022 20:02:05 GMT</pubDate>
             <content:encoded><![CDATA[<span>9,600</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
             <enclosure url="https://tvstore-phinf.pstatic.net/20210826_36/1629943964659nTdae_JPEG/2__0714.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박강아름 결혼하다]]></title>
+            <link>https://serieson.naver.com/v2/movie/460823</link>
+            <guid>https://serieson.naver.com/v2/movie/460823</guid>
+            <pubDate>Tue, 04 Jan 2022 15:02:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span>1,250</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20210728_28/1627439703275B2rW9_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[해리 포터와 마법사의 돌: 매지..]]></title>
