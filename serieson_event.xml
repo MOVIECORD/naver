@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-01-05T14:02:58.487Z</updated>
+    <updated>2022-01-05T15:02:38.749Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
     <entry>
@@ -67,13 +67,6 @@
         <link href="https://serieson.naver.com/events/20020?productType=movie"/>
         <updated>2022-01-03T20:02:33.309Z</updated>
         <content type="html"><![CDATA[<a href="/events/20020?productType=movie" class="" onclick="nclk(this, 'mov.list', '20020', '');">👂당신은 좋은 리스너 인가요? 전세계를 울린 ‘리슨‘은 지금 시리즈온에서!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CJ X 시리즈온👀 특급 쿠폰과 함께 할인가로 즐겨요!]]></title>
-        <id>https://serieson.naver.com/events/20015?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20015?productType=movie"/>
-        <updated>2022-01-03T20:02:33.310Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20015?productType=movie" class="" onclick="nclk(this, 'mov.list', '20015', '');">CJ X 시리즈온👀 특급 쿠폰과 함께 할인가로 즐겨요!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[📙뉴욕에서 쓰는 인생의 첫 페이지! '마이 뉴욕 다이어리' 경품 이벤트]]></title>
