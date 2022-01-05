@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-01-05T07:03:26.367Z</updated>
+    <updated>2022-01-05T08:03:32.781Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
     <entry>
@@ -55,6 +55,13 @@
         <content type="html"><![CDATA[<a href="/events/20021?productType=movie" class="" onclick="nclk(this, 'mov.list', '20021', '');">😎유쾌한 놈들과의 위험한 동행 '픽시' 오픈 프로모션</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[❄️영화만 봤는데 올라프 굿즈가 선물로? 디즈니와 함께하는 ‘해피 홀리데이’ 이벤트 중!]]></title>
+        <id>https://serieson.naver.com/events/20011?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20011?productType=movie"/>
+        <updated>2022-01-03T20:02:33.315Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20011?productType=movie" class="" onclick="nclk(this, 'mov.list', '20011', '');">❄️영화만 봤는데 올라프 굿즈가 선물로? 디즈니와 함께하는 ‘해피 홀리데이’ 이벤트 중!</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[👂당신은 좋은 리스너 인가요? 전세계를 울린 ‘리슨‘은 지금 시리즈온에서!]]></title>
         <id>https://serieson.naver.com/events/20020?productType=movie</id>
         <link href="https://serieson.naver.com/events/20020?productType=movie"/>
@@ -81,13 +88,6 @@
         <link href="https://serieson.naver.com/events/20010?productType=movie"/>
         <updated>2022-01-03T20:02:33.313Z</updated>
         <content type="html"><![CDATA[<a href="/events/20010?productType=movie" class="" onclick="nclk(this, 'mov.list', '20010', '');">🎄갓벽한 연말연초를 보내는 최고의 방법! 시리즈온 무료 영화 확인하세요~</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[❄️영화만 봤는데 올라프 굿즈가 선물로? 디즈니와 함께하는 ‘해피 홀리데이’ 이벤트 중!]]></title>
-        <id>https://serieson.naver.com/events/20011?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20011?productType=movie"/>
-        <updated>2022-01-03T20:02:33.315Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20011?productType=movie" class="" onclick="nclk(this, 'mov.list', '20011', '');">❄️영화만 봤는데 올라프 굿즈가 선물로? 디즈니와 함께하는 ‘해피 홀리데이’ 이벤트 중!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[22년 1월 우수 이용자! 꼭 확인해보자!]]></title>
