@@ -4,7 +4,7 @@
         <title>[시리즈온] 이주의 무료영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jan 2022 14:02:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jan 2022 15:02:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,22 +62,6 @@
             <enclosure url="https://movie-phinf.pstatic.net/20171218_205/1513571722256ULu6q_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[유열의 음악앨범]]></title>
-            <link>https://serieson.naver.com/v2/movie/317970</link>
-            <guid>https://serieson.naver.com/v2/movie/317970</guid>
-            <pubDate>Mon, 03 Jan 2022 20:01:56 GMT</pubDate>
-            <content:encoded><![CDATA[1월 6일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20190806_57/1565060277522KjSpd_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[건축학개론]]></title>
-            <link>https://serieson.naver.com/v2/movie/369079</link>
-            <guid>https://serieson.naver.com/v2/movie/369079</guid>
-            <pubDate>Mon, 03 Jan 2022 20:01:56 GMT</pubDate>
-            <content:encoded><![CDATA[1월 6일까지]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20211018_135/16345295192938hrvs_PNG/ONPOSTER_9..png?type=w320" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[명당]]></title>
             <link>https://serieson.naver.com/v2/movie/251339</link>
             <guid>https://serieson.naver.com/v2/movie/251339</guid>
@@ -98,42 +82,6 @@
             <pubDate>Mon, 03 Jan 2022 20:01:56 GMT</pubDate>
             <content:encoded><![CDATA[1월 13일까지]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20170727_16/1501119943001IhrLx_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[파이브 피트]]></title>
-            <link>https://serieson.naver.com/v2/movie/289707</link>
-            <guid>https://serieson.naver.com/v2/movie/289707</guid>
-            <pubDate>Mon, 03 Jan 2022 20:01:56 GMT</pubDate>
-            <content:encoded><![CDATA[1월 6일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20190405_72/155444000594589QMA_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[19
-										
-											
-										
-										
-										
-											포르토]]></title>
-            <link>https://serieson.naver.com/v2/movie/222970</link>
-            <guid>https://serieson.naver.com/v2/movie/222970</guid>
-            <pubDate>Mon, 03 Jan 2022 20:01:56 GMT</pubDate>
-            <content:encoded><![CDATA[1월 6일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20171229_16/1514509184370Pe6k1_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[19
-										
-											
-										
-										
-										
-											로마 위드 러브]]></title>
-            <link>https://serieson.naver.com/v2/movie/39249</link>
-            <guid>https://serieson.naver.com/v2/movie/39249</guid>
-            <pubDate>Mon, 03 Jan 2022 20:01:56 GMT</pubDate>
-            <content:encoded><![CDATA[1월 6일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20200615_180/1592206351186TCyYk_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[돌로레스]]></title>
@@ -158,6 +106,58 @@
             <pubDate>Mon, 03 Jan 2022 20:01:56 GMT</pubDate>
             <content:encoded><![CDATA[1월 7일까지]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20201221_210/1608530645207eplhA_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스페셜 포스 : 라스트 타겟]]></title>
+            <link>https://serieson.naver.com/v2/movie/406368</link>
+            <guid>https://serieson.naver.com/v2/movie/406368</guid>
+            <pubDate>Thu, 06 Jan 2022 15:02:09 GMT</pubDate>
+            <content:encoded><![CDATA[1월 20일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20200702_206/1593653862487TbOIO_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[19
+										
+											
+										
+										
+										
+											독재자를 죽여라]]></title>
+            <link>https://serieson.naver.com/v2/movie/362062</link>
+            <guid>https://serieson.naver.com/v2/movie/362062</guid>
+            <pubDate>Thu, 06 Jan 2022 15:02:09 GMT</pubDate>
+            <content:encoded><![CDATA[1월 20일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20160121_26/1453360754183rcimB_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[어롱 더 로드사이드]]></title>
+            <link>https://serieson.naver.com/v2/movie/361005</link>
+            <guid>https://serieson.naver.com/v2/movie/361005</guid>
+            <pubDate>Thu, 06 Jan 2022 15:02:09 GMT</pubDate>
+            <content:encoded><![CDATA[1월 20일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20160729_118/1469769111713dAbWz_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스타: 빛나는 사랑]]></title>
+            <link>https://serieson.naver.com/v2/movie/264118</link>
+            <guid>https://serieson.naver.com/v2/movie/264118</guid>
+            <pubDate>Thu, 06 Jan 2022 15:02:09 GMT</pubDate>
+            <content:encoded><![CDATA[1월 20일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20120913_116/1347515106451HX09d_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[19
+										
+											
+										
+										
+										
+											더 리틀 아워즈]]></title>
+            <link>https://serieson.naver.com/v2/movie/233877</link>
+            <guid>https://serieson.naver.com/v2/movie/233877</guid>
+            <pubDate>Thu, 06 Jan 2022 15:02:09 GMT</pubDate>
+            <content:encoded><![CDATA[1월 20일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20180524_196/15271508119805btSL_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

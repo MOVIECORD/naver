@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-01-06T14:02:44.193Z</updated>
+    <updated>2022-01-06T15:02:49.310Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
     <entry>
@@ -20,18 +20,25 @@
         <content type="html"><![CDATA[<a href="/events/20029?productType=movie" class="" onclick="nclk(this, 'mov.list', '20029', '');">👻우리 보고 싶었어? 심쿵 어택 특급 굿즈와 함께 '고스트 버스터즈 라이즈' 시리즈온 오픈!</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[✍️작심삼일도 120번 하면 1년! 새해맞이 버킷리스트 한번 써볼까요?]]></title>
+        <id>https://serieson.naver.com/events/20032?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20032?productType=movie"/>
+        <updated>2022-01-06T15:02:48.669Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20032?productType=movie" class="" onclick="nclk(this, 'mov.list', '20032', '');">✍️작심삼일도 120번 하면 1년! 새해맞이 버킷리스트 한번 써볼까요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[❤️‘아멜리에 & 쁘띠마망’ 러블리 굿즈 이벤트 오픈!]]></title>
+        <id>https://serieson.naver.com/events/20031?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20031?productType=movie"/>
+        <updated>2022-01-06T15:02:48.671Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20031?productType=movie" class="" onclick="nclk(this, 'mov.list', '20031', '');">❤️‘아멜리에 &amp; 쁘띠마망’ 러블리 굿즈 이벤트 오픈!</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[🖤진짜 ‘유태오’ 의 세계로 지금 LOG IN! ‘로그 인 벨지움’ 오픈!]]></title>
         <id>https://serieson.naver.com/events/20028?productType=movie</id>
         <link href="https://serieson.naver.com/events/20028?productType=movie"/>
         <updated>2022-01-04T15:02:55.108Z</updated>
         <content type="html"><![CDATA[<a href="/events/20028?productType=movie" class="" onclick="nclk(this, 'mov.list', '20028', '');">🖤진짜 ‘유태오’ 의 세계로 지금 LOG IN! ‘로그 인 벨지움’ 오픈!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[✨올 겨울 가장 마법같은 영화 '엔칸토: 마법의 세계' 오픈 프로모션]]></title>
-        <id>https://serieson.naver.com/events/20009?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20009?productType=movie"/>
-        <updated>2022-01-03T20:02:33.305Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20009?productType=movie" class="" onclick="nclk(this, 'mov.list', '20009', '');">✨올 겨울 가장 마법같은 영화 '엔칸토: 마법의 세계' 오픈 프로모션</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[😎힙한 바로 그 호러! '라스트 나잇 인 소호' 시리즈온 입점!]]></title>
@@ -53,13 +60,6 @@
         <link href="https://serieson.naver.com/events/20021?productType=movie"/>
         <updated>2022-01-03T20:02:33.308Z</updated>
         <content type="html"><![CDATA[<a href="/events/20021?productType=movie" class="" onclick="nclk(this, 'mov.list', '20021', '');">😎유쾌한 놈들과의 위험한 동행 '픽시' 오픈 프로모션</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[❄️영화만 봤는데 올라프 굿즈가 선물로? 디즈니와 함께하는 ‘해피 홀리데이’ 이벤트 중!]]></title>
-        <id>https://serieson.naver.com/events/20011?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20011?productType=movie"/>
-        <updated>2022-01-03T20:02:33.315Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20011?productType=movie" class="" onclick="nclk(this, 'mov.list', '20011', '');">❄️영화만 봤는데 올라프 굿즈가 선물로? 디즈니와 함께하는 ‘해피 홀리데이’ 이벤트 중!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[👂당신은 좋은 리스너 인가요? 전세계를 울린 ‘리슨‘은 지금 시리즈온에서!]]></title>
