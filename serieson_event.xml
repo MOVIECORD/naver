@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-01-06T15:02:49.310Z</updated>
+    <updated>2022-01-06T16:04:07.134Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[⚡️마블의 새 역사를 쓸 태초의 히어로 군단! ‘이터널스’ 드디어 시리즈온 상륙!]]></title>
+        <id>https://serieson.naver.com/events/20033?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20033?productType=movie"/>
+        <updated>2022-01-06T16:04:06.478Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20033?productType=movie" class="" onclick="nclk(this, 'mov.list', '20033', '');">⚡️마블의 새 역사를 쓸 태초의 히어로 군단! ‘이터널스’ 드디어 시리즈온 상륙!</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🤖올 겨울 마음을 울리는 바로 그 애니! '고장난 론' 오픈 이벤트]]></title>
         <id>https://serieson.naver.com/events/20025?productType=movie</id>

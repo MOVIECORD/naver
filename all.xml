@@ -4,9 +4,61 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jan 2022 15:02:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jan 2022 16:04:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스페셜 포스 : 라스트 타겟 ([시리즈온] 이주의 무료영화)]]></title>
+            <link>https://serieson.naver.com/v2/movie/406368</link>
+            <guid>https://serieson.naver.com/v2/movie/406368</guid>
+            <pubDate>Thu, 06 Jan 2022 15:02:09 GMT</pubDate>
+            <content:encoded><![CDATA[1월 20일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20200702_206/1593653862487TbOIO_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[19
+										
+											
+										
+										
+										
+											독재자를 죽여라 ([시리즈온] 이주의 무료영화)]]></title>
+            <link>https://serieson.naver.com/v2/movie/362062</link>
+            <guid>https://serieson.naver.com/v2/movie/362062</guid>
+            <pubDate>Thu, 06 Jan 2022 15:02:09 GMT</pubDate>
+            <content:encoded><![CDATA[1월 20일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20160121_26/1453360754183rcimB_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[어롱 더 로드사이드 ([시리즈온] 이주의 무료영화)]]></title>
+            <link>https://serieson.naver.com/v2/movie/361005</link>
+            <guid>https://serieson.naver.com/v2/movie/361005</guid>
+            <pubDate>Thu, 06 Jan 2022 15:02:09 GMT</pubDate>
+            <content:encoded><![CDATA[1월 20일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20160729_118/1469769111713dAbWz_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스타: 빛나는 사랑 ([시리즈온] 이주의 무료영화)]]></title>
+            <link>https://serieson.naver.com/v2/movie/264118</link>
+            <guid>https://serieson.naver.com/v2/movie/264118</guid>
+            <pubDate>Thu, 06 Jan 2022 15:02:09 GMT</pubDate>
+            <content:encoded><![CDATA[1월 20일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20120913_116/1347515106451HX09d_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[19
+										
+											
+										
+										
+										
+											더 리틀 아워즈 ([시리즈온] 이주의 무료영화)]]></title>
+            <link>https://serieson.naver.com/v2/movie/233877</link>
+            <guid>https://serieson.naver.com/v2/movie/233877</guid>
+            <pubDate>Thu, 06 Jan 2022 15:02:09 GMT</pubDate>
+            <content:encoded><![CDATA[1월 20일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20180524_196/15271508119805btSL_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[더 파더 ([시리즈온] 이주의 무료영화)]]></title>
             <link>https://serieson.naver.com/v2/movie/436412</link>
@@ -106,58 +158,6 @@
             <pubDate>Mon, 03 Jan 2022 20:01:56 GMT</pubDate>
             <content:encoded><![CDATA[1월 7일까지]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20201221_210/1608530645207eplhA_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스페셜 포스 : 라스트 타겟 ([시리즈온] 이주의 무료영화)]]></title>
-            <link>https://serieson.naver.com/v2/movie/406368</link>
-            <guid>https://serieson.naver.com/v2/movie/406368</guid>
-            <pubDate>Thu, 06 Jan 2022 15:02:09 GMT</pubDate>
-            <content:encoded><![CDATA[1월 20일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20200702_206/1593653862487TbOIO_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[19
-										
-											
-										
-										
-										
-											독재자를 죽여라 ([시리즈온] 이주의 무료영화)]]></title>
-            <link>https://serieson.naver.com/v2/movie/362062</link>
-            <guid>https://serieson.naver.com/v2/movie/362062</guid>
-            <pubDate>Thu, 06 Jan 2022 15:02:09 GMT</pubDate>
-            <content:encoded><![CDATA[1월 20일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20160121_26/1453360754183rcimB_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어롱 더 로드사이드 ([시리즈온] 이주의 무료영화)]]></title>
-            <link>https://serieson.naver.com/v2/movie/361005</link>
-            <guid>https://serieson.naver.com/v2/movie/361005</guid>
-            <pubDate>Thu, 06 Jan 2022 15:02:09 GMT</pubDate>
-            <content:encoded><![CDATA[1월 20일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20160729_118/1469769111713dAbWz_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스타: 빛나는 사랑 ([시리즈온] 이주의 무료영화)]]></title>
-            <link>https://serieson.naver.com/v2/movie/264118</link>
-            <guid>https://serieson.naver.com/v2/movie/264118</guid>
-            <pubDate>Thu, 06 Jan 2022 15:02:09 GMT</pubDate>
-            <content:encoded><![CDATA[1월 20일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20120913_116/1347515106451HX09d_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[19
-										
-											
-										
-										
-										
-											더 리틀 아워즈 ([시리즈온] 이주의 무료영화)]]></title>
-            <link>https://serieson.naver.com/v2/movie/233877</link>
-            <guid>https://serieson.naver.com/v2/movie/233877</guid>
-            <pubDate>Thu, 06 Jan 2022 15:02:09 GMT</pubDate>
-            <content:encoded><![CDATA[1월 20일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20180524_196/15271508119805btSL_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[고스트버스터즈 라이즈(세트: .. ([시리즈온] 할인 영화관)]]></title>
@@ -441,7 +441,7 @@
             <title><![CDATA[아멜리에 ([시리즈온] 천원관)]]></title>
             <link>https://serieson.naver.com/v2/movie/464225</link>
             <guid>https://serieson.naver.com/v2/movie/464225</guid>
-            <pubDate>Thu, 06 Jan 2022 15:02:30 GMT</pubDate>
+            <pubDate>Thu, 06 Jan 2022 15:02:17 GMT</pubDate>
             <content:encoded><![CDATA[구매]]></content:encoded>
             <enclosure url="https://tvstore-phinf.pstatic.net/20211215_59/1639548396861gSznN_JPEG/Amelie_teaser_01.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
@@ -449,7 +449,7 @@
             <title><![CDATA[플로렌스 ([시리즈온] 천원관)]]></title>
             <link>https://serieson.naver.com/v2/movie/462825</link>
             <guid>https://serieson.naver.com/v2/movie/462825</guid>
-            <pubDate>Thu, 06 Jan 2022 15:02:30 GMT</pubDate>
+            <pubDate>Thu, 06 Jan 2022 15:02:17 GMT</pubDate>
             <content:encoded><![CDATA[구매]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20160725_196/1469422765200RJrJ8_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
@@ -823,6 +823,13 @@
             <content:encoded><![CDATA[<em class="">대여</em>
 					<strong class="payment"><span>5,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20210831_152/1630371935224qy9s6_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[⚡️마블의 새 역사를 쓸 태초의 히어로 군단! ‘이터널스’ 드디어 시리즈온 상륙! ([시리즈온] 이벤트)]]></title>
+            <link>https://serieson.naver.com/events/20033?productType=movie</link>
+            <guid>https://serieson.naver.com/events/20033?productType=movie</guid>
+            <pubDate>Thu, 06 Jan 2022 16:04:06 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/events/20033?productType=movie" class="" onclick="nclk(this, 'mov.list', '20033', '');">⚡️마블의 새 역사를 쓸 태초의 히어로 군단! ‘이터널스’ 드디어 시리즈온 상륙!</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[🤖올 겨울 마음을 울리는 바로 그 애니! '고장난 론' 오픈 이벤트 ([시리즈온] 이벤트)]]></title>
