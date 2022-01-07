@@ -4,7 +4,7 @@
         <title>[시리즈온] 이주의 무료영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jan 2022 15:02:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jan 2022 16:03:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -52,6 +52,14 @@
             <pubDate>Thu, 06 Jan 2022 15:02:09 GMT</pubDate>
             <content:encoded><![CDATA[1월 20일까지]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20160121_26/1453360754183rcimB_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[어롱 더 로드사이드]]></title>
+            <link>https://serieson.naver.com/v2/movie/361005</link>
+            <guid>https://serieson.naver.com/v2/movie/361005</guid>
+            <pubDate>Fri, 07 Jan 2022 16:03:26 GMT</pubDate>
+            <content:encoded><![CDATA[1월 20일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20160729_118/1469769111713dAbWz_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스타: 빛나는 사랑]]></title>
@@ -150,19 +158,6 @@
             <pubDate>Mon, 03 Jan 2022 20:01:56 GMT</pubDate>
             <content:encoded><![CDATA[1월 13일까지]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20190502_165/15567651669727M27L_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[19
-										
-											
-										
-										
-										
-											배틀 스쿨]]></title>
-            <link>https://serieson.naver.com/movie/freeMovieList.nhn</link>
-            <guid>https://serieson.naver.com/movie/freeMovieList.nhn</guid>
-            <pubDate>Fri, 07 Jan 2022 15:02:13 GMT</pubDate>
-            <content:encoded><![CDATA[오픈예정]]></content:encoded>
         </item>
     </channel>
 </rss>

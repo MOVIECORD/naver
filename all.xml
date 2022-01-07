@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jan 2022 15:02:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jan 2022 16:03:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -52,6 +52,14 @@
             <pubDate>Thu, 06 Jan 2022 15:02:09 GMT</pubDate>
             <content:encoded><![CDATA[1월 20일까지]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20160121_26/1453360754183rcimB_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[어롱 더 로드사이드 ([시리즈온] 이주의 무료영화)]]></title>
+            <link>https://serieson.naver.com/v2/movie/361005</link>
+            <guid>https://serieson.naver.com/v2/movie/361005</guid>
+            <pubDate>Fri, 07 Jan 2022 16:03:26 GMT</pubDate>
+            <content:encoded><![CDATA[1월 20일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20160729_118/1469769111713dAbWz_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스타: 빛나는 사랑 ([시리즈온] 이주의 무료영화)]]></title>
@@ -150,19 +158,6 @@
             <pubDate>Mon, 03 Jan 2022 20:01:56 GMT</pubDate>
             <content:encoded><![CDATA[1월 13일까지]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20190502_165/15567651669727M27L_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[19
-										
-											
-										
-										
-										
-											배틀 스쿨 ([시리즈온] 이주의 무료영화)]]></title>
-            <link>https://MOVIECORD.github.io/naver/all.xml</link>
-            <guid>https://MOVIECORD.github.io/naver/all.xml</guid>
-            <pubDate>Fri, 07 Jan 2022 15:02:13 GMT</pubDate>
-            <content:encoded><![CDATA[오픈예정]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[고스트버스터즈 라이즈(세트: .. ([시리즈온] 할인 영화관)]]></title>
