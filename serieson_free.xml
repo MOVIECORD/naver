@@ -4,9 +4,33 @@
         <title>[시리즈온] 이주의 무료영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jan 2022 14:02:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jan 2022 15:02:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스키타이: 불멸의 전사]]></title>
+            <link>https://serieson.naver.com/v2/movie/248509</link>
+            <guid>https://serieson.naver.com/v2/movie/248509</guid>
+            <pubDate>Fri, 07 Jan 2022 15:02:13 GMT</pubDate>
+            <content:encoded><![CDATA[1월 20일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20180903_106/1535936552309FAS2X_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[적인걸2: 신도해왕의 비밀]]></title>
+            <link>https://serieson.naver.com/v2/movie/266426</link>
+            <guid>https://serieson.naver.com/v2/movie/266426</guid>
+            <pubDate>Fri, 07 Jan 2022 15:02:13 GMT</pubDate>
+            <content:encoded><![CDATA[1월 21일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20130925_83/13800899372456qYkv_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[케이지 다이브]]></title>
+            <link>https://serieson.naver.com/v2/movie/206324</link>
+            <guid>https://serieson.naver.com/v2/movie/206324</guid>
+            <pubDate>Fri, 07 Jan 2022 15:02:13 GMT</pubDate>
+            <content:encoded><![CDATA[1월 21일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20170906_205/1504665749913Gtu7h_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스페셜 포스 : 라스트 타겟]]></title>
             <link>https://serieson.naver.com/v2/movie/406368</link>
@@ -30,14 +54,6 @@
             <enclosure url="https://movie-phinf.pstatic.net/20160121_26/1453360754183rcimB_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[어롱 더 로드사이드]]></title>
-            <link>https://serieson.naver.com/v2/movie/361005</link>
-            <guid>https://serieson.naver.com/v2/movie/361005</guid>
-            <pubDate>Thu, 06 Jan 2022 15:02:09 GMT</pubDate>
-            <content:encoded><![CDATA[1월 20일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20160729_118/1469769111713dAbWz_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[스타: 빛나는 사랑]]></title>
             <link>https://serieson.naver.com/v2/movie/264118</link>
             <guid>https://serieson.naver.com/v2/movie/264118</guid>
@@ -58,14 +74,6 @@
             <pubDate>Thu, 06 Jan 2022 15:02:09 GMT</pubDate>
             <content:encoded><![CDATA[1월 20일까지]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20180524_196/15271508119805btSL_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더 파더]]></title>
-            <link>https://serieson.naver.com/v2/movie/436412</link>
-            <guid>https://serieson.naver.com/v2/movie/436412</guid>
-            <pubDate>Mon, 03 Jan 2022 20:01:56 GMT</pubDate>
-            <content:encoded><![CDATA[1월 7일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20210323_50/1616476169545z5HcO_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[돌멩이]]></title>
@@ -114,14 +122,6 @@
             <enclosure url="https://movie-phinf.pstatic.net/20171218_205/1513571722256ULu6q_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[명당]]></title>
-            <link>https://serieson.naver.com/v2/movie/251339</link>
-            <guid>https://serieson.naver.com/v2/movie/251339</guid>
-            <pubDate>Mon, 03 Jan 2022 20:01:56 GMT</pubDate>
-            <content:encoded><![CDATA[1월 7일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20180920_268/1537425274130wtXzB_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[19
 										
 											
@@ -152,12 +152,17 @@
             <enclosure url="https://movie-phinf.pstatic.net/20190502_165/15567651669727M27L_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[선샤인 패밀리]]></title>
-            <link>https://serieson.naver.com/v2/movie/418340</link>
-            <guid>https://serieson.naver.com/v2/movie/418340</guid>
-            <pubDate>Mon, 03 Jan 2022 20:01:56 GMT</pubDate>
-            <content:encoded><![CDATA[1월 7일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20201221_210/1608530645207eplhA_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+            <title><![CDATA[19
+										
+											
+										
+										
+										
+											배틀 스쿨]]></title>
+            <link>https://serieson.naver.com/movie/freeMovieList.nhn</link>
+            <guid>https://serieson.naver.com/movie/freeMovieList.nhn</guid>
+            <pubDate>Fri, 07 Jan 2022 15:02:13 GMT</pubDate>
+            <content:encoded><![CDATA[오픈예정]]></content:encoded>
         </item>
     </channel>
 </rss>

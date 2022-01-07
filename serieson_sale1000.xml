@@ -4,7 +4,7 @@
         <title>[시리즈온] 천원관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jan 2022 14:02:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jan 2022 15:02:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -210,20 +210,20 @@
             <enclosure url="https://movie-phinf.pstatic.net/20111222_16/1324483132226IGQT6_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[더 파더]]></title>
-            <link>https://serieson.naver.com/v2/movie/436412</link>
-            <guid>https://serieson.naver.com/v2/movie/436412</guid>
-            <pubDate>Mon, 03 Jan 2022 20:02:13 GMT</pubDate>
-            <content:encoded><![CDATA[대여]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20210323_50/1616476169545z5HcO_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[바람의 파이터]]></title>
             <link>https://serieson.naver.com/v2/movie/430772</link>
             <guid>https://serieson.naver.com/v2/movie/430772</guid>
             <pubDate>Wed, 05 Jan 2022 08:03:14 GMT</pubDate>
             <content:encoded><![CDATA[구매]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20111222_262/132455007716617FoB_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시간을 달리는 소녀(가치봄영화..]]></title>
+            <link>https://serieson.naver.com/v2/movie/427384</link>
+            <guid>https://serieson.naver.com/v2/movie/427384</guid>
+            <pubDate>Fri, 07 Jan 2022 15:02:32 GMT</pubDate>
+            <content:encoded><![CDATA[대여]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20181109_63/1541748837768AtSVU_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
