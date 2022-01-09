@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Jan 2022 14:02:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Jan 2022 15:02:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -893,13 +893,6 @@
             <guid>https://serieson.naver.com/events/20020?productType=movie</guid>
             <pubDate>Mon, 03 Jan 2022 20:02:33 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/events/20020?productType=movie" class="" onclick="nclk(this, 'mov.list', '20020', '');">👂당신은 좋은 리스너 인가요? 전세계를 울린 ‘리슨‘은 지금 시리즈온에서!</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[📙뉴욕에서 쓰는 인생의 첫 페이지! '마이 뉴욕 다이어리' 경품 이벤트 ([시리즈온] 이벤트)]]></title>
-            <link>https://serieson.naver.com/events/20016?productType=movie</link>
-            <guid>https://serieson.naver.com/events/20016?productType=movie</guid>
-            <pubDate>Mon, 03 Jan 2022 20:02:33 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/20016?productType=movie" class="" onclick="nclk(this, 'mov.list', '20016', '');">📙뉴욕에서 쓰는 인생의 첫 페이지! '마이 뉴욕 다이어리' 경품 이벤트</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[✅최신 영화 최고 혜택으로 보는 꿀팁! 네이버 플러스 멤버십 ([시리즈온] 이벤트)]]></title>
