@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-01-10T03:07:47.821Z</updated>
+    <updated>2022-01-10T04:03:07.753Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://serieson.naver.com/events/20029?productType=movie"/>
         <updated>2022-01-04T16:03:47.545Z</updated>
         <content type="html"><![CDATA[<a href="/events/20029?productType=movie" class="" onclick="nclk(this, 'mov.list', '20029', '');">👻우리 보고 싶었어? 심쿵 어택 특급 굿즈와 함께 '고스트 버스터즈 라이즈' 시리즈온 오픈!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🎤올해는 오프 뛰고 싶다!!! 언택트 공연 대리만족 이벤트!]]></title>
+        <id>https://serieson.naver.com/events/20035?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20035?productType=movie"/>
+        <updated>2022-01-10T04:03:07.115Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20035?productType=movie" class="" onclick="nclk(this, 'mov.list', '20035', '');">🎤올해는 오프 뛰고 싶다!!! 언택트 공연 대리만족 이벤트!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[✍️작심삼일도 120번 하면 1년! 새해맞이 버킷리스트 한번 써볼까요?]]></title>

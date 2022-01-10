@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jan 2022 03:07:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jan 2022 04:03:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -844,6 +844,13 @@
             <guid>https://serieson.naver.com/events/20029?productType=movie</guid>
             <pubDate>Tue, 04 Jan 2022 16:03:47 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/events/20029?productType=movie" class="" onclick="nclk(this, 'mov.list', '20029', '');">👻우리 보고 싶었어? 심쿵 어택 특급 굿즈와 함께 '고스트 버스터즈 라이즈' 시리즈온 오픈!</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[🎤올해는 오프 뛰고 싶다!!! 언택트 공연 대리만족 이벤트! ([시리즈온] 이벤트)]]></title>
+            <link>https://serieson.naver.com/events/20035?productType=movie</link>
+            <guid>https://serieson.naver.com/events/20035?productType=movie</guid>
+            <pubDate>Mon, 10 Jan 2022 04:03:07 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/events/20035?productType=movie" class="" onclick="nclk(this, 'mov.list', '20035', '');">🎤올해는 오프 뛰고 싶다!!! 언택트 공연 대리만족 이벤트!</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[✍️작심삼일도 120번 하면 1년! 새해맞이 버킷리스트 한번 써볼까요? ([시리즈온] 이벤트)]]></title>
