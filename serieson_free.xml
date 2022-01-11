@@ -4,9 +4,25 @@
         <title>[시리즈온] 이주의 무료영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jan 2022 06:03:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jan 2022 07:02:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[돌멩이]]></title>
+            <link>https://serieson.naver.com/v2/movie/406746</link>
+            <guid>https://serieson.naver.com/v2/movie/406746</guid>
+            <pubDate>Mon, 03 Jan 2022 20:01:56 GMT</pubDate>
+            <content:encoded><![CDATA[1월 13일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20201015_255/1602740964713IkI6w_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[라라걸]]></title>
+            <link>https://serieson.naver.com/v2/movie/371143</link>
+            <guid>https://serieson.naver.com/v2/movie/371143</guid>
+            <pubDate>Mon, 03 Jan 2022 20:01:56 GMT</pubDate>
+            <content:encoded><![CDATA[1월 13일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20200325_18/1585107103550sVyVU_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스키타이: 불멸의 전사]]></title>
             <link>https://serieson.naver.com/v2/movie/248509</link>
@@ -84,14 +100,6 @@
             <enclosure url="https://movie-phinf.pstatic.net/20180524_196/15271508119805btSL_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[돌멩이]]></title>
-            <link>https://serieson.naver.com/v2/movie/406746</link>
-            <guid>https://serieson.naver.com/v2/movie/406746</guid>
-            <pubDate>Mon, 03 Jan 2022 20:01:56 GMT</pubDate>
-            <content:encoded><![CDATA[1월 13일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20201015_255/1602740964713IkI6w_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[19
 										
 											
@@ -112,14 +120,6 @@
             <pubDate>Mon, 03 Jan 2022 20:01:56 GMT</pubDate>
             <content:encoded><![CDATA[1월 13일까지]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20170626_262/1498460542134vDS2F_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[라라걸]]></title>
-            <link>https://serieson.naver.com/v2/movie/371143</link>
-            <guid>https://serieson.naver.com/v2/movie/371143</guid>
-            <pubDate>Mon, 03 Jan 2022 20:01:56 GMT</pubDate>
-            <content:encoded><![CDATA[1월 13일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20200325_18/1585107103550sVyVU_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[굿타임]]></title>
