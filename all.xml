@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jan 2022 14:02:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jan 2022 15:02:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -230,18 +230,6 @@
             <enclosure url="https://tvstore-phinf.pstatic.net/20211103_255/163590997225821GVt_JPEG/POSTER_--10.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[19
-			
-			
-			
-			캔사스 시티 ([시리즈온] 할인 영화관)]]></title>
-            <link>https://serieson.naver.com/v2/movie/466837</link>
-            <guid>https://serieson.naver.com/v2/movie/466837</guid>
-            <pubDate>Mon, 03 Jan 2022 20:02:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span>700</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20111222_249/1324481065248iKOgd_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[아멜리에 ([시리즈온] 할인 영화관)]]></title>
             <link>https://serieson.naver.com/v2/movie/464225</link>
             <guid>https://serieson.naver.com/v2/movie/464225</guid>
@@ -316,6 +304,16 @@
             <pubDate>Mon, 03 Jan 2022 20:02:05 GMT</pubDate>
             <content:encoded><![CDATA[<span>14,190</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
             <enclosure url="https://tvstore-phinf.pstatic.net/20210730_113/1627610452046VuQOy_JPEG/SpaceJam_NewLegacy_PVOD_STD_V_DD_KA_TT_2160x2880_300dpi_KR.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자막
+			
+			은혼 더 파이널 ([시리즈온] 할인 영화관)]]></title>
+            <link>https://serieson.naver.com/v2/movie/454051</link>
+            <guid>https://serieson.naver.com/v2/movie/454051</guid>
+            <pubDate>Wed, 12 Jan 2022 15:02:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20210705_262/1625449679987vfb5k_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[워스 ([시리즈온] 할인 영화관)]]></title>
@@ -865,27 +863,6 @@
             <guid>https://serieson.naver.com/events/20028?productType=movie</guid>
             <pubDate>Tue, 04 Jan 2022 15:02:55 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/events/20028?productType=movie" class="" onclick="nclk(this, 'mov.list', '20028', '');">🖤진짜 ‘유태오’ 의 세계로 지금 LOG IN! ‘로그 인 벨지움’ 오픈!</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[자유, 돈, 명예를 위해 피부를 팔겠습니까? 날카로운 아트 스릴러 ‘피부를 판 남자‘ 오픈! ([시리즈온] 이벤트)]]></title>
-            <link>https://serieson.naver.com/events/20022?productType=movie</link>
-            <guid>https://serieson.naver.com/events/20022?productType=movie</guid>
-            <pubDate>Mon, 03 Jan 2022 20:02:33 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/20022?productType=movie" class="" onclick="nclk(this, 'mov.list', '20022', '');">자유, 돈, 명예를 위해 피부를 팔겠습니까? 날카로운 아트 스릴러 ‘피부를 판 남자‘ 오픈!</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[😎유쾌한 놈들과의 위험한 동행 '픽시' 오픈 프로모션 ([시리즈온] 이벤트)]]></title>
-            <link>https://serieson.naver.com/events/20021?productType=movie</link>
-            <guid>https://serieson.naver.com/events/20021?productType=movie</guid>
-            <pubDate>Mon, 03 Jan 2022 20:02:33 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/20021?productType=movie" class="" onclick="nclk(this, 'mov.list', '20021', '');">😎유쾌한 놈들과의 위험한 동행 '픽시' 오픈 프로모션</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[👂당신은 좋은 리스너 인가요? 전세계를 울린 ‘리슨‘은 지금 시리즈온에서! ([시리즈온] 이벤트)]]></title>
-            <link>https://serieson.naver.com/events/20020?productType=movie</link>
-            <guid>https://serieson.naver.com/events/20020?productType=movie</guid>
-            <pubDate>Mon, 03 Jan 2022 20:02:33 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/20020?productType=movie" class="" onclick="nclk(this, 'mov.list', '20020', '');">👂당신은 좋은 리스너 인가요? 전세계를 울린 ‘리슨‘은 지금 시리즈온에서!</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[✅최신 영화 최고 혜택으로 보는 꿀팁! 네이버 플러스 멤버십 ([시리즈온] 이벤트)]]></title>

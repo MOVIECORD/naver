@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-01-12T14:02:43.818Z</updated>
+    <updated>2022-01-12T15:02:40.589Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
     <entry>
@@ -46,27 +46,6 @@
         <link href="https://serieson.naver.com/events/20028?productType=movie"/>
         <updated>2022-01-04T15:02:55.108Z</updated>
         <content type="html"><![CDATA[<a href="/events/20028?productType=movie" class="" onclick="nclk(this, 'mov.list', '20028', '');">🖤진짜 ‘유태오’ 의 세계로 지금 LOG IN! ‘로그 인 벨지움’ 오픈!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자유, 돈, 명예를 위해 피부를 팔겠습니까? 날카로운 아트 스릴러 ‘피부를 판 남자‘ 오픈!]]></title>
-        <id>https://serieson.naver.com/events/20022?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20022?productType=movie"/>
-        <updated>2022-01-03T20:02:33.307Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20022?productType=movie" class="" onclick="nclk(this, 'mov.list', '20022', '');">자유, 돈, 명예를 위해 피부를 팔겠습니까? 날카로운 아트 스릴러 ‘피부를 판 남자‘ 오픈!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[😎유쾌한 놈들과의 위험한 동행 '픽시' 오픈 프로모션]]></title>
-        <id>https://serieson.naver.com/events/20021?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20021?productType=movie"/>
-        <updated>2022-01-03T20:02:33.308Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20021?productType=movie" class="" onclick="nclk(this, 'mov.list', '20021', '');">😎유쾌한 놈들과의 위험한 동행 '픽시' 오픈 프로모션</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[👂당신은 좋은 리스너 인가요? 전세계를 울린 ‘리슨‘은 지금 시리즈온에서!]]></title>
-        <id>https://serieson.naver.com/events/20020?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20020?productType=movie"/>
-        <updated>2022-01-03T20:02:33.309Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20020?productType=movie" class="" onclick="nclk(this, 'mov.list', '20020', '');">👂당신은 좋은 리스너 인가요? 전세계를 울린 ‘리슨‘은 지금 시리즈온에서!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[✅최신 영화 최고 혜택으로 보는 꿀팁! 네이버 플러스 멤버십]]></title>
