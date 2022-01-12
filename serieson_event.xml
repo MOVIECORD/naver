@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-01-12T00:19:15.210Z</updated>
+    <updated>2022-01-12T01:57:03.884Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[⚡️마블의 새 역사를 쓸 태초의 히어로 군단! ‘이터널스’ 드디어 시리즈온 상륙!]]></title>
+        <id>https://serieson.naver.com/events/20038?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20038?productType=movie"/>
+        <updated>2022-01-12T01:57:03.204Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20038?productType=movie" class="" onclick="nclk(this, 'mov.list', '20038', '');">⚡️마블의 새 역사를 쓸 태초의 히어로 군단! ‘이터널스’ 드디어 시리즈온 상륙!</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[👻우리 보고 싶었어? 심쿵 어택 특급 굿즈와 함께 '고스트 버스터즈 라이즈' 시리즈온 오픈!]]></title>
         <id>https://serieson.naver.com/events/20029?productType=movie</id>
