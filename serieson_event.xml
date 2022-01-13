@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-01-13T14:02:46.064Z</updated>
+    <updated>2022-01-13T15:03:00.437Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
     <entry>
@@ -32,13 +32,6 @@
         <link href="https://serieson.naver.com/events/20029?productType=movie"/>
         <updated>2022-01-04T16:03:47.545Z</updated>
         <content type="html"><![CDATA[<a href="/events/20029?productType=movie" class="" onclick="nclk(this, 'mov.list', '20029', '');">👻우리 보고 싶었어? 심쿵 어택 특급 굿즈와 함께 '고스트 버스터즈 라이즈' 시리즈온 오픈!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[✍️작심삼일도 120번 하면 1년! 새해맞이 버킷리스트 한번 써볼까요?]]></title>
-        <id>https://serieson.naver.com/events/20032?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20032?productType=movie"/>
-        <updated>2022-01-06T15:02:48.669Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20032?productType=movie" class="" onclick="nclk(this, 'mov.list', '20032', '');">✍️작심삼일도 120번 하면 1년! 새해맞이 버킷리스트 한번 써볼까요?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[❤️‘아멜리에 & 쁘띠마망’ 러블리 굿즈 이벤트 오픈!]]></title>
