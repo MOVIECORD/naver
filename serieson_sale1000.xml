@@ -4,7 +4,7 @@
         <title>[시리즈온] 천원관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Jan 2022 14:02:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Jan 2022 15:02:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -70,14 +70,6 @@
             <pubDate>Wed, 05 Jan 2022 08:03:14 GMT</pubDate>
             <content:encoded><![CDATA[대여]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20111223_213/1324648381006hL39S_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아멜리에]]></title>
-            <link>https://serieson.naver.com/v2/movie/464225</link>
-            <guid>https://serieson.naver.com/v2/movie/464225</guid>
-            <pubDate>Thu, 06 Jan 2022 15:02:30 GMT</pubDate>
-            <content:encoded><![CDATA[구매]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20211215_59/1639548396861gSznN_JPEG/Amelie_teaser_01.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[늑대와 춤을]]></title>
@@ -224,6 +216,14 @@
             <pubDate>Thu, 13 Jan 2022 15:02:43 GMT</pubDate>
             <content:encoded><![CDATA[대여]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20171110_103/15102901253487gTe2_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[굿바이]]></title>
+            <link>https://serieson.naver.com/v2/movie/419806</link>
+            <guid>https://serieson.naver.com/v2/movie/419806</guid>
+            <pubDate>Sun, 16 Jan 2022 15:02:29 GMT</pubDate>
+            <content:encoded><![CDATA[대여]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20201216_180/1608106548353LSftG_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
