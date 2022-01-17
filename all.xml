@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jan 2022 15:02:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jan 2022 16:04:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -586,7 +586,7 @@
             <title><![CDATA[허트 로커 ([시리즈온] 천원관)]]></title>
             <link>https://serieson.naver.com/v2/movie/430943</link>
             <guid>https://serieson.naver.com/v2/movie/430943</guid>
-            <pubDate>Mon, 17 Jan 2022 15:02:07 GMT</pubDate>
+            <pubDate>Mon, 17 Jan 2022 15:01:59 GMT</pubDate>
             <content:encoded><![CDATA[구매]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20210302_125/1614661968971XyIiF_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
@@ -878,6 +878,13 @@
             <guid>https://serieson.naver.com/events/20029?productType=movie</guid>
             <pubDate>Tue, 04 Jan 2022 16:03:47 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/events/20029?productType=movie" class="" onclick="nclk(this, 'mov.list', '20029', '');">👻우리 보고 싶었어? 심쿵 어택 특급 굿즈와 함께 '고스트 버스터즈 라이즈' 시리즈온 오픈!</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[🎹 새해 첫 웰메이드 감동 실화 ‘전장의 피아니스트’ 보고 선물 받아가세요! ([시리즈온] 이벤트)]]></title>
+            <link>https://serieson.naver.com/events/20041?productType=movie</link>
+            <guid>https://serieson.naver.com/events/20041?productType=movie</guid>
+            <pubDate>Mon, 17 Jan 2022 16:04:04 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/events/20041?productType=movie" class="" onclick="nclk(this, 'mov.list', '20041', '');">🎹 새해 첫 웰메이드 감동 실화 ‘전장의 피아니스트’ 보고 선물 받아가세요!</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[🖤진짜 ‘유태오’ 의 세계로 지금 LOG IN! ‘로그 인 벨지움’ 오픈! ([시리즈온] 이벤트)]]></title>
