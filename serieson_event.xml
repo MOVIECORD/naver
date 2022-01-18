@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-01-18T14:02:37.977Z</updated>
+    <updated>2022-01-18T15:02:41.414Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
     <entry>
@@ -27,25 +27,11 @@
         <content type="html"><![CDATA[<a href="/events/20040?productType=movie" class="" onclick="nclk(this, 'mov.list', '20040', '');">👿은혼 덕후들을 위한 소소한 굿즈 파티! '은혼 더 파이널' 이벤트</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[👻우리 보고 싶었어? 심쿵 어택 특급 굿즈와 함께 '고스트 버스터즈 라이즈' 시리즈온 오픈!]]></title>
-        <id>https://serieson.naver.com/events/20029?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20029?productType=movie"/>
-        <updated>2022-01-04T16:03:47.545Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20029?productType=movie" class="" onclick="nclk(this, 'mov.list', '20029', '');">👻우리 보고 싶었어? 심쿵 어택 특급 굿즈와 함께 '고스트 버스터즈 라이즈' 시리즈온 오픈!</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[🎹 새해 첫 웰메이드 감동 실화 ‘전장의 피아니스트’ 보고 선물 받아가세요!]]></title>
         <id>https://serieson.naver.com/events/20041?productType=movie</id>
         <link href="https://serieson.naver.com/events/20041?productType=movie"/>
         <updated>2022-01-17T16:04:04.706Z</updated>
         <content type="html"><![CDATA[<a href="/events/20041?productType=movie" class="" onclick="nclk(this, 'mov.list', '20041', '');">🎹 새해 첫 웰메이드 감동 실화 ‘전장의 피아니스트’ 보고 선물 받아가세요!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🖤진짜 ‘유태오’ 의 세계로 지금 LOG IN! ‘로그 인 벨지움’ 오픈!]]></title>
-        <id>https://serieson.naver.com/events/20028?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20028?productType=movie"/>
-        <updated>2022-01-04T15:02:55.108Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20028?productType=movie" class="" onclick="nclk(this, 'mov.list', '20028', '');">🖤진짜 ‘유태오’ 의 세계로 지금 LOG IN! ‘로그 인 벨지움’ 오픈!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[✅최신 영화 최고 혜택으로 보는 꿀팁! 네이버 플러스 멤버십]]></title>
