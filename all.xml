@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jan 2022 19:02:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jan 2022 20:02:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -403,6 +403,22 @@
             <enclosure url="https://movie-phinf.pstatic.net/20111221_126/1324474445760Hjg9c_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[윔블던 ([시리즈온] 천원관)]]></title>
+            <link>https://serieson.naver.com/v2/movie/481207</link>
+            <guid>https://serieson.naver.com/v2/movie/481207</guid>
+            <pubDate>Wed, 19 Jan 2022 20:02:18 GMT</pubDate>
+            <content:encoded><![CDATA[대여]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20111223_103/1324585818299A4DnD_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[브리짓 존스의 베이비 ([시리즈온] 천원관)]]></title>
+            <link>https://serieson.naver.com/v2/movie/455618</link>
+            <guid>https://serieson.naver.com/v2/movie/455618</guid>
+            <pubDate>Wed, 19 Jan 2022 20:02:18 GMT</pubDate>
+            <content:encoded><![CDATA[대여]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20160928_292/1475049717166BloND_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[당신이 사랑하는 동안에 ([시리즈온] 천원관)]]></title>
             <link>https://serieson.naver.com/v2/movie/477873</link>
             <guid>https://serieson.naver.com/v2/movie/477873</guid>
@@ -603,22 +619,6 @@
             <pubDate>Wed, 05 Jan 2022 08:03:14 GMT</pubDate>
             <content:encoded><![CDATA[구매]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20111222_262/132455007716617FoB_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시간을 달리는 소녀(가치봄영화.. ([시리즈온] 천원관)]]></title>
-            <link>https://serieson.naver.com/v2/movie/427384</link>
-            <guid>https://serieson.naver.com/v2/movie/427384</guid>
-            <pubDate>Fri, 07 Jan 2022 15:02:32 GMT</pubDate>
-            <content:encoded><![CDATA[대여]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20181109_63/1541748837768AtSVU_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안녕, 나의 소울메이트 ([시리즈온] 천원관)]]></title>
-            <link>https://serieson.naver.com/v2/movie/425075</link>
-            <guid>https://serieson.naver.com/v2/movie/425075</guid>
-            <pubDate>Thu, 13 Jan 2022 15:02:43 GMT</pubDate>
-            <content:encoded><![CDATA[대여]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20171110_103/15102901253487gTe2_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[천문: 하늘에 묻는다(가치봄영.. ([시리즈온] 가치봄 영화관)]]></title>
