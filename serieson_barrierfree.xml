@@ -4,9 +4,29 @@
         <title>[시리즈온] 가치봄 영화관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jan 2022 09:02:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jan 2022 10:02:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[더빙
+			뽀로로 극장판 공룡섬 대..]]></title>
+            <link>https://serieson.naver.com/v2/movie/482971</link>
+            <guid>https://serieson.naver.com/v2/movie/482971</guid>
+            <pubDate>Wed, 19 Jan 2022 10:02:23 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="">대여</em>
+					<strong class="payment"><span>1,200</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20171102_209/1509602233507BiJrs_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[더빙
+			뽀로로 극장판 공룡섬 대..]]></title>
+            <link>https://serieson.naver.com/v2/movie/482970</link>
+            <guid>https://serieson.naver.com/v2/movie/482970</guid>
+            <pubDate>Wed, 19 Jan 2022 10:02:23 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="">구매</em>
+                    <strong class="payment"><span>2,000</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20171102_209/1509602233507BiJrs_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[더빙
 			뽀로로 극장판 보물섬 대..]]></title>
@@ -217,32 +237,6 @@
             <content:encoded><![CDATA[<em class="">구매</em>
                     <strong class="payment"><span>5,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20161026_266/1477442984794mcXtF_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[19
-			
-			
-			
-			강릉(가치봄영화:시청각장애인..]]></title>
-            <link>https://serieson.naver.com/v2/movie/477174</link>
-            <guid>https://serieson.naver.com/v2/movie/477174</guid>
-            <pubDate>Mon, 03 Jan 2022 20:02:24 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="">대여</em>
-					<strong class="payment"><span>5,000</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20211108_295/1636363035383sHbbs_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[19
-			
-			
-			
-			강릉(가치봄영화:시청각장애인..]]></title>
-            <link>https://serieson.naver.com/v2/movie/477173</link>
-            <guid>https://serieson.naver.com/v2/movie/477173</guid>
-            <pubDate>Mon, 03 Jan 2022 20:02:24 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="">구매</em>
-                    <strong class="payment"><span>9,900</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20211108_295/1636363035383sHbbs_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
