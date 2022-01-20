@@ -4,9 +4,61 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jan 2022 15:02:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 16:03:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영주 ([시리즈온] 이주의 무료영화)]]></title>
+            <link>https://serieson.naver.com/v2/movie/262613</link>
+            <guid>https://serieson.naver.com/v2/movie/262613</guid>
+            <pubDate>Thu, 20 Jan 2022 15:01:58 GMT</pubDate>
+            <content:encoded><![CDATA[2월 3일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20181030_246/1540890794923n6bvy_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자막
+										
+											경계의 저편 : I'LL BE HERE -과거편- ([시리즈온] 이주의 무료영화)]]></title>
+            <link>https://serieson.naver.com/v2/movie/403113</link>
+            <guid>https://serieson.naver.com/v2/movie/403113</guid>
+            <pubDate>Thu, 20 Jan 2022 15:01:58 GMT</pubDate>
+            <content:encoded><![CDATA[2월 3일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20150915_128/1442299882676YK28J_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자막
+										
+											경계의 저편 : I'LL BE HERE -미래편- ([시리즈온] 이주의 무료영화)]]></title>
+            <link>https://serieson.naver.com/v2/movie/403114</link>
+            <guid>https://serieson.naver.com/v2/movie/403114</guid>
+            <pubDate>Thu, 20 Jan 2022 15:01:58 GMT</pubDate>
+            <content:encoded><![CDATA[2월 3일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20150915_275/1442301018454TcG7d_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[엔젤 오브 마인 ([시리즈온] 이주의 무료영화)]]></title>
+            <link>https://serieson.naver.com/v2/movie/329188</link>
+            <guid>https://serieson.naver.com/v2/movie/329188</guid>
+            <pubDate>Thu, 20 Jan 2022 15:01:58 GMT</pubDate>
+            <content:encoded><![CDATA[2월 3일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20191011_108/1570785034079WXwBY_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미스터 노바디(감독판) ([시리즈온] 이주의 무료영화)]]></title>
+            <link>https://serieson.naver.com/v2/movie/394027</link>
+            <guid>https://serieson.naver.com/v2/movie/394027</guid>
+            <pubDate>Thu, 20 Jan 2022 15:01:58 GMT</pubDate>
+            <content:encoded><![CDATA[2월 3일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20200811_26/15971069070568A27v_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스탠바이, 웬디 ([시리즈온] 이주의 무료영화)]]></title>
+            <link>https://serieson.naver.com/v2/movie/235252</link>
+            <guid>https://serieson.naver.com/v2/movie/235252</guid>
+            <pubDate>Thu, 20 Jan 2022 15:01:58 GMT</pubDate>
+            <content:encoded><![CDATA[2월 3일까지]]></content:encoded>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20211202_222/1638376911999NJqF1_PNG/ONPOSTER_2520.%2C.png?type=w320" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[19
 										
@@ -104,58 +156,6 @@
             <pubDate>Fri, 07 Jan 2022 15:02:13 GMT</pubDate>
             <content:encoded><![CDATA[1월 21일까지]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20170906_205/1504665749913Gtu7h_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영주 ([시리즈온] 이주의 무료영화)]]></title>
-            <link>https://serieson.naver.com/v2/movie/262613</link>
-            <guid>https://serieson.naver.com/v2/movie/262613</guid>
-            <pubDate>Thu, 20 Jan 2022 15:01:58 GMT</pubDate>
-            <content:encoded><![CDATA[2월 3일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20181030_246/1540890794923n6bvy_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자막
-										
-											경계의 저편 : I'LL BE HERE -과거편- ([시리즈온] 이주의 무료영화)]]></title>
-            <link>https://serieson.naver.com/v2/movie/403113</link>
-            <guid>https://serieson.naver.com/v2/movie/403113</guid>
-            <pubDate>Thu, 20 Jan 2022 15:01:58 GMT</pubDate>
-            <content:encoded><![CDATA[2월 3일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20150915_128/1442299882676YK28J_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자막
-										
-											경계의 저편 : I'LL BE HERE -미래편- ([시리즈온] 이주의 무료영화)]]></title>
-            <link>https://serieson.naver.com/v2/movie/403114</link>
-            <guid>https://serieson.naver.com/v2/movie/403114</guid>
-            <pubDate>Thu, 20 Jan 2022 15:01:58 GMT</pubDate>
-            <content:encoded><![CDATA[2월 3일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20150915_275/1442301018454TcG7d_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엔젤 오브 마인 ([시리즈온] 이주의 무료영화)]]></title>
-            <link>https://serieson.naver.com/v2/movie/329188</link>
-            <guid>https://serieson.naver.com/v2/movie/329188</guid>
-            <pubDate>Thu, 20 Jan 2022 15:01:58 GMT</pubDate>
-            <content:encoded><![CDATA[2월 3일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20191011_108/1570785034079WXwBY_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미스터 노바디(감독판) ([시리즈온] 이주의 무료영화)]]></title>
-            <link>https://serieson.naver.com/v2/movie/394027</link>
-            <guid>https://serieson.naver.com/v2/movie/394027</guid>
-            <pubDate>Thu, 20 Jan 2022 15:01:58 GMT</pubDate>
-            <content:encoded><![CDATA[2월 3일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20200811_26/15971069070568A27v_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스탠바이, 웬디 ([시리즈온] 이주의 무료영화)]]></title>
-            <link>https://serieson.naver.com/v2/movie/235252</link>
-            <guid>https://serieson.naver.com/v2/movie/235252</guid>
-            <pubDate>Thu, 20 Jan 2022 15:01:58 GMT</pubDate>
-            <content:encoded><![CDATA[2월 3일까지]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20211202_222/1638376911999NJqF1_PNG/ONPOSTER_2520.%2C.png?type=w320" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[매트릭스: 리저렉션(데자뷔 세.. ([시리즈온] 할인 영화관)]]></title>
