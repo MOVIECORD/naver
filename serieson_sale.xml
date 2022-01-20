@@ -4,7 +4,7 @@
         <title>[시리즈온] 할인 영화관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jan 2022 14:02:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 15:02:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -52,7 +52,15 @@
             <link>https://serieson.naver.com/v2/movie/455768</link>
             <guid>https://serieson.naver.com/v2/movie/455768</guid>
             <pubDate>Mon, 03 Jan 2022 20:02:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span>14,190</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
+            <content:encoded><![CDATA[<span>7,095</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20210809_272/1628474909708DpiDH_JPEG/HarryPotter1_SS_MagicalMovieMode_V_DD_KA_TT_2000x2841_300dpi_KR.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[해리 포터와 마법사의 돌: 매지..]]></title>
+            <link>https://serieson.naver.com/v2/movie/455577</link>
+            <guid>https://serieson.naver.com/v2/movie/455577</guid>
+            <pubDate>Thu, 20 Jan 2022 15:02:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span>5,450</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
             <enclosure url="https://tvstore-phinf.pstatic.net/20210809_272/1628474909708DpiDH_JPEG/HarryPotter1_SS_MagicalMovieMode_V_DD_KA_TT_2000x2841_300dpi_KR.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -233,16 +241,6 @@
             <pubDate>Tue, 18 Jan 2022 15:02:14 GMT</pubDate>
             <content:encoded><![CDATA[<span>11,440</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20111223_230/1324622664939kJnrD_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자막
-			
-			고양이의 보은(패키지상품..]]></title>
-            <link>https://serieson.naver.com/v2/movie/394813</link>
-            <guid>https://serieson.naver.com/v2/movie/394813</guid>
-            <pubDate>Tue, 18 Jan 2022 15:02:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span>11,440</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20111221_126/1324474445760Hjg9c_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
