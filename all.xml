@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Jan 2022 14:02:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Jan 2022 15:04:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -268,6 +268,14 @@
             <enclosure url="https://tvstore-phinf.pstatic.net/20210623_261/1624425567386pgigc_JPEG/CONJURING_TDMMDI_PVOD_STD_V_DD_KA_TT_2160x2880_300dpi_KR.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[고수고수고고수 ([시리즈온] 할인 영화관)]]></title>
+            <link>https://serieson.naver.com/v2/movie/439074</link>
+            <guid>https://serieson.naver.com/v2/movie/439074</guid>
+            <pubDate>Sun, 23 Jan 2022 15:03:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span>1,250</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20210510_234/1620624869625Qp92Q_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[허트 로커 ([시리즈온] 할인 영화관)]]></title>
             <link>https://serieson.naver.com/v2/movie/430943</link>
             <guid>https://serieson.naver.com/v2/movie/430943</guid>
@@ -393,16 +401,6 @@
             <pubDate>Tue, 18 Jan 2022 15:02:14 GMT</pubDate>
             <content:encoded><![CDATA[<span>11,440</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20111222_63/1324483671210VVU36_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자막
-			
-			마루 밑 아리에티(패키지.. ([시리즈온] 할인 영화관)]]></title>
-            <link>https://serieson.naver.com/v2/movie/394819</link>
-            <guid>https://serieson.naver.com/v2/movie/394819</guid>
-            <pubDate>Tue, 18 Jan 2022 15:02:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span>11,440</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20111223_230/1324622664939kJnrD_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[윔블던 ([시리즈온] 천원관)]]></title>
@@ -877,11 +875,11 @@
             <content:encoded><![CDATA[<a href="/events/20038?productType=movie" class="" onclick="nclk(this, 'mov.list', '20038', '');">⚡️마블의 새 역사를 쓸 태초의 히어로 군단! ‘이터널스’ 드디어 시리즈온 상륙!</a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[🎤올해는 오프 뛰고 싶다!!! 언택트 공연 대리만족 이벤트! ([시리즈온] 이벤트)]]></title>
-            <link>https://serieson.naver.com/events/20035?productType=movie</link>
-            <guid>https://serieson.naver.com/events/20035?productType=movie</guid>
-            <pubDate>Mon, 10 Jan 2022 04:03:07 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/20035?productType=movie" class="" onclick="nclk(this, 'mov.list', '20035', '');">🎤올해는 오프 뛰고 싶다!!! 언택트 공연 대리만족 이벤트!</a>]]></content:encoded>
+            <title><![CDATA[💜몬베베를 위한 친필 싸인 포스터 준비했어요! '몬스타엑스 : 더 드리밍'은 시리즈온에서 ([시리즈온] 이벤트)]]></title>
+            <link>https://serieson.naver.com/events/20049?productType=movie</link>
+            <guid>https://serieson.naver.com/events/20049?productType=movie</guid>
+            <pubDate>Sun, 23 Jan 2022 15:04:04 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/events/20049?productType=movie" class="" onclick="nclk(this, 'mov.list', '20049', '');">💜몬베베를 위한 친필 싸인 포스터 준비했어요! '몬스타엑스 : 더 드리밍'은 시리즈온에서</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[👿은혼 덕후들을 위한 소소한 굿즈 파티! '은혼 더 파이널' 이벤트 ([시리즈온] 이벤트)]]></title>

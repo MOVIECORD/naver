@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-01-23T14:02:39.280Z</updated>
+    <updated>2022-01-23T15:04:05.512Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
     <entry>
@@ -27,11 +27,11 @@
         <content type="html"><![CDATA[<a href="/events/20038?productType=movie" class="" onclick="nclk(this, 'mov.list', '20038', '');">⚡️마블의 새 역사를 쓸 태초의 히어로 군단! ‘이터널스’ 드디어 시리즈온 상륙!</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[🎤올해는 오프 뛰고 싶다!!! 언택트 공연 대리만족 이벤트!]]></title>
-        <id>https://serieson.naver.com/events/20035?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20035?productType=movie"/>
-        <updated>2022-01-10T04:03:07.115Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20035?productType=movie" class="" onclick="nclk(this, 'mov.list', '20035', '');">🎤올해는 오프 뛰고 싶다!!! 언택트 공연 대리만족 이벤트!</a>]]></content>
+        <title type="html"><![CDATA[💜몬베베를 위한 친필 싸인 포스터 준비했어요! '몬스타엑스 : 더 드리밍'은 시리즈온에서]]></title>
+        <id>https://serieson.naver.com/events/20049?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20049?productType=movie"/>
+        <updated>2022-01-23T15:04:04.924Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20049?productType=movie" class="" onclick="nclk(this, 'mov.list', '20049', '');">💜몬베베를 위한 친필 싸인 포스터 준비했어요! '몬스타엑스 : 더 드리밍'은 시리즈온에서</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[👿은혼 덕후들을 위한 소소한 굿즈 파티! '은혼 더 파이널' 이벤트]]></title>
