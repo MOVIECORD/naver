@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 14:03:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 15:02:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -403,6 +403,18 @@
             <enclosure url="https://movie-phinf.pstatic.net/20111222_63/1324483671210VVU36_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[19
+			
+			
+			
+			메카닉 ([시리즈온] 천원관)]]></title>
+            <link>https://serieson.naver.com/v2/movie/483064</link>
+            <guid>https://serieson.naver.com/v2/movie/483064</guid>
+            <pubDate>Mon, 24 Jan 2022 15:02:38 GMT</pubDate>
+            <content:encoded><![CDATA[대여]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20181203_114/1543825564779IXSTD_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[윔블던 ([시리즈온] 천원관)]]></title>
             <link>https://serieson.naver.com/v2/movie/481207</link>
             <guid>https://serieson.naver.com/v2/movie/481207</guid>
@@ -611,14 +623,6 @@
             <pubDate>Mon, 17 Jan 2022 15:01:59 GMT</pubDate>
             <content:encoded><![CDATA[구매]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20210302_125/1614661968971XyIiF_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[바람의 파이터 ([시리즈온] 천원관)]]></title>
-            <link>https://serieson.naver.com/v2/movie/430772</link>
-            <guid>https://serieson.naver.com/v2/movie/430772</guid>
-            <pubDate>Wed, 05 Jan 2022 08:03:14 GMT</pubDate>
-            <content:encoded><![CDATA[구매]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20111222_262/132455007716617FoB_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[천문: 하늘에 묻는다(가치봄영.. ([시리즈온] 가치봄 영화관)]]></title>
