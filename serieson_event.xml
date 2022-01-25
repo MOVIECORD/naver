@@ -2,29 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-01-25T14:02:44.620Z</updated>
+    <updated>2022-01-25T15:02:31.476Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[🤺명감독들의 마스터피스📽 라스트 듀얼 & 프렌치 디스패치 OPEN]]></title>
-        <id>https://serieson.naver.com/events/20047?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20047?productType=movie"/>
-        <updated>2022-01-18T16:04:06.274Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20047?productType=movie" class="" onclick="nclk(this, 'mov.list', '20047', '');">🤺명감독들의 마스터피스📽 라스트 듀얼 &amp; 프렌치 디스패치 OPEN</a>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[💊당신의 선택이 모든 것이다 '매트릭스: 리저렉션' 오픈]]></title>
         <id>https://serieson.naver.com/events/20046?productType=movie</id>
         <link href="https://serieson.naver.com/events/20046?productType=movie"/>
         <updated>2022-01-18T16:04:06.274Z</updated>
         <content type="html"><![CDATA[<a href="/events/20046?productType=movie" class="" onclick="nclk(this, 'mov.list', '20046', '');">💊당신의 선택이 모든 것이다 '매트릭스: 리저렉션' 오픈</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[⚡️마블의 새 역사를 쓸 태초의 히어로 군단! ‘이터널스’ 드디어 시리즈온 상륙!]]></title>
-        <id>https://serieson.naver.com/events/20038?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20038?productType=movie"/>
-        <updated>2022-01-12T01:57:03.204Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20038?productType=movie" class="" onclick="nclk(this, 'mov.list', '20038', '');">⚡️마블의 새 역사를 쓸 태초의 히어로 군단! ‘이터널스’ 드디어 시리즈온 상륙!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[💜몬베베를 위한 친필 싸인 포스터 준비했어요! '몬스타엑스 : 더 드리밍'은 시리즈온에서]]></title>
