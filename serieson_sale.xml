@@ -4,7 +4,7 @@
         <title>[시리즈온] 할인 영화관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 14:03:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 15:02:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -115,16 +115,6 @@
             <enclosure url="https://tvstore-phinf.pstatic.net/20210730_113/1627610452046VuQOy_JPEG/SpaceJam_NewLegacy_PVOD_STD_V_DD_KA_TT_2160x2880_300dpi_KR.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[자막
-			
-			은혼 더 파이널]]></title>
-            <link>https://serieson.naver.com/v2/movie/454051</link>
-            <guid>https://serieson.naver.com/v2/movie/454051</guid>
-            <pubDate>Wed, 12 Jan 2022 15:02:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20210705_262/1625449679987vfb5k_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[발신제한]]></title>
             <link>https://serieson.naver.com/v2/movie/451276</link>
             <guid>https://serieson.naver.com/v2/movie/451276</guid>
@@ -228,6 +218,15 @@
             <pubDate>Tue, 25 Jan 2022 15:02:07 GMT</pubDate>
             <content:encoded><![CDATA[<span>2,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20111221_280/1324466540993xtxw5_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[더빙
+			스머프: 비밀의 숲]]></title>
+            <link>https://serieson.naver.com/v2/movie/426461</link>
+            <guid>https://serieson.naver.com/v2/movie/426461</guid>
+            <pubDate>Wed, 26 Jan 2022 15:02:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20170428_97/1493358197366gAMdD_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

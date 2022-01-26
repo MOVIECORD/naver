@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 14:03:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 15:02:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -277,16 +277,6 @@
             <enclosure url="https://tvstore-phinf.pstatic.net/20210730_113/1627610452046VuQOy_JPEG/SpaceJam_NewLegacy_PVOD_STD_V_DD_KA_TT_2160x2880_300dpi_KR.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[자막
-			
-			은혼 더 파이널 ([시리즈온] 할인 영화관)]]></title>
-            <link>https://serieson.naver.com/v2/movie/454051</link>
-            <guid>https://serieson.naver.com/v2/movie/454051</guid>
-            <pubDate>Wed, 12 Jan 2022 15:02:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20210705_262/1625449679987vfb5k_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[발신제한 ([시리즈온] 할인 영화관)]]></title>
             <link>https://serieson.naver.com/v2/movie/451276</link>
             <guid>https://serieson.naver.com/v2/movie/451276</guid>
@@ -390,6 +380,15 @@
             <pubDate>Tue, 25 Jan 2022 15:02:07 GMT</pubDate>
             <content:encoded><![CDATA[<span>2,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20111221_280/1324466540993xtxw5_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[더빙
+			스머프: 비밀의 숲 ([시리즈온] 할인 영화관)]]></title>
+            <link>https://serieson.naver.com/v2/movie/426461</link>
+            <guid>https://serieson.naver.com/v2/movie/426461</guid>
+            <pubDate>Wed, 26 Jan 2022 15:02:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20170428_97/1493358197366gAMdD_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[19
@@ -880,13 +879,6 @@
             <guid>https://serieson.naver.com/events/20049?productType=movie</guid>
             <pubDate>Sun, 23 Jan 2022 15:04:04 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/events/20049?productType=movie" class="" onclick="nclk(this, 'mov.list', '20049', '');">💜몬베베를 위한 친필 싸인 포스터 준비했어요! '몬스타엑스 : 더 드리밍'은 시리즈온에서</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[👿은혼 덕후들을 위한 소소한 굿즈 파티! '은혼 더 파이널' 이벤트 ([시리즈온] 이벤트)]]></title>
-            <link>https://serieson.naver.com/events/20040?productType=movie</link>
-            <guid>https://serieson.naver.com/events/20040?productType=movie</guid>
-            <pubDate>Wed, 12 Jan 2022 16:05:08 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/20040?productType=movie" class="" onclick="nclk(this, 'mov.list', '20040', '');">👿은혼 덕후들을 위한 소소한 굿즈 파티! '은혼 더 파이널' 이벤트</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[🌎SF 스릴러 마니아들을 위한 바로 그 영화! '콜로니 : 지구 귀환 프로젝트' 경품 이벤트! ([시리즈온] 이벤트)]]></title>
