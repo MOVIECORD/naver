@@ -4,7 +4,7 @@
         <title>[시리즈온] 천원관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 14:02:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 15:02:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,6 +88,14 @@
             <enclosure url="https://movie-phinf.pstatic.net/20170105_296/1483590193115rpMx5_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[바후발리: 더 비기닝]]></title>
+            <link>https://serieson.naver.com/v2/movie/471509</link>
+            <guid>https://serieson.naver.com/v2/movie/471509</guid>
+            <pubDate>Thu, 27 Jan 2022 15:02:33 GMT</pubDate>
+            <content:encoded><![CDATA[구매]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20161028_184/1477634993647Sfv5q_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[19
 			
 			
@@ -98,6 +106,14 @@
             <pubDate>Wed, 05 Jan 2022 08:03:14 GMT</pubDate>
             <content:encoded><![CDATA[대여]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20111223_213/1324648381006hL39S_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[터널]]></title>
+            <link>https://serieson.naver.com/v2/movie/459752</link>
+            <guid>https://serieson.naver.com/v2/movie/459752</guid>
+            <pubDate>Thu, 27 Jan 2022 15:02:33 GMT</pubDate>
+            <content:encoded><![CDATA[대여]]></content:encoded>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20211221_26/1640087574343pisqc_PNG/ONPOSTER_1813..png?type=f102_138" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[늑대와 춤을]]></title>
@@ -210,24 +226,6 @@
             <pubDate>Wed, 05 Jan 2022 08:03:14 GMT</pubDate>
             <content:encoded><![CDATA[대여]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20111222_138/1324545567577v2JLW_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자막
-			
-			애플시드]]></title>
-            <link>https://serieson.naver.com/v2/movie/438584</link>
-            <guid>https://serieson.naver.com/v2/movie/438584</guid>
-            <pubDate>Wed, 05 Jan 2022 08:03:14 GMT</pubDate>
-            <content:encoded><![CDATA[대여]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20111222_16/1324483132226IGQT6_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[허트 로커]]></title>
-            <link>https://serieson.naver.com/v2/movie/430943</link>
-            <guid>https://serieson.naver.com/v2/movie/430943</guid>
-            <pubDate>Mon, 17 Jan 2022 15:02:07 GMT</pubDate>
-            <content:encoded><![CDATA[구매]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20210302_125/1614661968971XyIiF_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
