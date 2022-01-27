@@ -4,9 +4,65 @@
         <title>[시리즈온] 이주의 무료영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 15:02:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 16:03:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[괴물]]></title>
+            <link>https://serieson.naver.com/v2/movie/71923</link>
+            <guid>https://serieson.naver.com/v2/movie/71923</guid>
+            <pubDate>Thu, 27 Jan 2022 15:02:15 GMT</pubDate>
+            <content:encoded><![CDATA[2월 10일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20111223_39/1324570929423jGaQ1_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미나리]]></title>
+            <link>https://serieson.naver.com/v2/movie/434527</link>
+            <guid>https://serieson.naver.com/v2/movie/434527</guid>
+            <pubDate>Thu, 27 Jan 2022 15:02:15 GMT</pubDate>
+            <content:encoded><![CDATA[2월 10일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20210322_142/1616399817643EJ85O_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미스비헤이비어]]></title>
+            <link>https://serieson.naver.com/v2/movie/380294</link>
+            <guid>https://serieson.naver.com/v2/movie/380294</guid>
+            <pubDate>Thu, 27 Jan 2022 15:02:15 GMT</pubDate>
+            <content:encoded><![CDATA[2월 10일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20200514_72/1589435843946AjfFa_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[더빙
+											극장판 엉덩이 탐정: 텐텐마을의 수수께끼]]></title>
+            <link>https://serieson.naver.com/v2/movie/400135</link>
+            <guid>https://serieson.naver.com/v2/movie/400135</guid>
+            <pubDate>Thu, 27 Jan 2022 15:02:15 GMT</pubDate>
+            <content:encoded><![CDATA[2월 10일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20200910_100/15997079459685APUj_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[더빙
+											극장판 엉덩이 탐정: 화려한 사건 수첩]]></title>
+            <link>https://serieson.naver.com/v2/movie/296600</link>
+            <guid>https://serieson.naver.com/v2/movie/296600</guid>
+            <pubDate>Thu, 27 Jan 2022 15:02:15 GMT</pubDate>
+            <content:encoded><![CDATA[2월 10일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20190703_81/1562118818582zl3bR_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[19
+										
+											
+										
+										
+										
+											레커스]]></title>
+            <link>https://serieson.naver.com/v2/movie/61932</link>
+            <guid>https://serieson.naver.com/v2/movie/61932</guid>
+            <pubDate>Thu, 27 Jan 2022 15:02:15 GMT</pubDate>
+            <content:encoded><![CDATA[2월 10일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20140313_148/13946711387104pLdw_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[영주]]></title>
             <link>https://serieson.naver.com/v2/movie/262613</link>
@@ -86,62 +142,6 @@
             <pubDate>Thu, 20 Jan 2022 15:01:58 GMT</pubDate>
             <content:encoded><![CDATA[2월 3일까지]]></content:encoded>
             <enclosure url="https://tvstore-phinf.pstatic.net/20211202_222/1638376911999NJqF1_PNG/ONPOSTER_2520.%2C.png?type=w320" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[괴물]]></title>
-            <link>https://serieson.naver.com/v2/movie/71923</link>
-            <guid>https://serieson.naver.com/v2/movie/71923</guid>
-            <pubDate>Thu, 27 Jan 2022 15:02:15 GMT</pubDate>
-            <content:encoded><![CDATA[2월 10일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20111223_39/1324570929423jGaQ1_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미나리]]></title>
-            <link>https://serieson.naver.com/v2/movie/434527</link>
-            <guid>https://serieson.naver.com/v2/movie/434527</guid>
-            <pubDate>Thu, 27 Jan 2022 15:02:15 GMT</pubDate>
-            <content:encoded><![CDATA[2월 10일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20210322_142/1616399817643EJ85O_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미스비헤이비어]]></title>
-            <link>https://serieson.naver.com/v2/movie/380294</link>
-            <guid>https://serieson.naver.com/v2/movie/380294</guid>
-            <pubDate>Thu, 27 Jan 2022 15:02:15 GMT</pubDate>
-            <content:encoded><![CDATA[2월 10일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20200514_72/1589435843946AjfFa_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더빙
-											극장판 엉덩이 탐정: 텐텐마을의 수수께끼]]></title>
-            <link>https://serieson.naver.com/v2/movie/400135</link>
-            <guid>https://serieson.naver.com/v2/movie/400135</guid>
-            <pubDate>Thu, 27 Jan 2022 15:02:15 GMT</pubDate>
-            <content:encoded><![CDATA[2월 10일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20200910_100/15997079459685APUj_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더빙
-											극장판 엉덩이 탐정: 화려한 사건 수첩]]></title>
-            <link>https://serieson.naver.com/v2/movie/296600</link>
-            <guid>https://serieson.naver.com/v2/movie/296600</guid>
-            <pubDate>Thu, 27 Jan 2022 15:02:15 GMT</pubDate>
-            <content:encoded><![CDATA[2월 10일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20190703_81/1562118818582zl3bR_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[19
-										
-											
-										
-										
-										
-											레커스]]></title>
-            <link>https://serieson.naver.com/v2/movie/61932</link>
-            <guid>https://serieson.naver.com/v2/movie/61932</guid>
-            <pubDate>Thu, 27 Jan 2022 15:02:15 GMT</pubDate>
-            <content:encoded><![CDATA[2월 10일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20140313_148/13946711387104pLdw_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[누나]]></title>

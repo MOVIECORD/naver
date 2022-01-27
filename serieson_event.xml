@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-01-27T15:02:51.050Z</updated>
+    <updated>2022-01-27T16:03:22.250Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[😎요즘 대세 최우식 X 캐릭터 물아일체 조진웅 '경관의 피' 오픈]]></title>
+        <id>https://serieson.naver.com/events/20055?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20055?productType=movie"/>
+        <updated>2022-01-27T16:03:21.541Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20055?productType=movie" class="" onclick="nclk(this, 'mov.list', '20055', '');">😎요즘 대세 최우식 X 캐릭터 물아일체 조진웅 '경관의 피' 오픈</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[💚무료 영화 보고 할인 쿠폰까지! 설 연휴에는 무료 영화와 함께!]]></title>
+        <id>https://serieson.naver.com/events/20061?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20061?productType=movie"/>
+        <updated>2022-01-27T16:03:21.551Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20061?productType=movie" class="" onclick="nclk(this, 'mov.list', '20061', '');">💚무료 영화 보고 할인 쿠폰까지! 설 연휴에는 무료 영화와 함께!</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[☑️마블 페이즈 4 독파 기원! '이터널스' 2차 이벤트]]></title>
         <id>https://serieson.naver.com/events/20058?productType=movie</id>
@@ -32,6 +46,20 @@
         <link href="https://serieson.naver.com/events/20046?productType=movie"/>
         <updated>2022-01-18T16:04:06.274Z</updated>
         <content type="html"><![CDATA[<a href="/events/20046?productType=movie" class="" onclick="nclk(this, 'mov.list', '20046', '');">💊당신의 선택이 모든 것이다 '매트릭스: 리저렉션' 오픈</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[❤️설레는 할인 영화 왔설! 설날 특집 할인 영화관 오픈!]]></title>
+        <id>https://serieson.naver.com/events/20062?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20062?productType=movie"/>
+        <updated>2022-01-27T16:03:21.557Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20062?productType=movie" class="" onclick="nclk(this, 'mov.list', '20062', '');">❤️설레는 할인 영화 왔설! 설날 특집 할인 영화관 오픈!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[💕첫사랑 강제 소환 로맨스 '청춘적니' 보고 굿즈 패키지 & 피자까지 받아가세요!]]></title>
+        <id>https://serieson.naver.com/events/20060?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20060?productType=movie"/>
+        <updated>2022-01-27T16:03:21.559Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20060?productType=movie" class="" onclick="nclk(this, 'mov.list', '20060', '');">💕첫사랑 강제 소환 로맨스 '청춘적니' 보고 굿즈 패키지 &amp; 피자까지 받아가세요!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[💜몬베베를 위한 친필 싸인 포스터 준비했어요! '몬스타엑스 : 더 드리밍'은 시리즈온에서]]></title>
