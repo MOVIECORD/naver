@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jan 2022 00:17:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jan 2022 01:48:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,6 +62,22 @@
             <pubDate>Thu, 27 Jan 2022 15:02:15 GMT</pubDate>
             <content:encoded><![CDATA[2월 10일까지]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20140313_148/13946711387104pLdw_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[누나 ([시리즈온] 이주의 무료영화)]]></title>
+            <link>https://serieson.naver.com/v2/movie/32591</link>
+            <guid>https://serieson.naver.com/v2/movie/32591</guid>
+            <pubDate>Thu, 27 Jan 2022 15:02:15 GMT</pubDate>
+            <content:encoded><![CDATA[2월 10일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20121217_170/1355726448974mjlRI_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미스터트롯: 더 무비 ([시리즈온] 이주의 무료영화)]]></title>
+            <link>https://serieson.naver.com/v2/movie/410491</link>
+            <guid>https://serieson.naver.com/v2/movie/410491</guid>
+            <pubDate>Thu, 27 Jan 2022 15:02:15 GMT</pubDate>
+            <content:encoded><![CDATA[2월 10일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20201019_111/1603092087603GpkMV_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[영주 ([시리즈온] 이주의 무료영화)]]></title>
@@ -142,22 +158,6 @@
             <pubDate>Thu, 20 Jan 2022 15:01:58 GMT</pubDate>
             <content:encoded><![CDATA[2월 3일까지]]></content:encoded>
             <enclosure url="https://tvstore-phinf.pstatic.net/20211202_222/1638376911999NJqF1_PNG/ONPOSTER_2520.%2C.png?type=w320" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[누나 ([시리즈온] 이주의 무료영화)]]></title>
-            <link>https://serieson.naver.com/v2/movie/32591</link>
-            <guid>https://serieson.naver.com/v2/movie/32591</guid>
-            <pubDate>Thu, 27 Jan 2022 15:02:15 GMT</pubDate>
-            <content:encoded><![CDATA[2월 10일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20121217_170/1355726448974mjlRI_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미스터트롯: 더 무비 ([시리즈온] 이주의 무료영화)]]></title>
-            <link>https://serieson.naver.com/v2/movie/410491</link>
-            <guid>https://serieson.naver.com/v2/movie/410491</guid>
-            <pubDate>Thu, 27 Jan 2022 15:02:15 GMT</pubDate>
-            <content:encoded><![CDATA[2월 10일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20201019_111/1603092087603GpkMV_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[매트릭스: 리저렉션(데자뷔 세.. ([시리즈온] 할인 영화관)]]></title>
