@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Jan 2022 10:02:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Jan 2022 11:02:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -595,6 +595,24 @@
             <enclosure url="https://movie-phinf.pstatic.net/20111222_138/1324545567577v2JLW_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[사바하(가치봄영화:시청각장애.. ([시리즈온] 가치봄 영화관)]]></title>
+            <link>https://serieson.naver.com/v2/movie/484774</link>
+            <guid>https://serieson.naver.com/v2/movie/484774</guid>
+            <pubDate>Sat, 29 Jan 2022 11:02:29 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="">구매</em>
+                    <strong class="payment"><span>6,050</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20190128_284/1548637887932Dwfkj_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사바하(가치봄영화:시청각장애.. ([시리즈온] 가치봄 영화관)]]></title>
+            <link>https://serieson.naver.com/v2/movie/484773</link>
+            <guid>https://serieson.naver.com/v2/movie/484773</guid>
+            <pubDate>Sat, 29 Jan 2022 11:02:29 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="">대여</em>
+					<strong class="payment"><span>1,540</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20190128_284/1548637887932Dwfkj_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[소리도 없이(가치봄영화:시청각.. ([시리즈온] 가치봄 영화관)]]></title>
             <link>https://serieson.naver.com/v2/movie/484315</link>
             <guid>https://serieson.naver.com/v2/movie/484315</guid>
@@ -808,24 +826,6 @@
             <content:encoded><![CDATA[<em class="">구매</em>
                     <strong class="payment"><span>7,150</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
             <enclosure url="https://tvstore-phinf.pstatic.net/20210504_123/1620115047276vk493_JPEG/___%281%29.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[학교 가는 길(가치봄영화:시청.. ([시리즈온] 가치봄 영화관)]]></title>
-            <link>https://serieson.naver.com/v2/movie/480947</link>
-            <guid>https://serieson.naver.com/v2/movie/480947</guid>
-            <pubDate>Thu, 06 Jan 2022 05:08:27 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="">구매</em>
-                    <strong class="payment"><span>5,000</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20210416_118/1618536200110fLn7g_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세자매(가치봄영화:시청각장애.. ([시리즈온] 가치봄 영화관)]]></title>
-            <link>https://serieson.naver.com/v2/movie/480712</link>
-            <guid>https://serieson.naver.com/v2/movie/480712</guid>
-            <pubDate>Wed, 05 Jan 2022 09:02:23 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="">대여</em>
-					<strong class="payment"><span>2,750</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20210114_78/1610588407942CoL2I_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[🌝룰렛만 돌리면 100% 선물! 시리즈온이 쏘는 설날 선물! ([시리즈온] 이벤트)]]></title>
