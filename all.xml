@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Jan 2022 05:02:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Jan 2022 06:03:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 27 Jan 2022 15:02:15 GMT</pubDate>
             <content:encoded><![CDATA[2월 10일까지]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20210322_142/1616399817643EJ85O_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미스터트롯: 더 무비 ([시리즈온] 이주의 무료영화)]]></title>
+            <link>https://serieson.naver.com/v2/movie/410491</link>
+            <guid>https://serieson.naver.com/v2/movie/410491</guid>
+            <pubDate>Thu, 27 Jan 2022 15:02:15 GMT</pubDate>
+            <content:encoded><![CDATA[2월 10일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20201019_111/1603092087603GpkMV_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[미스비헤이비어 ([시리즈온] 이주의 무료영화)]]></title>
@@ -39,14 +47,6 @@
             <pubDate>Thu, 27 Jan 2022 15:02:15 GMT</pubDate>
             <content:encoded><![CDATA[2월 10일까지]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20111223_39/1324570929423jGaQ1_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미스터트롯: 더 무비 ([시리즈온] 이주의 무료영화)]]></title>
-            <link>https://serieson.naver.com/v2/movie/410491</link>
-            <guid>https://serieson.naver.com/v2/movie/410491</guid>
-            <pubDate>Thu, 27 Jan 2022 15:02:15 GMT</pubDate>
-            <content:encoded><![CDATA[2월 10일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20201019_111/1603092087603GpkMV_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[더빙
@@ -826,6 +826,13 @@
             <content:encoded><![CDATA[<em class="">대여</em>
 					<strong class="payment"><span>2,750</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20210114_78/1610588407942CoL2I_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[🌝룰렛만 돌리면 100% 선물! 시리즈온이 쏘는 설날 선물! ([시리즈온] 이벤트)]]></title>
+            <link>https://serieson.naver.com/events/20044?productType=movie</link>
+            <guid>https://serieson.naver.com/events/20044?productType=movie</guid>
+            <pubDate>Sat, 29 Jan 2022 06:03:53 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/events/20044?productType=movie" class="" onclick="nclk(this, 'mov.list', '20044', '');">🌝룰렛만 돌리면 100% 선물! 시리즈온이 쏘는 설날 선물!</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[😎요즘 대세 최우식 X 캐릭터 물아일체 조진웅 '경관의 피' 오픈 ([시리즈온] 이벤트)]]></title>
