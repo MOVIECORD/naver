@@ -4,7 +4,7 @@
         <title>[시리즈온] 할인 영화관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Jan 2022 14:02:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jan 2022 15:02:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -36,7 +36,7 @@
             <link>https://serieson.naver.com/v2/movie/478299</link>
             <guid>https://serieson.naver.com/v2/movie/478299</guid>
             <pubDate>Thu, 27 Jan 2022 15:02:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span>4,900</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
+            <content:encoded><![CDATA[<span>3,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20211124_43/1637743619864giKMl_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
