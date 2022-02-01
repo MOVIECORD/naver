@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Feb 2022 14:02:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Feb 2022 15:02:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -158,6 +158,14 @@
             <pubDate>Thu, 20 Jan 2022 15:01:58 GMT</pubDate>
             <content:encoded><![CDATA[2월 3일까지]]></content:encoded>
             <enclosure url="https://tvstore-phinf.pstatic.net/20211202_222/1638376911999NJqF1_PNG/ONPOSTER_2520.%2C.png?type=w320" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[씽2게더(세트: 1~2편) ([시리즈온] 할인 영화관)]]></title>
+            <link>https://serieson.naver.com/v2/movie/484280</link>
+            <guid>https://serieson.naver.com/v2/movie/484280</guid>
+            <pubDate>Tue, 01 Feb 2022 15:02:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span>19,120</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20220118_220/1642471073458re5VN_JPEG/2000x3000_Sing_2_KR_KOR_Digital_Keyart_XYi.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[매트릭스: 리저렉션(데자뷔 세.. ([시리즈온] 할인 영화관)]]></title>
@@ -367,14 +375,6 @@
             <enclosure url="https://movie-phinf.pstatic.net/20211014_239/1634178046447cBXmT_PNG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[바이크 솔저 ([시리즈온] 할인 영화관)]]></title>
-            <link>https://serieson.naver.com/v2/movie/468034</link>
-            <guid>https://serieson.naver.com/v2/movie/468034</guid>
-            <pubDate>Thu, 27 Jan 2022 15:02:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2,250</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20211013_75/1634103911513Ppqbq_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[19
 			
 			
@@ -575,24 +575,23 @@
             <enclosure url="https://movie-phinf.pstatic.net/20111223_229/1324638045324sOPfS_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[19
-			
-			
-			
-			남과 여 ([시리즈온] 천원관)]]></title>
-            <link>https://serieson.naver.com/v2/movie/439031</link>
-            <guid>https://serieson.naver.com/v2/movie/439031</guid>
-            <pubDate>Wed, 05 Jan 2022 08:03:14 GMT</pubDate>
+            <title><![CDATA[더빙
+			크루즈 패밀리: 뉴 에이지 ([시리즈온] 천원관)]]></title>
+            <link>https://serieson.naver.com/v2/movie/445738</link>
+            <guid>https://serieson.naver.com/v2/movie/445738</guid>
+            <pubDate>Tue, 01 Feb 2022 15:02:21 GMT</pubDate>
             <content:encoded><![CDATA[대여]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20160215_163/1455527110149mO3mt_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+            <enclosure url="https://movie-phinf.pstatic.net/20210510_287/16206206819509mLLg_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[번지 점프를 하다 ([시리즈온] 천원관)]]></title>
-            <link>https://serieson.naver.com/v2/movie/439027</link>
-            <guid>https://serieson.naver.com/v2/movie/439027</guid>
-            <pubDate>Wed, 05 Jan 2022 08:03:14 GMT</pubDate>
+            <title><![CDATA[자막
+			
+			크루즈 패밀리: 뉴 에이지 ([시리즈온] 천원관)]]></title>
+            <link>https://serieson.naver.com/v2/movie/445737</link>
+            <guid>https://serieson.naver.com/v2/movie/445737</guid>
+            <pubDate>Tue, 01 Feb 2022 15:02:21 GMT</pubDate>
             <content:encoded><![CDATA[대여]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20111222_138/1324545567577v2JLW_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+            <enclosure url="https://movie-phinf.pstatic.net/20210510_287/16206206819509mLLg_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[인천스텔라(가치봄영화:시청각.. ([시리즈온] 가치봄 영화관)]]></title>
