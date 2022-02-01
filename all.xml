@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Feb 2022 15:02:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Feb 2022 16:03:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -822,6 +822,13 @@
             <content:encoded><![CDATA[<em class="">대여</em>
 					<strong class="payment"><span>1,200</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20190329_266/15538347866861YXl3_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[💜역대급 신나는 스테이지로 초대! 씽2게더 오픈 이벤트 ([시리즈온] 이벤트)]]></title>
+            <link>https://serieson.naver.com/events/20059?productType=movie</link>
+            <guid>https://serieson.naver.com/events/20059?productType=movie</guid>
+            <pubDate>Tue, 01 Feb 2022 16:03:21 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/events/20059?productType=movie" class="" onclick="nclk(this, 'mov.list', '20059', '');">💜역대급 신나는 스테이지로 초대! 씽2게더 오픈 이벤트</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[🌝룰렛만 돌리면 100% 선물! 시리즈온이 쏘는 설날 선물! ([시리즈온] 이벤트)]]></title>

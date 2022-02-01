@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-02-01T15:02:40.068Z</updated>
+    <updated>2022-02-01T16:03:22.197Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[💜역대급 신나는 스테이지로 초대! 씽2게더 오픈 이벤트]]></title>
+        <id>https://serieson.naver.com/events/20059?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20059?productType=movie"/>
+        <updated>2022-02-01T16:03:21.602Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20059?productType=movie" class="" onclick="nclk(this, 'mov.list', '20059', '');">💜역대급 신나는 스테이지로 초대! 씽2게더 오픈 이벤트</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🌝룰렛만 돌리면 100% 선물! 시리즈온이 쏘는 설날 선물!]]></title>
         <id>https://serieson.naver.com/events/20044?productType=movie</id>
