@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-02-02T14:02:39.353Z</updated>
+    <updated>2022-02-02T15:02:57.709Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
     <entry>
@@ -11,13 +11,6 @@
         <link href="https://serieson.naver.com/events/20059?productType=movie"/>
         <updated>2022-02-01T16:03:21.602Z</updated>
         <content type="html"><![CDATA[<a href="/events/20059?productType=movie" class="" onclick="nclk(this, 'mov.list', '20059', '');">💜역대급 신나는 스테이지로 초대! 씽2게더 오픈 이벤트</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🌝룰렛만 돌리면 100% 선물! 시리즈온이 쏘는 설날 선물!]]></title>
-        <id>https://serieson.naver.com/events/20044?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20044?productType=movie"/>
-        <updated>2022-01-29T06:03:53.042Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20044?productType=movie" class="" onclick="nclk(this, 'mov.list', '20044', '');">🌝룰렛만 돌리면 100% 선물! 시리즈온이 쏘는 설날 선물!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[😎요즘 대세 최우식 X 캐릭터 물아일체 조진웅 '경관의 피' 오픈]]></title>
@@ -53,20 +46,6 @@
         <link href="https://serieson.naver.com/events/20056?productType=movie"/>
         <updated>2022-01-25T16:03:28.701Z</updated>
         <content type="html"><![CDATA[<a href="/events/20056?productType=movie" class="" onclick="nclk(this, 'mov.list', '20056', '');">🌟웨스 앤더슨 감독의 마스터피스 '프렌치 디스패치' 경품 이벤트</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[💊당신의 선택이 모든 것이다 '매트릭스: 리저렉션' 오픈]]></title>
-        <id>https://serieson.naver.com/events/20046?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20046?productType=movie"/>
-        <updated>2022-01-18T16:04:06.274Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20046?productType=movie" class="" onclick="nclk(this, 'mov.list', '20046', '');">💊당신의 선택이 모든 것이다 '매트릭스: 리저렉션' 오픈</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[❤️설레는 할인 영화 왔설! 설날 특집 할인 영화관 오픈!]]></title>
-        <id>https://serieson.naver.com/events/20062?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20062?productType=movie"/>
-        <updated>2022-01-27T16:03:21.557Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20062?productType=movie" class="" onclick="nclk(this, 'mov.list', '20062', '');">❤️설레는 할인 영화 왔설! 설날 특집 할인 영화관 오픈!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[💕첫사랑 강제 소환 로맨스 '청춘적니' 보고 굿즈 패키지 & 피자까지 받아가세요!]]></title>
