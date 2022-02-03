@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 14:02:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 15:02:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Thu, 27 Jan 2022 15:02:15 GMT</pubDate>
             <content:encoded><![CDATA[2월 10일까지]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20210322_142/1616399817643EJ85O_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영주 ([시리즈온] 이주의 무료영화)]]></title>
-            <link>https://serieson.naver.com/v2/movie/262613</link>
-            <guid>https://serieson.naver.com/v2/movie/262613</guid>
-            <pubDate>Thu, 20 Jan 2022 15:01:58 GMT</pubDate>
-            <content:encoded><![CDATA[2월 3일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20181030_246/1540890794923n6bvy_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[미스터트롯: 더 무비 ([시리즈온] 이주의 무료영화)]]></title>
@@ -116,48 +108,70 @@
             <enclosure url="https://movie-phinf.pstatic.net/20120503_25/1336030401291NPRzw_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[자막
+            <title><![CDATA[킥복서 더 레전드 ([시리즈온] 이주의 무료영화)]]></title>
+            <link>https://serieson.naver.com/v2/movie/241083</link>
+            <guid>https://serieson.naver.com/v2/movie/241083</guid>
+            <pubDate>Thu, 03 Feb 2022 15:01:57 GMT</pubDate>
+            <content:encoded><![CDATA[2월 17일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20180723_159/1532309874242rqP0e_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[19
 										
-											경계의 저편 : I'LL BE HERE -과거편- ([시리즈온] 이주의 무료영화)]]></title>
-            <link>https://serieson.naver.com/v2/movie/403113</link>
-            <guid>https://serieson.naver.com/v2/movie/403113</guid>
-            <pubDate>Thu, 20 Jan 2022 15:01:58 GMT</pubDate>
-            <content:encoded><![CDATA[2월 3일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20150915_128/1442299882676YK28J_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자막
+											
 										
-											경계의 저편 : I'LL BE HERE -미래편- ([시리즈온] 이주의 무료영화)]]></title>
-            <link>https://serieson.naver.com/v2/movie/403114</link>
-            <guid>https://serieson.naver.com/v2/movie/403114</guid>
-            <pubDate>Thu, 20 Jan 2022 15:01:58 GMT</pubDate>
-            <content:encoded><![CDATA[2월 3일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20150915_275/1442301018454TcG7d_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+										
+										
+											언더 더 트리 ([시리즈온] 이주의 무료영화)]]></title>
+            <link>https://serieson.naver.com/v2/movie/256905</link>
+            <guid>https://serieson.naver.com/v2/movie/256905</guid>
+            <pubDate>Thu, 03 Feb 2022 15:01:57 GMT</pubDate>
+            <content:encoded><![CDATA[2월 17일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20180927_121/1538026737280rezo2_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[엔젤 오브 마인 ([시리즈온] 이주의 무료영화)]]></title>
-            <link>https://serieson.naver.com/v2/movie/329188</link>
-            <guid>https://serieson.naver.com/v2/movie/329188</guid>
-            <pubDate>Thu, 20 Jan 2022 15:01:58 GMT</pubDate>
-            <content:encoded><![CDATA[2월 3일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20191011_108/1570785034079WXwBY_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+            <title><![CDATA[19
+										
+											
+										
+										
+										
+											살인 예술가 ([시리즈온] 이주의 무료영화)]]></title>
+            <link>https://serieson.naver.com/v2/movie/230562</link>
+            <guid>https://serieson.naver.com/v2/movie/230562</guid>
+            <pubDate>Thu, 03 Feb 2022 15:01:57 GMT</pubDate>
+            <content:encoded><![CDATA[2월 17일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20180412_103/1523513648595IjrFC_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[미스터 노바디(감독판) ([시리즈온] 이주의 무료영화)]]></title>
-            <link>https://serieson.naver.com/v2/movie/394027</link>
-            <guid>https://serieson.naver.com/v2/movie/394027</guid>
-            <pubDate>Thu, 20 Jan 2022 15:01:58 GMT</pubDate>
-            <content:encoded><![CDATA[2월 3일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20200811_26/15971069070568A27v_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+            <title><![CDATA[1945: 포인트 오브 노 리턴 ([시리즈온] 이주의 무료영화)]]></title>
+            <link>https://serieson.naver.com/v2/movie/382746</link>
+            <guid>https://serieson.naver.com/v2/movie/382746</guid>
+            <pubDate>Thu, 03 Feb 2022 15:01:57 GMT</pubDate>
+            <content:encoded><![CDATA[2월 17일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20200526_72/1590454346011i8rlq_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[스탠바이, 웬디 ([시리즈온] 이주의 무료영화)]]></title>
-            <link>https://serieson.naver.com/v2/movie/235252</link>
-            <guid>https://serieson.naver.com/v2/movie/235252</guid>
-            <pubDate>Thu, 20 Jan 2022 15:01:58 GMT</pubDate>
-            <content:encoded><![CDATA[2월 3일까지]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20211202_222/1638376911999NJqF1_PNG/ONPOSTER_2520.%2C.png?type=w320" length="0" type="image/png"/>
+            <title><![CDATA[마담 B ([시리즈온] 이주의 무료영화)]]></title>
+            <link>https://serieson.naver.com/v2/movie/261090</link>
+            <guid>https://serieson.naver.com/v2/movie/261090</guid>
+            <pubDate>Thu, 03 Feb 2022 15:01:57 GMT</pubDate>
+            <content:encoded><![CDATA[2월 17일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20181030_126/1540874871840gCMoh_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[19
+										
+											
+										
+										
+										
+											데스 콜 ([시리즈온] 이주의 무료영화)]]></title>
+            <link>https://serieson.naver.com/v2/movie/223750</link>
+            <guid>https://serieson.naver.com/v2/movie/223750</guid>
+            <pubDate>Thu, 03 Feb 2022 15:01:57 GMT</pubDate>
+            <content:encoded><![CDATA[2월 17일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20180213_58/1518506126929tpj6W_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[씽2게더(세트: 1~2편) ([시리즈온] 할인 영화관)]]></title>
@@ -211,14 +225,6 @@
             <enclosure url="https://tvstore-phinf.pstatic.net/20211206_137/1638769611123w2kzJ_JPEG/DP_6322394_TheMitchellsVsTheMachines_2000x3000_KR.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[노 서든 무브 ([시리즈온] 할인 영화관)]]></title>
-            <link>https://serieson.naver.com/v2/movie/475730</link>
-            <guid>https://serieson.naver.com/v2/movie/475730</guid>
-            <pubDate>Thu, 27 Jan 2022 15:02:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2,750</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20211201_86/1638355814174KTdre_JPEG/NoSuddenMove_V_DD_KA_TT_2000x2841_300dpi_KR.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[19
 			
 			
@@ -229,34 +235,6 @@
             <pubDate>Mon, 03 Jan 2022 20:02:05 GMT</pubDate>
             <content:encoded><![CDATA[<span>16,250</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
             <enclosure url="https://tvstore-phinf.pstatic.net/20211103_255/163590997225821GVt_JPEG/POSTER_--10.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크라이 마초 ([시리즈온] 할인 영화관)]]></title>
-            <link>https://serieson.naver.com/v2/movie/470351</link>
-            <guid>https://serieson.naver.com/v2/movie/470351</guid>
-            <pubDate>Thu, 27 Jan 2022 15:02:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2,750</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20211101_98/1635749288426F25Eq_JPEG/CryMacho_STD_PVOD_V_DD_KA_TT_2000x3000_300dpi_KR.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[19
-			
-			
-			
-			말리그넌트 ([시리즈온] 할인 영화관)]]></title>
-            <link>https://serieson.naver.com/v2/movie/466062</link>
-            <guid>https://serieson.naver.com/v2/movie/466062</guid>
-            <pubDate>Wed, 02 Feb 2022 15:02:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2,750</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20211006_72/1633520380078jBa53_JPEG/Malignant_STD_V_DD_KA_TT_2160x2880_300dpi_KR.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레미니센스 ([시리즈온] 할인 영화관)]]></title>
-            <link>https://serieson.naver.com/v2/movie/462124</link>
-            <guid>https://serieson.naver.com/v2/movie/462124</guid>
-            <pubDate>Wed, 02 Feb 2022 15:02:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2,750</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20210914_165/16315950048003l0Xx_JPEG/REMINISCENCE_PVOD_STD_V_DD_KA_TT_2160x2880_300dpi_KR.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[19
@@ -322,6 +300,22 @@
             <enclosure url="https://tvstore-phinf.pstatic.net/20210730_113/1627610452046VuQOy_JPEG/SpaceJam_NewLegacy_PVOD_STD_V_DD_KA_TT_2160x2880_300dpi_KR.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[스페이스 잼: 새로운 시대(패키.. ([시리즈온] 할인 영화관)]]></title>
+            <link>https://serieson.naver.com/v2/movie/453850</link>
+            <guid>https://serieson.naver.com/v2/movie/453850</guid>
+            <pubDate>Thu, 03 Feb 2022 15:02:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span>5,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20210730_113/1627610452046VuQOy_JPEG/SpaceJam_NewLegacy_PVOD_STD_V_DD_KA_TT_2160x2880_300dpi_KR.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스페이스 잼 ([시리즈온] 할인 영화관)]]></title>
+            <link>https://serieson.naver.com/v2/movie/453859</link>
+            <guid>https://serieson.naver.com/v2/movie/453859</guid>
+            <pubDate>Thu, 03 Feb 2022 15:02:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span>3,300</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20210803_243/1627979691478Hsh4A_JPEG/SpaceJam_1996_4K_V_DD_KA_TT_2160x2880_300dpi_KR.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[발신제한 ([시리즈온] 할인 영화관)]]></title>
             <link>https://serieson.naver.com/v2/movie/451276</link>
             <guid>https://serieson.naver.com/v2/movie/451276</guid>
@@ -379,6 +373,22 @@
             <pubDate>Wed, 02 Feb 2022 15:02:30 GMT</pubDate>
             <content:encoded><![CDATA[<span>3,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20210510_287/16206206819509mLLg_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가불가이, 아희환니 ([시리즈온] 할인 영화관)]]></title>
+            <link>https://serieson.naver.com/v2/movie/441910</link>
+            <guid>https://serieson.naver.com/v2/movie/441910</guid>
+            <pubDate>Thu, 03 Feb 2022 15:02:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span>1,250</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20210528_270/1622176260091E0rTt_JPEG/__.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[고수고수고고수 ([시리즈온] 할인 영화관)]]></title>
+            <link>https://serieson.naver.com/v2/movie/439074</link>
+            <guid>https://serieson.naver.com/v2/movie/439074</guid>
+            <pubDate>Thu, 03 Feb 2022 15:02:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span>1,250</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20210510_234/1620624869625Qp92Q_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[19
