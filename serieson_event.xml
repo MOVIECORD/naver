@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-02-03T02:17:53.697Z</updated>
+    <updated>2022-02-03T03:04:04.397Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
     <entry>
@@ -18,13 +18,6 @@
         <link href="https://serieson.naver.com/events/20055?productType=movie"/>
         <updated>2022-01-27T16:03:21.541Z</updated>
         <content type="html"><![CDATA[<a href="/events/20055?productType=movie" class="" onclick="nclk(this, 'mov.list', '20055', '');">😎요즘 대세 최우식 X 캐릭터 물아일체 조진웅 '경관의 피' 오픈</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[💚무료 영화 보고 할인 쿠폰까지! 설 연휴에는 무료 영화와 함께!]]></title>
-        <id>https://serieson.naver.com/events/20061?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20061?productType=movie"/>
-        <updated>2022-01-27T16:03:21.551Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20061?productType=movie" class="" onclick="nclk(this, 'mov.list', '20061', '');">💚무료 영화 보고 할인 쿠폰까지! 설 연휴에는 무료 영화와 함께!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[☑️마블 페이즈 4 독파 기원! '이터널스' 2차 이벤트]]></title>

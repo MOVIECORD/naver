@@ -4,7 +4,7 @@
         <title>[시리즈온] 이주의 무료영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 02:17:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 03:04:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 27 Jan 2022 15:02:15 GMT</pubDate>
             <content:encoded><![CDATA[2월 10일까지]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20210322_142/1616399817643EJ85O_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[영주]]></title>
+            <link>https://serieson.naver.com/v2/movie/262613</link>
+            <guid>https://serieson.naver.com/v2/movie/262613</guid>
+            <pubDate>Thu, 20 Jan 2022 15:01:58 GMT</pubDate>
+            <content:encoded><![CDATA[2월 3일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20181030_246/1540890794923n6bvy_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[미스터트롯: 더 무비]]></title>
@@ -30,6 +38,14 @@
             <pubDate>Thu, 27 Jan 2022 15:02:15 GMT</pubDate>
             <content:encoded><![CDATA[2월 10일까지]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20200514_72/1589435843946AjfFa_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[누나]]></title>
+            <link>https://serieson.naver.com/v2/movie/32591</link>
+            <guid>https://serieson.naver.com/v2/movie/32591</guid>
+            <pubDate>Thu, 27 Jan 2022 15:02:15 GMT</pubDate>
+            <content:encoded><![CDATA[2월 10일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20121217_170/1355726448974mjlRI_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[더빙
@@ -70,22 +86,6 @@
             <pubDate>Thu, 27 Jan 2022 15:02:15 GMT</pubDate>
             <content:encoded><![CDATA[2월 10일까지]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20140313_148/13946711387104pLdw_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[누나]]></title>
-            <link>https://serieson.naver.com/v2/movie/32591</link>
-            <guid>https://serieson.naver.com/v2/movie/32591</guid>
-            <pubDate>Thu, 27 Jan 2022 15:02:15 GMT</pubDate>
-            <content:encoded><![CDATA[2월 10일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20121217_170/1355726448974mjlRI_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영주]]></title>
-            <link>https://serieson.naver.com/v2/movie/262613</link>
-            <guid>https://serieson.naver.com/v2/movie/262613</guid>
-            <pubDate>Thu, 20 Jan 2022 15:01:58 GMT</pubDate>
-            <content:encoded><![CDATA[2월 3일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20181030_246/1540890794923n6bvy_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[19
