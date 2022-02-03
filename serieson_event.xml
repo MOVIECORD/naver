@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-02-03T15:02:33.447Z</updated>
+    <updated>2022-02-03T16:03:08.121Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://serieson.naver.com/events/20055?productType=movie"/>
         <updated>2022-01-27T16:03:21.541Z</updated>
         <content type="html"><![CDATA[<a href="/events/20055?productType=movie" class="" onclick="nclk(this, 'mov.list', '20055', '');">😎요즘 대세 최우식 X 캐릭터 물아일체 조진웅 '경관의 피' 오픈</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🚗박소담의 풀악셀 카체이싱 '특송' 보고 1만 캐시 받자!]]></title>
+        <id>https://serieson.naver.com/events/20064?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20064?productType=movie"/>
+        <updated>2022-02-03T16:03:07.285Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20064?productType=movie" class="" onclick="nclk(this, 'mov.list', '20064', '');">🚗박소담의 풀악셀 카체이싱 '특송' 보고 1만 캐시 받자!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🗼운명을 바꾸기 위한 타임리프! 푸짐한 굿즈와 함께 '도쿄 리벤저스' 오픈]]></title>
