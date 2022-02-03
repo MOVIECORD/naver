@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 06:03:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 07:02:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -846,6 +846,13 @@
             <guid>https://serieson.naver.com/events/20055?productType=movie</guid>
             <pubDate>Thu, 27 Jan 2022 16:03:21 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/events/20055?productType=movie" class="" onclick="nclk(this, 'mov.list', '20055', '');">😎요즘 대세 최우식 X 캐릭터 물아일체 조진웅 '경관의 피' 오픈</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[🗼운명을 바꾸기 위한 타임리프! 푸짐한 굿즈와 함께 '도쿄 리벤저스' 오픈 ([시리즈온] 이벤트)]]></title>
+            <link>https://serieson.naver.com/events/20071?productType=movie</link>
+            <guid>https://serieson.naver.com/events/20071?productType=movie</guid>
+            <pubDate>Thu, 03 Feb 2022 07:02:44 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/events/20071?productType=movie" class="" onclick="nclk(this, 'mov.list', '20071', '');">🗼운명을 바꾸기 위한 타임리프! 푸짐한 굿즈와 함께 '도쿄 리벤저스' 오픈</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[☑️마블 페이즈 4 독파 기원! '이터널스' 2차 이벤트 ([시리즈온] 이벤트)]]></title>
