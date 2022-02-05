@@ -4,9 +4,36 @@
         <title>[시리즈온] 가치봄 영화관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Feb 2022 11:02:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Feb 2022 12:02:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[해피 투게더(가치봄영화:시청각..]]></title>
+            <link>https://serieson.naver.com/v2/movie/485584</link>
+            <guid>https://serieson.naver.com/v2/movie/485584</guid>
+            <pubDate>Sat, 05 Feb 2022 12:02:28 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="">구매</em>
+                    <strong class="payment"><span>1,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20181116_119/1542355085445eqNwH_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[최선의 삶(가치봄영화:시청각장..]]></title>
+            <link>https://serieson.naver.com/v2/movie/485583</link>
+            <guid>https://serieson.naver.com/v2/movie/485583</guid>
+            <pubDate>Sat, 05 Feb 2022 12:02:28 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="">구매</em>
+                    <strong class="payment"><span>5,000</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20210811_1/1628665286130nL711_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[열아홉(가치봄영화:시청각장애..]]></title>
+            <link>https://serieson.naver.com/v2/movie/485582</link>
+            <guid>https://serieson.naver.com/v2/movie/485582</guid>
+            <pubDate>Sat, 05 Feb 2022 12:02:28 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="">구매</em>
+                    <strong class="payment"><span>2,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20210609_190/1623218016233uptm2_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[비와 당신의 이야기(가치봄영화..]]></title>
             <link>https://serieson.naver.com/v2/movie/485581</link>
@@ -204,33 +231,6 @@
             <content:encoded><![CDATA[<em class="">구매</em>
                     <strong class="payment"><span>7,150</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20201015_2/1602724155859rmaMc_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[천문: 하늘에 묻는다(가치봄영..]]></title>
-            <link>https://serieson.naver.com/v2/movie/482975</link>
-            <guid>https://serieson.naver.com/v2/movie/482975</guid>
-            <pubDate>Wed, 19 Jan 2022 19:02:30 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="">대여</em>
-					<strong class="payment"><span>1,800</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20211026_52/1635211445203Tobm0_PNG/ONPOSTER_13.___.png?type=f102_138" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[천문: 하늘에 묻는다(가치봄영..]]></title>
-            <link>https://serieson.naver.com/v2/movie/482974</link>
-            <guid>https://serieson.naver.com/v2/movie/482974</guid>
-            <pubDate>Wed, 19 Jan 2022 19:02:30 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="">구매</em>
-                    <strong class="payment"><span>3,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20211026_52/1635211445203Tobm0_PNG/ONPOSTER_13.___.png?type=f102_138" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[사자(가치봄영화:시청각장애인..]]></title>
-            <link>https://serieson.naver.com/v2/movie/482973</link>
-            <guid>https://serieson.naver.com/v2/movie/482973</guid>
-            <pubDate>Wed, 19 Jan 2022 19:02:30 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="">대여</em>
-					<strong class="payment"><span>1,800</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20210924_237/1632481830445SRnSi_PNG/ONPOSTER_57..png?type=f102_138" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
