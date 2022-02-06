@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Feb 2022 14:02:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Feb 2022 15:02:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -186,33 +186,6 @@
             <enclosure url="https://movie-phinf.pstatic.net/20211108_51/1636352253704n1uMj_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[더빙
-			미첼 가족과 기계 전쟁 ([시리즈온] 할인 영화관)]]></title>
-            <link>https://serieson.naver.com/v2/movie/476281</link>
-            <guid>https://serieson.naver.com/v2/movie/476281</guid>
-            <pubDate>Tue, 25 Jan 2022 15:02:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span>1,960</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20211206_137/1638769611123w2kzJ_JPEG/DP_6322394_TheMitchellsVsTheMachines_2000x3000_KR.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자막
-			
-			미첼 가족과 기계 전쟁 ([시리즈온] 할인 영화관)]]></title>
-            <link>https://serieson.naver.com/v2/movie/476279</link>
-            <guid>https://serieson.naver.com/v2/movie/476279</guid>
-            <pubDate>Tue, 25 Jan 2022 15:02:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span>1,960</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20211206_137/1638769611123w2kzJ_JPEG/DP_6322394_TheMitchellsVsTheMachines_2000x3000_KR.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미첼 가족과 기계 전쟁(패키지.. ([시리즈온] 할인 영화관)]]></title>
-            <link>https://serieson.naver.com/v2/movie/476278</link>
-            <guid>https://serieson.naver.com/v2/movie/476278</guid>
-            <pubDate>Tue, 25 Jan 2022 15:02:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span>3,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20211206_137/1638769611123w2kzJ_JPEG/DP_6322394_TheMitchellsVsTheMachines_2000x3000_KR.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[19
 			
 			
@@ -371,12 +344,56 @@
             <enclosure url="https://tvstore-phinf.pstatic.net/20210528_270/1622176260091E0rTt_JPEG/__.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[고수고수고고수 ([시리즈온] 할인 영화관)]]></title>
-            <link>https://serieson.naver.com/v2/movie/439074</link>
-            <guid>https://serieson.naver.com/v2/movie/439074</guid>
-            <pubDate>Thu, 03 Feb 2022 15:02:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span>1,250</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20210510_234/1620624869625Qp92Q_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+            <title><![CDATA[19
+			
+			
+			
+			다만 악에서 구하소서 파이널컷 ([시리즈온] 할인 영화관)]]></title>
+            <link>https://serieson.naver.com/v2/movie/407576</link>
+            <guid>https://serieson.naver.com/v2/movie/407576</guid>
+            <pubDate>Sun, 06 Feb 2022 15:02:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span>1,925</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20201014_127/1602651162137fUW1W_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[19
+			
+			
+			
+			다만 악에서 구하소서 파이널컷 ([시리즈온] 할인 영화관)]]></title>
+            <link>https://serieson.naver.com/v2/movie/407575</link>
+            <guid>https://serieson.naver.com/v2/movie/407575</guid>
+            <pubDate>Sun, 06 Feb 2022 15:02:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span>5,005</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20201014_127/1602651162137fUW1W_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자막
+			
+			바람이 분다(패키지상품:.. ([시리즈온] 할인 영화관)]]></title>
+            <link>https://serieson.naver.com/v2/movie/400559</link>
+            <guid>https://serieson.naver.com/v2/movie/400559</guid>
+            <pubDate>Sun, 06 Feb 2022 15:02:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span>11,440</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20130902_120/1378102519127eR7Fz_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자막
+			
+			코쿠리코 언덕에서(패키지.. ([시리즈온] 할인 영화관)]]></title>
+            <link>https://serieson.naver.com/v2/movie/400553</link>
+            <guid>https://serieson.naver.com/v2/movie/400553</guid>
+            <pubDate>Sun, 06 Feb 2022 15:02:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span>11,440</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20111223_53/1324645815032yz3sT_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[밀리언 달러 베이비 ([시리즈온] 천원관)]]></title>
+            <link>https://serieson.naver.com/v2/movie/485414</link>
+            <guid>https://serieson.naver.com/v2/movie/485414</guid>
+            <pubDate>Sun, 06 Feb 2022 15:02:13 GMT</pubDate>
+            <content:encoded><![CDATA[대여]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20170206_131/14863566539157duVI_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[19
@@ -592,14 +609,6 @@
             <pubDate>Wed, 02 Feb 2022 15:02:38 GMT</pubDate>
             <content:encoded><![CDATA[대여]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20160215_163/1455527110149mO3mt_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[번지 점프를 하다 ([시리즈온] 천원관)]]></title>
-            <link>https://serieson.naver.com/v2/movie/439027</link>
-            <guid>https://serieson.naver.com/v2/movie/439027</guid>
-            <pubDate>Wed, 02 Feb 2022 15:02:38 GMT</pubDate>
-            <content:encoded><![CDATA[대여]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20111222_138/1324545567577v2JLW_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[영화의 거리(가치봄영화:시청각.. ([시리즈온] 가치봄 영화관)]]></title>
@@ -866,13 +875,6 @@
             <content:encoded><![CDATA[<a href="/events/20058?productType=movie" class="" onclick="nclk(this, 'mov.list', '20058', '');">☑️마블 페이즈 4 독파 기원! '이터널스' 2차 이벤트</a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[🐰우당탕탕 토끼가 돌아왔다! '피터 래빗2: 파 프롬 가든' ([시리즈온] 이벤트)]]></title>
-            <link>https://serieson.naver.com/events/20057?productType=movie</link>
-            <guid>https://serieson.naver.com/events/20057?productType=movie</guid>
-            <pubDate>Tue, 25 Jan 2022 16:03:28 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/20057?productType=movie" class="" onclick="nclk(this, 'mov.list', '20057', '');">🐰우당탕탕 토끼가 돌아왔다! '피터 래빗2: 파 프롬 가든'</a>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[🌟웨스 앤더슨 감독의 마스터피스 '프렌치 디스패치' 경품 이벤트 ([시리즈온] 이벤트)]]></title>
             <link>https://serieson.naver.com/events/20056?productType=movie</link>
             <guid>https://serieson.naver.com/events/20056?productType=movie</guid>
@@ -885,27 +887,6 @@
             <guid>https://serieson.naver.com/events/20060?productType=movie</guid>
             <pubDate>Thu, 27 Jan 2022 16:03:21 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/events/20060?productType=movie" class="" onclick="nclk(this, 'mov.list', '20060', '');">💕첫사랑 강제 소환 로맨스 '청춘적니' 보고 굿즈 패키지 &amp; 피자까지 받아가세요!</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[💜몬베베를 위한 친필 싸인 포스터 준비했어요! '몬스타엑스 : 더 드리밍'은 시리즈온에서 ([시리즈온] 이벤트)]]></title>
-            <link>https://serieson.naver.com/events/20049?productType=movie</link>
-            <guid>https://serieson.naver.com/events/20049?productType=movie</guid>
-            <pubDate>Sun, 23 Jan 2022 15:04:04 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/20049?productType=movie" class="" onclick="nclk(this, 'mov.list', '20049', '');">💜몬베베를 위한 친필 싸인 포스터 준비했어요! '몬스타엑스 : 더 드리밍'은 시리즈온에서</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[🌎SF 스릴러 마니아들을 위한 바로 그 영화! '콜로니 : 지구 귀환 프로젝트' 경품 이벤트! ([시리즈온] 이벤트)]]></title>
-            <link>https://serieson.naver.com/events/20054?productType=movie</link>
-            <guid>https://serieson.naver.com/events/20054?productType=movie</guid>
-            <pubDate>Mon, 24 Jan 2022 04:03:02 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/20054?productType=movie" class="" onclick="nclk(this, 'mov.list', '20054', '');">🌎SF 스릴러 마니아들을 위한 바로 그 영화! '콜로니 : 지구 귀환 프로젝트' 경품 이벤트!</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[✅최신 영화 최고 혜택으로 보는 꿀팁! 네이버 플러스 멤버십 ([시리즈온] 이벤트)]]></title>
-            <link>https://serieson.naver.com/events/20034?productType=movie</link>
-            <guid>https://serieson.naver.com/events/20034?productType=movie</guid>
-            <pubDate>Fri, 07 Jan 2022 09:02:40 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/20034?productType=movie" class="" onclick="nclk(this, 'mov.list', '20034', '');">✅최신 영화 최고 혜택으로 보는 꿀팁! 네이버 플러스 멤버십</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[📌영혼을 채우는 명작 영화, 5천 캐시로 보세요! ([시리즈온] 이벤트)]]></title>
