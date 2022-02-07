@@ -4,7 +4,7 @@
         <title>[시리즈온] 가치봄 영화관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Feb 2022 07:02:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 08:02:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,6 +24,24 @@
             <content:encoded><![CDATA[<em class="">구매</em>
                     <strong class="payment"><span>7,150</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
             <enclosure url="https://tvstore-phinf.pstatic.net/20220131_166/1643618243060emJ1M_JPEG/__.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우리집(가치봄영화:시청각장애..]]></title>
+            <link>https://serieson.naver.com/v2/movie/485589</link>
+            <guid>https://serieson.naver.com/v2/movie/485589</guid>
+            <pubDate>Mon, 07 Feb 2022 08:02:46 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="">대여</em>
+					<strong class="payment"><span>1,800</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20210924_60/1632481723062EhmJS_PNG/ONPOSTER_28..png?type=f102_138" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[우리집(가치봄영화:시청각장애..]]></title>
+            <link>https://serieson.naver.com/v2/movie/485588</link>
+            <guid>https://serieson.naver.com/v2/movie/485588</guid>
+            <pubDate>Mon, 07 Feb 2022 08:02:46 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="">구매</em>
+                    <strong class="payment"><span>3,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20210924_60/1632481723062EhmJS_PNG/ONPOSTER_28..png?type=f102_138" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[영화의 거리(가치봄영화:시청각..]]></title>
@@ -217,24 +235,6 @@
             <content:encoded><![CDATA[<em class="">대여</em>
 					<strong class="payment"><span>1,540</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20180828_55/15354321217227X7a3_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[해치지않아(가치봄영화:시청각..]]></title>
-            <link>https://serieson.naver.com/v2/movie/484780</link>
-            <guid>https://serieson.naver.com/v2/movie/484780</guid>
-            <pubDate>Sat, 29 Jan 2022 12:03:52 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="">구매</em>
-                    <strong class="payment"><span>6,050</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20200115_223/1579061805057fDTGd_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[해치지않아(가치봄영화:시청각..]]></title>
-            <link>https://serieson.naver.com/v2/movie/484779</link>
-            <guid>https://serieson.naver.com/v2/movie/484779</guid>
-            <pubDate>Sat, 29 Jan 2022 12:03:52 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="">대여</em>
-					<strong class="payment"><span>1,540</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20200115_223/1579061805057fDTGd_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
