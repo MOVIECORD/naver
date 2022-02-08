@@ -4,9 +4,45 @@
         <title>[시리즈온] 가치봄 영화관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Feb 2022 18:03:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Feb 2022 19:02:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뺑반(가치봄영화:시청각장애인..]]></title>
+            <link>https://serieson.naver.com/v2/movie/486072</link>
+            <guid>https://serieson.naver.com/v2/movie/486072</guid>
+            <pubDate>Tue, 08 Feb 2022 19:02:42 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="">구매</em>
+                    <strong class="payment"><span>5,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20211221_185/1640087768649y7jrt_PNG/ONPOSTER_1825..png?type=f102_138" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[뺑반(가치봄영화:시청각장애인..]]></title>
+            <link>https://serieson.naver.com/v2/movie/486071</link>
+            <guid>https://serieson.naver.com/v2/movie/486071</guid>
+            <pubDate>Tue, 08 Feb 2022 19:02:42 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="">대여</em>
+					<strong class="payment"><span>1,200</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20211221_185/1640087768649y7jrt_PNG/ONPOSTER_1825..png?type=f102_138" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[기억의 전쟁(가치봄영화:시청각..]]></title>
+            <link>https://serieson.naver.com/v2/movie/486068</link>
+            <guid>https://serieson.naver.com/v2/movie/486068</guid>
+            <pubDate>Tue, 08 Feb 2022 19:02:42 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="">구매</em>
+                    <strong class="payment"><span>5,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20200212_87/1581471190560PupSD_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기억의 전쟁(가치봄영화:시청각..]]></title>
+            <link>https://serieson.naver.com/v2/movie/486067</link>
+            <guid>https://serieson.naver.com/v2/movie/486067</guid>
+            <pubDate>Tue, 08 Feb 2022 19:02:42 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="">대여</em>
+					<strong class="payment"><span>1,000</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20200212_87/1581471190560PupSD_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[마스터(가치봄영화:시청각장애..]]></title>
             <link>https://serieson.naver.com/v2/movie/485694</link>
@@ -199,42 +235,6 @@
             <content:encoded><![CDATA[<em class="">구매</em>
                     <strong class="payment"><span>1,400</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20190814_273/1565762582530bwo3n_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아들의 이름으로(가치봄영화:시..]]></title>
-            <link>https://serieson.naver.com/v2/movie/484892</link>
-            <guid>https://serieson.naver.com/v2/movie/484892</guid>
-            <pubDate>Sun, 30 Jan 2022 19:01:54 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="">구매</em>
-                    <strong class="payment"><span>2,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20210423_52/1619163659566SWe1o_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소녀의 세계(가치봄영화:시청각..]]></title>
-            <link>https://serieson.naver.com/v2/movie/484891</link>
-            <guid>https://serieson.naver.com/v2/movie/484891</guid>
-            <pubDate>Sun, 30 Jan 2022 19:01:54 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="">구매</em>
-                    <strong class="payment"><span>1,200</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20181122_187/1542867127495IsERa_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[협상(가치봄영화:시청각장애인..]]></title>
-            <link>https://serieson.naver.com/v2/movie/484782</link>
-            <guid>https://serieson.naver.com/v2/movie/484782</guid>
-            <pubDate>Sat, 29 Jan 2022 12:03:52 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="">구매</em>
-                    <strong class="payment"><span>6,050</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20180828_55/15354321217227X7a3_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[협상(가치봄영화:시청각장애인..]]></title>
-            <link>https://serieson.naver.com/v2/movie/484781</link>
-            <guid>https://serieson.naver.com/v2/movie/484781</guid>
-            <pubDate>Sat, 29 Jan 2022 12:03:52 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="">대여</em>
-					<strong class="payment"><span>1,540</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20180828_55/15354321217227X7a3_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
