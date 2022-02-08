@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Feb 2022 15:02:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Feb 2022 16:02:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -838,6 +838,13 @@
             <content:encoded><![CDATA[<em class="">대여</em>
 					<strong class="payment"><span>1,540</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20180828_55/15354321217227X7a3_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[😎킹스맨 역사의 시작! '킹스맨: 퍼스트 에이전트' 오픈 프로모션 ([시리즈온] 이벤트)]]></title>
+            <link>https://serieson.naver.com/events/20072?productType=movie</link>
+            <guid>https://serieson.naver.com/events/20072?productType=movie</guid>
+            <pubDate>Tue, 08 Feb 2022 16:02:41 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/events/20072?productType=movie" class="" onclick="nclk(this, 'mov.list', '20072', '');">😎킹스맨 역사의 시작! '킹스맨: 퍼스트 에이전트' 오픈 프로모션</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[💜역대급 신나는 스테이지로 초대! 씽2게더 오픈 이벤트 ([시리즈온] 이벤트)]]></title>
