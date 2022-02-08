@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-02-08T14:02:47.066Z</updated>
+    <updated>2022-02-08T15:02:28.837Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
     <entry>
@@ -32,20 +32,6 @@
         <link href="https://serieson.naver.com/events/20071?productType=movie"/>
         <updated>2022-02-03T07:02:44.966Z</updated>
         <content type="html"><![CDATA[<a href="/events/20071?productType=movie" class="" onclick="nclk(this, 'mov.list', '20071', '');">🗼운명을 바꾸기 위한 타임리프! 푸짐한 굿즈와 함께 '도쿄 리벤저스' 오픈</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[☑️마블 페이즈 4 독파 기원! '이터널스' 2차 이벤트]]></title>
-        <id>https://serieson.naver.com/events/20058?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20058?productType=movie"/>
-        <updated>2022-01-25T16:03:28.700Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20058?productType=movie" class="" onclick="nclk(this, 'mov.list', '20058', '');">☑️마블 페이즈 4 독파 기원! '이터널스' 2차 이벤트</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🌟웨스 앤더슨 감독의 마스터피스 '프렌치 디스패치' 경품 이벤트]]></title>
-        <id>https://serieson.naver.com/events/20056?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20056?productType=movie"/>
-        <updated>2022-01-25T16:03:28.701Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20056?productType=movie" class="" onclick="nclk(this, 'mov.list', '20056', '');">🌟웨스 앤더슨 감독의 마스터피스 '프렌치 디스패치' 경품 이벤트</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[💕첫사랑 강제 소환 로맨스 '청춘적니' 보고 굿즈 패키지 & 피자까지 받아가세요!]]></title>

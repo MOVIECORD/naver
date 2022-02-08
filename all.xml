@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Feb 2022 14:02:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Feb 2022 15:02:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -178,14 +178,6 @@
             <enclosure url="https://tvstore-phinf.pstatic.net/20220106_129/16414338611937Qsg5_JPEG/Matrix_Resurrections_STD_V_DD_KA_TT_2000x3000_300dpi_KR.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[라임크라임 ([시리즈온] 할인 영화관)]]></title>
-            <link>https://serieson.naver.com/v2/movie/478325</link>
-            <guid>https://serieson.naver.com/v2/movie/478325</guid>
-            <pubDate>Tue, 25 Jan 2022 15:02:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span>3,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20211108_51/1636352253704n1uMj_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[19
 			
 			
@@ -342,6 +334,14 @@
             <pubDate>Thu, 03 Feb 2022 15:02:05 GMT</pubDate>
             <content:encoded><![CDATA[<span>1,250</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
             <enclosure url="https://tvstore-phinf.pstatic.net/20210528_270/1622176260091E0rTt_JPEG/__.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[테넷(부가영상 제공) ([시리즈온] 할인 영화관)]]></title>
+            <link>https://serieson.naver.com/v2/movie/410954</link>
+            <guid>https://serieson.naver.com/v2/movie/410954</guid>
+            <pubDate>Tue, 08 Feb 2022 15:02:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span>3,300</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20201201_83/160680164490539Vqt_JPEG/TENET_V_DD_KA_TT_2000x2841_300dpi_KR.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[19
@@ -866,20 +866,6 @@
             <guid>https://serieson.naver.com/events/20071?productType=movie</guid>
             <pubDate>Thu, 03 Feb 2022 07:02:44 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/events/20071?productType=movie" class="" onclick="nclk(this, 'mov.list', '20071', '');">🗼운명을 바꾸기 위한 타임리프! 푸짐한 굿즈와 함께 '도쿄 리벤저스' 오픈</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[☑️마블 페이즈 4 독파 기원! '이터널스' 2차 이벤트 ([시리즈온] 이벤트)]]></title>
-            <link>https://serieson.naver.com/events/20058?productType=movie</link>
-            <guid>https://serieson.naver.com/events/20058?productType=movie</guid>
-            <pubDate>Tue, 25 Jan 2022 16:03:28 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/20058?productType=movie" class="" onclick="nclk(this, 'mov.list', '20058', '');">☑️마블 페이즈 4 독파 기원! '이터널스' 2차 이벤트</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[🌟웨스 앤더슨 감독의 마스터피스 '프렌치 디스패치' 경품 이벤트 ([시리즈온] 이벤트)]]></title>
-            <link>https://serieson.naver.com/events/20056?productType=movie</link>
-            <guid>https://serieson.naver.com/events/20056?productType=movie</guid>
-            <pubDate>Tue, 25 Jan 2022 16:03:28 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/20056?productType=movie" class="" onclick="nclk(this, 'mov.list', '20056', '');">🌟웨스 앤더슨 감독의 마스터피스 '프렌치 디스패치' 경품 이벤트</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[💕첫사랑 강제 소환 로맨스 '청춘적니' 보고 굿즈 패키지 & 피자까지 받아가세요! ([시리즈온] 이벤트)]]></title>
