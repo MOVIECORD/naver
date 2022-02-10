@@ -4,9 +4,17 @@
         <title>[시리즈온] 천원관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Feb 2022 09:02:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 10:02:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[범죄의 여왕(가치봄영화:시청각..]]></title>
+            <link>https://serieson.naver.com/v2/movie/486507</link>
+            <guid>https://serieson.naver.com/v2/movie/486507</guid>
+            <pubDate>Thu, 10 Feb 2022 10:02:38 GMT</pubDate>
+            <content:encoded><![CDATA[대여]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20160802_108/1470105088001ljE3h_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[밀리언 달러 베이비]]></title>
             <link>https://serieson.naver.com/v2/movie/485414</link>
@@ -217,18 +225,6 @@
             <pubDate>Tue, 01 Feb 2022 15:02:21 GMT</pubDate>
             <content:encoded><![CDATA[대여]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20210510_287/16206206819509mLLg_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[19
-			
-			
-			
-			남과 여]]></title>
-            <link>https://serieson.naver.com/v2/movie/439031</link>
-            <guid>https://serieson.naver.com/v2/movie/439031</guid>
-            <pubDate>Wed, 02 Feb 2022 15:02:38 GMT</pubDate>
-            <content:encoded><![CDATA[대여]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20160215_163/1455527110149mO3mt_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
