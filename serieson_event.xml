@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-02-10T14:02:45.505Z</updated>
+    <updated>2022-02-10T15:02:40.053Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
     <entry>
@@ -18,13 +18,6 @@
         <link href="https://serieson.naver.com/events/20059?productType=movie"/>
         <updated>2022-02-01T16:03:21.602Z</updated>
         <content type="html"><![CDATA[<a href="/events/20059?productType=movie" class="" onclick="nclk(this, 'mov.list', '20059', '');">💜역대급 신나는 스테이지로 초대! 씽2게더 오픈 이벤트</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[😎요즘 대세 최우식 X 캐릭터 물아일체 조진웅 '경관의 피' 오픈]]></title>
-        <id>https://serieson.naver.com/events/20055?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20055?productType=movie"/>
-        <updated>2022-01-27T16:03:21.541Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20055?productType=movie" class="" onclick="nclk(this, 'mov.list', '20055', '');">😎요즘 대세 최우식 X 캐릭터 물아일체 조진웅 '경관의 피' 오픈</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🚗박소담의 풀악셀 카체이싱 '특송' 보고 1만 캐시 받자!]]></title>

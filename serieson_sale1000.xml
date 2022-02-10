@@ -4,7 +4,7 @@
         <title>[시리즈온] 천원관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Feb 2022 14:02:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 15:02:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -116,6 +116,14 @@
             <enclosure url="https://movie-phinf.pstatic.net/20111223_213/1324648381006hL39S_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[아멜리에]]></title>
+            <link>https://serieson.naver.com/v2/movie/464225</link>
+            <guid>https://serieson.naver.com/v2/movie/464225</guid>
+            <pubDate>Thu, 10 Feb 2022 15:02:23 GMT</pubDate>
+            <content:encoded><![CDATA[구매]]></content:encoded>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20211215_59/1639548396861gSznN_JPEG/Amelie_teaser_01.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[늑대와 춤을]]></title>
             <link>https://serieson.naver.com/v2/movie/364901</link>
             <guid>https://serieson.naver.com/v2/movie/364901</guid>
@@ -212,16 +220,6 @@
 			크루즈 패밀리: 뉴 에이지]]></title>
             <link>https://serieson.naver.com/v2/movie/445738</link>
             <guid>https://serieson.naver.com/v2/movie/445738</guid>
-            <pubDate>Tue, 01 Feb 2022 15:02:21 GMT</pubDate>
-            <content:encoded><![CDATA[대여]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20210510_287/16206206819509mLLg_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자막
-			
-			크루즈 패밀리: 뉴 에이지]]></title>
-            <link>https://serieson.naver.com/v2/movie/445737</link>
-            <guid>https://serieson.naver.com/v2/movie/445737</guid>
             <pubDate>Tue, 01 Feb 2022 15:02:21 GMT</pubDate>
             <content:encoded><![CDATA[대여]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20210510_287/16206206819509mLLg_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
