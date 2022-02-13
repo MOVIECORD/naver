@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-02-13T15:02:32.512Z</updated>
+    <updated>2022-02-13T16:03:23.246Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://serieson.naver.com/events/20072?productType=movie"/>
         <updated>2022-02-08T16:02:41.282Z</updated>
         <content type="html"><![CDATA[<a href="/events/20072?productType=movie" class="" onclick="nclk(this, 'mov.list', '20072', '');">😎킹스맨 역사의 시작! '킹스맨: 퍼스트 에이전트' 오픈 프로모션</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[✨마음을 채우는 OST CD 선물! ‘엔칸토: 마법의 세계‘ 경품 프로모션]]></title>
+        <id>https://serieson.naver.com/events/20077?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20077?productType=movie"/>
+        <updated>2022-02-13T16:03:22.616Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20077?productType=movie" class="" onclick="nclk(this, 'mov.list', '20077', '');">✨마음을 채우는 OST CD 선물! ‘엔칸토: 마법의 세계‘ 경품 프로모션</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🧟게임보다 더 꾸르잼! ‘레지던트 이블: 라쿤시티’ 시리즈온 상륙!]]></title>
+        <id>https://serieson.naver.com/events/20076?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20076?productType=movie"/>
+        <updated>2022-02-13T16:03:22.618Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20076?productType=movie" class="" onclick="nclk(this, 'mov.list', '20076', '');">🧟게임보다 더 꾸르잼! ‘레지던트 이블: 라쿤시티’ 시리즈온 상륙!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[❤️500명에게 쿠폰 선물! 발렌타인데이 기념 로맨스 영화 할인전]]></title>

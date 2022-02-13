@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Feb 2022 15:02:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Feb 2022 16:03:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -834,6 +834,20 @@
             <guid>https://serieson.naver.com/events/20072?productType=movie</guid>
             <pubDate>Tue, 08 Feb 2022 16:02:41 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/events/20072?productType=movie" class="" onclick="nclk(this, 'mov.list', '20072', '');">😎킹스맨 역사의 시작! '킹스맨: 퍼스트 에이전트' 오픈 프로모션</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[✨마음을 채우는 OST CD 선물! ‘엔칸토: 마법의 세계‘ 경품 프로모션 ([시리즈온] 이벤트)]]></title>
+            <link>https://serieson.naver.com/events/20077?productType=movie</link>
+            <guid>https://serieson.naver.com/events/20077?productType=movie</guid>
+            <pubDate>Sun, 13 Feb 2022 16:03:22 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/events/20077?productType=movie" class="" onclick="nclk(this, 'mov.list', '20077', '');">✨마음을 채우는 OST CD 선물! ‘엔칸토: 마법의 세계‘ 경품 프로모션</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[🧟게임보다 더 꾸르잼! ‘레지던트 이블: 라쿤시티’ 시리즈온 상륙! ([시리즈온] 이벤트)]]></title>
+            <link>https://serieson.naver.com/events/20076?productType=movie</link>
+            <guid>https://serieson.naver.com/events/20076?productType=movie</guid>
+            <pubDate>Sun, 13 Feb 2022 16:03:22 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/events/20076?productType=movie" class="" onclick="nclk(this, 'mov.list', '20076', '');">🧟게임보다 더 꾸르잼! ‘레지던트 이블: 라쿤시티’ 시리즈온 상륙!</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[❤️500명에게 쿠폰 선물! 발렌타인데이 기념 로맨스 영화 할인전 ([시리즈온] 이벤트)]]></title>
