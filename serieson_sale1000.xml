@@ -4,7 +4,7 @@
         <title>[시리즈온] 천원관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Feb 2022 14:02:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 15:02:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -216,13 +216,16 @@
             <enclosure url="https://movie-phinf.pstatic.net/20111223_229/1324638045324sOPfS_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[더빙
-			크루즈 패밀리: 뉴 에이지]]></title>
-            <link>https://serieson.naver.com/v2/movie/445738</link>
-            <guid>https://serieson.naver.com/v2/movie/445738</guid>
-            <pubDate>Tue, 01 Feb 2022 15:02:21 GMT</pubDate>
+            <title><![CDATA[19
+			
+			
+			
+			남과 여]]></title>
+            <link>https://serieson.naver.com/v2/movie/439031</link>
+            <guid>https://serieson.naver.com/v2/movie/439031</guid>
+            <pubDate>Tue, 15 Feb 2022 15:02:32 GMT</pubDate>
             <content:encoded><![CDATA[대여]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20210510_287/16206206819509mLLg_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+            <enclosure url="https://movie-phinf.pstatic.net/20160215_163/1455527110149mO3mt_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
