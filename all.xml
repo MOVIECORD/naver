@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Feb 2022 14:03:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Feb 2022 15:02:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -202,7 +202,7 @@
             <link>https://serieson.naver.com/v2/movie/482141</link>
             <guid>https://serieson.naver.com/v2/movie/482141</guid>
             <pubDate>Tue, 18 Jan 2022 15:02:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span>27,390</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
+            <content:encoded><![CDATA[<span>22,990</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
             <enclosure url="https://tvstore-phinf.pstatic.net/20220106_129/16414338611937Qsg5_JPEG/Matrix_Resurrections_STD_V_DD_KA_TT_2000x3000_300dpi_KR.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -330,7 +330,7 @@
             <link>https://serieson.naver.com/v2/movie/455768</link>
             <guid>https://serieson.naver.com/v2/movie/455768</guid>
             <pubDate>Wed, 02 Feb 2022 15:02:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span>14,190</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
+            <content:encoded><![CDATA[<span>10,890</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
             <enclosure url="https://tvstore-phinf.pstatic.net/20210809_272/1628474909708DpiDH_JPEG/HarryPotter1_SS_MagicalMovieMode_V_DD_KA_TT_2000x2841_300dpi_KR.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -350,6 +350,22 @@
             <enclosure url="https://tvstore-phinf.pstatic.net/20210709_294/1625758650024rIxsz_JPEG/AQuietPlacePart2_2021_Sellthru_KR_800x1200.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[콰이어트 플레이스 2(부가영상.. ([시리즈온] 할인 영화관)]]></title>
+            <link>https://serieson.naver.com/v2/movie/449517</link>
+            <guid>https://serieson.naver.com/v2/movie/449517</guid>
+            <pubDate>Wed, 16 Feb 2022 15:02:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span>5,005</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20210709_294/1625758650024rIxsz_JPEG/AQuietPlacePart2_2021_Sellthru_KR_800x1200.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[콰이어트 플레이스 2 ([시리즈온] 할인 영화관)]]></title>
+            <link>https://serieson.naver.com/v2/movie/449516</link>
+            <guid>https://serieson.naver.com/v2/movie/449516</guid>
+            <pubDate>Wed, 16 Feb 2022 15:02:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2,200</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20210709_294/1625758650024rIxsz_JPEG/AQuietPlacePart2_2021_Sellthru_KR_800x1200.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[사랑하고 사랑받고 차고 차이고 ([시리즈온] 할인 영화관)]]></title>
             <link>https://serieson.naver.com/v2/movie/449305</link>
             <guid>https://serieson.naver.com/v2/movie/449305</guid>
@@ -364,22 +380,6 @@
             <pubDate>Tue, 15 Feb 2022 15:02:24 GMT</pubDate>
             <content:encoded><![CDATA[<span>1,925</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20210521_43/1621563714733ScQVQ_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[컨저링 3: 악마가 시켰다(세트.. ([시리즈온] 할인 영화관)]]></title>
-            <link>https://serieson.naver.com/v2/movie/447052</link>
-            <guid>https://serieson.naver.com/v2/movie/447052</guid>
-            <pubDate>Tue, 15 Feb 2022 15:02:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span>13,750</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20210623_261/1624425567386pgigc_JPEG/CONJURING_TDMMDI_PVOD_STD_V_DD_KA_TT_2160x2880_300dpi_KR.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[몬스터 헌터 ([시리즈온] 할인 영화관)]]></title>
-            <link>https://serieson.naver.com/v2/movie/436574</link>
-            <guid>https://serieson.naver.com/v2/movie/436574</guid>
-            <pubDate>Tue, 15 Feb 2022 15:02:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span>1,960</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20210126_232/1611624120124Xbknu_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[범죄의 여왕(가치봄영화:시청각.. ([시리즈온] 천원관)]]></title>
@@ -841,13 +841,6 @@
             <enclosure url="https://movie-phinf.pstatic.net/20200527_46/1590566157871xm82Y_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[😎킹스맨 역사의 시작! '킹스맨: 퍼스트 에이전트' 오픈 프로모션 ([시리즈온] 이벤트)]]></title>
-            <link>https://serieson.naver.com/events/20072?productType=movie</link>
-            <guid>https://serieson.naver.com/events/20072?productType=movie</guid>
-            <pubDate>Tue, 08 Feb 2022 16:02:41 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/20072?productType=movie" class="" onclick="nclk(this, 'mov.list', '20072', '');">😎킹스맨 역사의 시작! '킹스맨: 퍼스트 에이전트' 오픈 프로모션</a>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[✨마음을 채우는 OST CD 선물! ‘엔칸토: 마법의 세계‘ 경품 프로모션 ([시리즈온] 이벤트)]]></title>
             <link>https://serieson.naver.com/events/20077?productType=movie</link>
             <guid>https://serieson.naver.com/events/20077?productType=movie</guid>
@@ -881,13 +874,6 @@
             <guid>https://serieson.naver.com/events/20074?productType=movie</guid>
             <pubDate>Thu, 10 Feb 2022 16:03:23 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/events/20074?productType=movie" class="" onclick="nclk(this, 'mov.list', '20074', '');">🐻제72회 베를린국제영화제 특집! 역대 수상작 보고 50% 쿠폰 받아가세요~</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[🗼운명을 바꾸기 위한 타임리프! 푸짐한 굿즈와 함께 '도쿄 리벤저스' 오픈 ([시리즈온] 이벤트)]]></title>
-            <link>https://serieson.naver.com/events/20071?productType=movie</link>
-            <guid>https://serieson.naver.com/events/20071?productType=movie</guid>
-            <pubDate>Thu, 03 Feb 2022 07:02:44 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/20071?productType=movie" class="" onclick="nclk(this, 'mov.list', '20071', '');">🗼운명을 바꾸기 위한 타임리프! 푸짐한 굿즈와 함께 '도쿄 리벤저스' 오픈</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[✅최신 영화 최고 혜택으로 보는 꿀팁! 네이버 플러스 멤버십 ([시리즈온] 이벤트)]]></title>

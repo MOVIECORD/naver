@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-02-16T14:03:01.436Z</updated>
+    <updated>2022-02-16T15:02:53.163Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[😎킹스맨 역사의 시작! '킹스맨: 퍼스트 에이전트' 오픈 프로모션]]></title>
-        <id>https://serieson.naver.com/events/20072?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20072?productType=movie"/>
-        <updated>2022-02-08T16:02:41.282Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20072?productType=movie" class="" onclick="nclk(this, 'mov.list', '20072', '');">😎킹스맨 역사의 시작! '킹스맨: 퍼스트 에이전트' 오픈 프로모션</a>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[✨마음을 채우는 OST CD 선물! ‘엔칸토: 마법의 세계‘ 경품 프로모션]]></title>
         <id>https://serieson.naver.com/events/20077?productType=movie</id>
@@ -46,13 +39,6 @@
         <link href="https://serieson.naver.com/events/20074?productType=movie"/>
         <updated>2022-02-10T16:03:23.781Z</updated>
         <content type="html"><![CDATA[<a href="/events/20074?productType=movie" class="" onclick="nclk(this, 'mov.list', '20074', '');">🐻제72회 베를린국제영화제 특집! 역대 수상작 보고 50% 쿠폰 받아가세요~</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🗼운명을 바꾸기 위한 타임리프! 푸짐한 굿즈와 함께 '도쿄 리벤저스' 오픈]]></title>
-        <id>https://serieson.naver.com/events/20071?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20071?productType=movie"/>
-        <updated>2022-02-03T07:02:44.966Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20071?productType=movie" class="" onclick="nclk(this, 'mov.list', '20071', '');">🗼운명을 바꾸기 위한 타임리프! 푸짐한 굿즈와 함께 '도쿄 리벤저스' 오픈</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[✅최신 영화 최고 혜택으로 보는 꿀팁! 네이버 플러스 멤버십]]></title>
