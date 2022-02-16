@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Feb 2022 15:02:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Feb 2022 16:03:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -839,6 +839,20 @@
             <content:encoded><![CDATA[<em class="">구매</em>
                     <strong class="payment"><span>5,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20200527_46/1590566157871xm82Y_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[😎현대판 킹스맨이 될 절호의 기회! '킹스맨: 퍼스트 에이전트' 경품 이벤트 ([시리즈온] 이벤트)]]></title>
+            <link>https://serieson.naver.com/events/20085?productType=movie</link>
+            <guid>https://serieson.naver.com/events/20085?productType=movie</guid>
+            <pubDate>Wed, 16 Feb 2022 16:03:13 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/events/20085?productType=movie" class="" onclick="nclk(this, 'mov.list', '20085', '');">😎현대판 킹스맨이 될 절호의 기회! '킹스맨: 퍼스트 에이전트' 경품 이벤트</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[죽여서라도 갖고 싶은 그 이름! '하우스 오브 구찌' 시리즈온 오픈 ([시리즈온] 이벤트)]]></title>
+            <link>https://serieson.naver.com/events/20079?productType=movie</link>
+            <guid>https://serieson.naver.com/events/20079?productType=movie</guid>
+            <pubDate>Wed, 16 Feb 2022 16:03:13 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/events/20079?productType=movie" class="" onclick="nclk(this, 'mov.list', '20079', '');">죽여서라도 갖고 싶은 그 이름! '하우스 오브 구찌' 시리즈온 오픈</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[✨마음을 채우는 OST CD 선물! ‘엔칸토: 마법의 세계‘ 경품 프로모션 ([시리즈온] 이벤트)]]></title>
