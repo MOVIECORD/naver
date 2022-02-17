@@ -4,9 +4,63 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 15:02:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 16:03:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[더 히어로: 메모리 리메인즈 ([시리즈온] 이주의 무료영화)]]></title>
+            <link>https://serieson.naver.com/v2/movie/270605</link>
+            <guid>https://serieson.naver.com/v2/movie/270605</guid>
+            <pubDate>Thu, 17 Feb 2022 15:01:59 GMT</pubDate>
+            <content:encoded><![CDATA[3월 3일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20190208_237/1549590998257TGaIO_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[19
+										
+											
+										
+										
+										
+											에리카: 푸른 불꽃 ([시리즈온] 이주의 무료영화)]]></title>
+            <link>https://serieson.naver.com/v2/movie/364201</link>
+            <guid>https://serieson.naver.com/v2/movie/364201</guid>
+            <pubDate>Thu, 17 Feb 2022 15:01:59 GMT</pubDate>
+            <content:encoded><![CDATA[3월 3일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20200320_286/1584675806294SLckH_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[펠리칸 베이커리 ([시리즈온] 이주의 무료영화)]]></title>
+            <link>https://serieson.naver.com/v2/movie/365911</link>
+            <guid>https://serieson.naver.com/v2/movie/365911</guid>
+            <pubDate>Thu, 17 Feb 2022 15:01:59 GMT</pubDate>
+            <content:encoded><![CDATA[3월 3일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20200326_197/1585210508393NwqfR_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[남아본색 ([시리즈온] 이주의 무료영화)]]></title>
+            <link>https://serieson.naver.com/v2/movie/2380</link>
+            <guid>https://serieson.naver.com/v2/movie/2380</guid>
+            <pubDate>Thu, 17 Feb 2022 15:01:59 GMT</pubDate>
+            <content:encoded><![CDATA[3월 3일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20111222_273/1324533118675y5NsB_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[세이빙 레닌그라드 ([시리즈온] 이주의 무료영화)]]></title>
+            <link>https://serieson.naver.com/v2/movie/298658</link>
+            <guid>https://serieson.naver.com/v2/movie/298658</guid>
+            <pubDate>Thu, 17 Feb 2022 15:01:59 GMT</pubDate>
+            <content:encoded><![CDATA[3월 3일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20190801_222/1564651197018Yp51x_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[C+ 탐정 ([시리즈온] 이주의 무료영화)]]></title>
+            <link>https://serieson.naver.com/v2/movie/329182</link>
+            <guid>https://serieson.naver.com/v2/movie/329182</guid>
+            <pubDate>Thu, 17 Feb 2022 15:01:59 GMT</pubDate>
+            <content:encoded><![CDATA[3월 3일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20111223_25/1324595907424mEoDd_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[세레니티 ([시리즈온] 이주의 무료영화)]]></title>
             <link>https://serieson.naver.com/v2/movie/363154</link>
@@ -106,60 +160,6 @@
             <pubDate>Fri, 04 Feb 2022 15:02:37 GMT</pubDate>
             <content:encoded><![CDATA[2월 18일까지]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20170720_238/1500514908694bHy8V_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더 히어로: 메모리 리메인즈 ([시리즈온] 이주의 무료영화)]]></title>
-            <link>https://serieson.naver.com/v2/movie/270605</link>
-            <guid>https://serieson.naver.com/v2/movie/270605</guid>
-            <pubDate>Thu, 17 Feb 2022 15:01:59 GMT</pubDate>
-            <content:encoded><![CDATA[3월 3일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20190208_237/1549590998257TGaIO_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[19
-										
-											
-										
-										
-										
-											에리카: 푸른 불꽃 ([시리즈온] 이주의 무료영화)]]></title>
-            <link>https://serieson.naver.com/v2/movie/364201</link>
-            <guid>https://serieson.naver.com/v2/movie/364201</guid>
-            <pubDate>Thu, 17 Feb 2022 15:01:59 GMT</pubDate>
-            <content:encoded><![CDATA[3월 3일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20200320_286/1584675806294SLckH_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[펠리칸 베이커리 ([시리즈온] 이주의 무료영화)]]></title>
-            <link>https://serieson.naver.com/v2/movie/365911</link>
-            <guid>https://serieson.naver.com/v2/movie/365911</guid>
-            <pubDate>Thu, 17 Feb 2022 15:01:59 GMT</pubDate>
-            <content:encoded><![CDATA[3월 3일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20200326_197/1585210508393NwqfR_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[남아본색 ([시리즈온] 이주의 무료영화)]]></title>
-            <link>https://serieson.naver.com/v2/movie/2380</link>
-            <guid>https://serieson.naver.com/v2/movie/2380</guid>
-            <pubDate>Thu, 17 Feb 2022 15:01:59 GMT</pubDate>
-            <content:encoded><![CDATA[3월 3일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20111222_273/1324533118675y5NsB_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세이빙 레닌그라드 ([시리즈온] 이주의 무료영화)]]></title>
-            <link>https://serieson.naver.com/v2/movie/298658</link>
-            <guid>https://serieson.naver.com/v2/movie/298658</guid>
-            <pubDate>Thu, 17 Feb 2022 15:01:59 GMT</pubDate>
-            <content:encoded><![CDATA[3월 3일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20190801_222/1564651197018Yp51x_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[C+ 탐정 ([시리즈온] 이주의 무료영화)]]></title>
-            <link>https://serieson.naver.com/v2/movie/329182</link>
-            <guid>https://serieson.naver.com/v2/movie/329182</guid>
-            <pubDate>Thu, 17 Feb 2022 15:01:59 GMT</pubDate>
-            <content:encoded><![CDATA[3월 3일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20111223_25/1324595907424mEoDd_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[씽2게더(세트: 1~2편) ([시리즈온] 할인 영화관)]]></title>
@@ -430,7 +430,7 @@
 			타마코 러브 스토리 ([시리즈온] 천원관)]]></title>
             <link>https://serieson.naver.com/v2/movie/478539</link>
             <guid>https://serieson.naver.com/v2/movie/478539</guid>
-            <pubDate>Thu, 17 Feb 2022 15:02:15 GMT</pubDate>
+            <pubDate>Thu, 17 Feb 2022 15:02:07 GMT</pubDate>
             <content:encoded><![CDATA[구매]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20140820_25/1408499270410UaKd6_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
@@ -503,7 +503,7 @@
 			슈퍼노바 지구 탈출기 ([시리즈온] 천원관)]]></title>
             <link>https://serieson.naver.com/v2/movie/470085</link>
             <guid>https://serieson.naver.com/v2/movie/470085</guid>
-            <pubDate>Thu, 17 Feb 2022 15:02:15 GMT</pubDate>
+            <pubDate>Thu, 17 Feb 2022 15:02:07 GMT</pubDate>
             <content:encoded><![CDATA[구매]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20140120_171/1390181740740nlq1M_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
@@ -858,6 +858,13 @@
             <guid>https://serieson.naver.com/events/20077?productType=movie</guid>
             <pubDate>Sun, 13 Feb 2022 16:03:22 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/events/20077?productType=movie" class="" onclick="nclk(this, 'mov.list', '20077', '');">✨마음을 채우는 OST CD 선물! ‘엔칸토: 마법의 세계‘ 경품 프로모션</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[방학의 끝을 잡고🎵신나는 애니 파티! '백투더스쿨' 애니메이션 할인전 ([시리즈온] 이벤트)]]></title>
+            <link>https://serieson.naver.com/events/20080?productType=movie</link>
+            <guid>https://serieson.naver.com/events/20080?productType=movie</guid>
+            <pubDate>Thu, 17 Feb 2022 16:03:05 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/events/20080?productType=movie" class="" onclick="nclk(this, 'mov.list', '20080', '');">방학의 끝을 잡고🎵신나는 애니 파티! '백투더스쿨' 애니메이션 할인전</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[🧟게임보다 더 꾸르잼! ‘레지던트 이블: 라쿤시티’ 시리즈온 상륙! ([시리즈온] 이벤트)]]></title>
