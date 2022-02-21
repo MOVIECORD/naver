@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-02-21T06:08:10.341Z</updated>
+    <updated>2022-02-21T07:02:45.089Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
     <entry>
@@ -34,11 +34,11 @@
         <content type="html"><![CDATA[<a href="/events/20077?productType=movie" class="" onclick="nclk(this, 'mov.list', '20077', '');">✨마음을 채우는 OST CD 선물! ‘엔칸토: 마법의 세계‘ 경품 프로모션</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[방학의 끝을 잡고🎵신나는 애니 파티! '백투더스쿨' 애니메이션 할인전]]></title>
+        <title type="html"><![CDATA[방학의 끝을 잡고🎵신나는 애니 파티! '백 투 스쿨' 애니메이션 할인전]]></title>
         <id>https://serieson.naver.com/events/20080?productType=movie</id>
         <link href="https://serieson.naver.com/events/20080?productType=movie"/>
         <updated>2022-02-17T16:03:05.500Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20080?productType=movie" class="" onclick="nclk(this, 'mov.list', '20080', '');">방학의 끝을 잡고🎵신나는 애니 파티! '백투더스쿨' 애니메이션 할인전</a>]]></content>
+        <content type="html"><![CDATA[<a href="/events/20080?productType=movie" class="" onclick="nclk(this, 'mov.list', '20080', '');">방학의 끝을 잡고🎵신나는 애니 파티! '백 투 스쿨' 애니메이션 할인전</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🧟게임보다 더 꾸르잼! ‘레지던트 이블: 라쿤시티’ 시리즈온 상륙!]]></title>
