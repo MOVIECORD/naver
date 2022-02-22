@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-02-22T15:02:58.984Z</updated>
+    <updated>2022-02-22T16:06:11.716Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://serieson.naver.com/events/20081?productType=movie"/>
         <updated>2022-02-21T01:50:47.815Z</updated>
         <content type="html"><![CDATA[<a href="/events/20081?productType=movie" class="" onclick="nclk(this, 'mov.list', '20081', '');">이만~큼 충전하면 최대 2만 캐시 더!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🐉호소다 마모루의 메타버스! '용과 주근깨 공주' 시리즈온 상륙]]></title>
+        <id>https://serieson.naver.com/events/20092?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20092?productType=movie"/>
+        <updated>2022-02-22T16:06:11.001Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20092?productType=movie" class="" onclick="nclk(this, 'mov.list', '20092', '');">🐉호소다 마모루의 메타버스! '용과 주근깨 공주' 시리즈온 상륙</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[😎현대판 킹스맨이 될 절호의 기회! '킹스맨: 퍼스트 에이전트' 경품 이벤트]]></title>
