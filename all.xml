@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Feb 2022 15:02:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 16:04:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -846,6 +846,13 @@
             <content:encoded><![CDATA[<em class="">대여</em>
 					<strong class="payment"><span>2,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20210923_272/16323630541200iQPb_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[👑설경구 이선균의 치열한 선거 레이스 ‘킹메이커’ 오픈! ([시리즈온] 이벤트)]]></title>
+            <link>https://serieson.naver.com/events/20091?productType=movie</link>
+            <guid>https://serieson.naver.com/events/20091?productType=movie</guid>
+            <pubDate>Wed, 23 Feb 2022 16:04:16 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/events/20091?productType=movie" class="" onclick="nclk(this, 'mov.list', '20091', '');">👑설경구 이선균의 치열한 선거 레이스 ‘킹메이커’ 오픈!</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[이만~큼 충전하면 최대 2만 캐시 더! ([시리즈온] 이벤트)]]></title>

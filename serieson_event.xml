@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-02-23T15:02:34.824Z</updated>
+    <updated>2022-02-23T16:04:17.106Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[👑설경구 이선균의 치열한 선거 레이스 ‘킹메이커’ 오픈!]]></title>
+        <id>https://serieson.naver.com/events/20091?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20091?productType=movie"/>
+        <updated>2022-02-23T16:04:16.427Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20091?productType=movie" class="" onclick="nclk(this, 'mov.list', '20091', '');">👑설경구 이선균의 치열한 선거 레이스 ‘킹메이커’ 오픈!</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이만~큼 충전하면 최대 2만 캐시 더!]]></title>
         <id>https://serieson.naver.com/events/20081?productType=movie</id>
