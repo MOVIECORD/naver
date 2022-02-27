@@ -4,7 +4,7 @@
         <title>[시리즈온] 천원관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Feb 2022 14:02:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Feb 2022 15:03:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -135,6 +135,14 @@
             <enclosure url="https://movie-phinf.pstatic.net/20140120_171/1390181740740nlq1M_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[피아니스트]]></title>
+            <link>https://serieson.naver.com/v2/movie/466846</link>
+            <guid>https://serieson.naver.com/v2/movie/466846</guid>
+            <pubDate>Sun, 27 Feb 2022 15:02:54 GMT</pubDate>
+            <content:encoded><![CDATA[구매]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20210503_262/1620033652812BPhOh_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[늑대와 춤을]]></title>
             <link>https://serieson.naver.com/v2/movie/364901</link>
             <guid>https://serieson.naver.com/v2/movie/364901</guid>
@@ -217,14 +225,6 @@
             <pubDate>Wed, 05 Jan 2022 08:03:14 GMT</pubDate>
             <content:encoded><![CDATA[대여]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20111223_93/1324603912857ghnC4_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[링컨 차를 타는 변호사]]></title>
-            <link>https://serieson.naver.com/v2/movie/445350</link>
-            <guid>https://serieson.naver.com/v2/movie/445350</guid>
-            <pubDate>Sun, 20 Feb 2022 15:02:25 GMT</pubDate>
-            <content:encoded><![CDATA[대여]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20111223_229/1324638045324sOPfS_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
