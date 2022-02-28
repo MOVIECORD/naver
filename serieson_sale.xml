@@ -4,9 +4,27 @@
         <title>[시리즈온] 할인 영화관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Feb 2022 14:02:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 15:03:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[더빙
+			안녕자두야 스페셜 - 인어..]]></title>
+            <link>https://serieson.naver.com/v2/movie/488058</link>
+            <guid>https://serieson.naver.com/v2/movie/488058</guid>
+            <pubDate>Mon, 28 Feb 2022 15:02:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span>440</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20140103_1/1388741159517oBH2I_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[더빙
+			안녕자두야 스페셜 - 인어..]]></title>
+            <link>https://serieson.naver.com/v2/movie/52288</link>
+            <guid>https://serieson.naver.com/v2/movie/52288</guid>
+            <pubDate>Mon, 28 Feb 2022 15:02:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span>1,320</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20140103_1/1388741159517oBH2I_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[씽2게더(세트: 1~2편)]]></title>
             <link>https://serieson.naver.com/v2/movie/484280</link>
@@ -213,23 +231,6 @@
             <pubDate>Sun, 20 Feb 2022 15:02:18 GMT</pubDate>
             <content:encoded><![CDATA[<span>9,600</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
             <enclosure url="https://tvstore-phinf.pstatic.net/20210826_36/1629943964659nTdae_JPEG/2__0714.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[원스 어폰 어 타임]]></title>
-            <link>https://serieson.naver.com/v2/movie/459120</link>
-            <guid>https://serieson.naver.com/v2/movie/459120</guid>
-            <pubDate>Sun, 27 Feb 2022 15:02:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span>840</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20111222_209/13245610161742LqXE_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더빙
-			극장판 도라에몽: 진구의..]]></title>
-            <link>https://serieson.naver.com/v2/movie/457346</link>
-            <guid>https://serieson.naver.com/v2/movie/457346</guid>
-            <pubDate>Sun, 20 Feb 2022 15:02:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2,200</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20210805_35/1628142193088hCOyc_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

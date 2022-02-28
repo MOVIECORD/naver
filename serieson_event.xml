@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-02-28T14:02:47.536Z</updated>
+    <updated>2022-02-28T15:03:07.321Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
     <entry>
@@ -25,20 +25,6 @@
         <link href="https://serieson.naver.com/events/20096?productType=movie"/>
         <updated>2022-02-24T16:03:32.696Z</updated>
         <content type="html"><![CDATA[<a href="/events/20096?productType=movie" class="" onclick="nclk(this, 'mov.list', '20096', '');">🎤흥겨운 맘보부터 웅장한 오케스트라까지! '웨스트 사이드 스토리' 예약 구매 중</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이만~큼 충전하면 최대 2만 캐시 더!]]></title>
-        <id>https://serieson.naver.com/events/20081?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20081?productType=movie"/>
-        <updated>2022-02-21T01:50:47.815Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20081?productType=movie" class="" onclick="nclk(this, 'mov.list', '20081', '');">이만~큼 충전하면 최대 2만 캐시 더!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[☑️개강 & 개학 맞이 현생 응원 쿠폰 이벤트! 어떤 영화를 봐도 20% 쿠폰 무제한!]]></title>
-        <id>https://serieson.naver.com/events/20094?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20094?productType=movie"/>
-        <updated>2022-02-24T16:03:32.698Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20094?productType=movie" class="" onclick="nclk(this, 'mov.list', '20094', '');">☑️개강 &amp; 개학 맞이 현생 응원 쿠폰 이벤트! 어떤 영화를 봐도 20% 쿠폰 무제한!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🐉호소다 마모루의 메타버스! '용과 주근깨 공주' 시리즈온 상륙]]></title>
@@ -69,24 +55,10 @@
         <content type="html"><![CDATA[<a href="/events/20080?productType=movie" class="" onclick="nclk(this, 'mov.list', '20080', '');">방학의 끝을 잡고🎵신나는 애니 파티! '백 투 스쿨' 애니메이션 할인전</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[✅최신 영화 최고 혜택으로 보는 꿀팁! 네이버 플러스 멤버십]]></title>
-        <id>https://serieson.naver.com/events/20034?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20034?productType=movie"/>
-        <updated>2022-02-08T04:02:58.541Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20034?productType=movie" class="" onclick="nclk(this, 'mov.list', '20034', '');">✅최신 영화 최고 혜택으로 보는 꿀팁! 네이버 플러스 멤버십</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[📌영혼을 채우는 명작 영화, 5천 캐시로 보세요!]]></title>
-        <id>https://serieson.naver.com/events/20053?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20053?productType=movie"/>
-        <updated>2022-01-21T11:02:32.439Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20053?productType=movie" class="" onclick="nclk(this, 'mov.list', '20053', '');">📌영혼을 채우는 명작 영화, 5천 캐시로 보세요!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[22년 2월 우수 이용자! 꼭 확인해보자!]]></title>
-        <id>https://serieson.naver.com/events/20067?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20067?productType=movie"/>
-        <updated>2022-01-31T15:02:36.134Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20067?productType=movie" class="" onclick="nclk(this, 'mov.list', '20067', '');">22년 2월 우수 이용자! 꼭 확인해보자!</a>]]></content>
+        <title type="html"><![CDATA[22년 3월 우수 이용자! 꼭 확인해보자!]]></title>
+        <id>https://serieson.naver.com/events/20098?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20098?productType=movie"/>
+        <updated>2022-02-28T15:03:06.691Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20098?productType=movie" class="" onclick="nclk(this, 'mov.list', '20098', '');">22년 3월 우수 이용자! 꼭 확인해보자!</a>]]></content>
     </entry>
 </feed>
