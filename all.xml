@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Feb 2022 04:04:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 05:03:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[YMCA 야구단 ([시리즈온] 이주의 무료영화)]]></title>
+            <link>https://serieson.naver.com/v2/movie/68140</link>
+            <guid>https://serieson.naver.com/v2/movie/68140</guid>
+            <pubDate>Thu, 24 Feb 2022 15:02:07 GMT</pubDate>
+            <content:encoded><![CDATA[3월 10일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20111222_162/132455269451505ILV_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아이 캔 스피크 ([시리즈온] 이주의 무료영화)]]></title>
+            <link>https://serieson.naver.com/v2/movie/209501</link>
+            <guid>https://serieson.naver.com/v2/movie/209501</guid>
+            <pubDate>Thu, 24 Feb 2022 15:02:07 GMT</pubDate>
+            <content:encoded><![CDATA[3월 10일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20170908_108/1504837489518BdEBl_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[그 누구도 아닌 ([시리즈온] 이주의 무료영화)]]></title>
             <link>https://serieson.naver.com/v2/movie/364197</link>
@@ -62,22 +78,6 @@
             <enclosure url="https://movie-phinf.pstatic.net/20200701_278/1593565875115m8oVX_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[YMCA 야구단 ([시리즈온] 이주의 무료영화)]]></title>
-            <link>https://serieson.naver.com/v2/movie/68140</link>
-            <guid>https://serieson.naver.com/v2/movie/68140</guid>
-            <pubDate>Thu, 24 Feb 2022 15:02:07 GMT</pubDate>
-            <content:encoded><![CDATA[3월 10일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20111222_162/132455269451505ILV_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이 캔 스피크 ([시리즈온] 이주의 무료영화)]]></title>
-            <link>https://serieson.naver.com/v2/movie/209501</link>
-            <guid>https://serieson.naver.com/v2/movie/209501</guid>
-            <pubDate>Thu, 24 Feb 2022 15:02:07 GMT</pubDate>
-            <content:encoded><![CDATA[3월 10일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20170908_108/1504837489518BdEBl_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[세 번째 살인 ([시리즈온] 이주의 무료영화)]]></title>
             <link>https://serieson.naver.com/v2/movie/225030</link>
             <guid>https://serieson.naver.com/v2/movie/225030</guid>
@@ -100,20 +100,6 @@
             <pubDate>Thu, 17 Feb 2022 15:01:59 GMT</pubDate>
             <content:encoded><![CDATA[3월 3일까지]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20190208_237/1549590998257TGaIO_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[19
-										
-											
-										
-										
-										
-											에리카: 푸른 불꽃 ([시리즈온] 이주의 무료영화)]]></title>
-            <link>https://serieson.naver.com/v2/movie/364201</link>
-            <guid>https://serieson.naver.com/v2/movie/364201</guid>
-            <pubDate>Thu, 17 Feb 2022 15:01:59 GMT</pubDate>
-            <content:encoded><![CDATA[3월 3일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20200320_286/1584675806294SLckH_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[펠리칸 베이커리 ([시리즈온] 이주의 무료영화)]]></title>
@@ -146,6 +132,20 @@
             <pubDate>Thu, 17 Feb 2022 15:01:59 GMT</pubDate>
             <content:encoded><![CDATA[3월 3일까지]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20111223_25/1324595907424mEoDd_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[19
+										
+											
+										
+										
+										
+											에리카: 푸른 불꽃 ([시리즈온] 이주의 무료영화)]]></title>
+            <link>https://serieson.naver.com/v2/movie/364201</link>
+            <guid>https://serieson.naver.com/v2/movie/364201</guid>
+            <pubDate>Thu, 17 Feb 2022 15:01:59 GMT</pubDate>
+            <content:encoded><![CDATA[3월 3일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20200320_286/1584675806294SLckH_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[씽2게더(세트: 1~2편) ([시리즈온] 할인 영화관)]]></title>
