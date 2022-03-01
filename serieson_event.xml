@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-03-01T14:02:34.552Z</updated>
+    <updated>2022-03-01T15:08:47.434Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
     <entry>
@@ -18,13 +18,6 @@
         <link href="https://serieson.naver.com/events/20091?productType=movie"/>
         <updated>2022-02-23T16:04:16.427Z</updated>
         <content type="html"><![CDATA[<a href="/events/20091?productType=movie" class="" onclick="nclk(this, 'mov.list', '20091', '');">👑설경구 이선균의 치열한 선거 레이스 ‘킹메이커’ 오픈!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🎤흥겨운 맘보부터 웅장한 오케스트라까지! '웨스트 사이드 스토리' 예약 구매 중]]></title>
-        <id>https://serieson.naver.com/events/20096?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20096?productType=movie"/>
-        <updated>2022-02-24T16:03:32.696Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20096?productType=movie" class="" onclick="nclk(this, 'mov.list', '20096', '');">🎤흥겨운 맘보부터 웅장한 오케스트라까지! '웨스트 사이드 스토리' 예약 구매 중</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🐉호소다 마모루의 메타버스! '용과 주근깨 공주' 시리즈온 상륙]]></title>
@@ -46,13 +39,6 @@
         <link href="https://serieson.naver.com/events/20079?productType=movie"/>
         <updated>2022-02-16T16:03:13.202Z</updated>
         <content type="html"><![CDATA[<a href="/events/20079?productType=movie" class="" onclick="nclk(this, 'mov.list', '20079', '');">죽여서라도 갖고 싶은 그 이름! '하우스 오브 구찌' 시리즈온 오픈</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방학의 끝을 잡고🎵신나는 애니 파티! '백 투 스쿨' 애니메이션 할인전]]></title>
-        <id>https://serieson.naver.com/events/20080?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20080?productType=movie"/>
-        <updated>2022-02-17T16:03:05.500Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20080?productType=movie" class="" onclick="nclk(this, 'mov.list', '20080', '');">방학의 끝을 잡고🎵신나는 애니 파티! '백 투 스쿨' 애니메이션 할인전</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[22년 3월 우수 이용자! 꼭 확인해보자!]]></title>
