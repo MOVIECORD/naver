@@ -4,9 +4,17 @@
         <title>[시리즈온] 할인 영화관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Mar 2022 14:02:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 15:03:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[리프레쉬]]></title>
+            <link>https://serieson.naver.com/v2/movie/487159</link>
+            <guid>https://serieson.naver.com/v2/movie/487159</guid>
+            <pubDate>Wed, 02 Mar 2022 15:02:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span>7,000</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20220128_263/1643335505996o3Wfv_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[19
 			
@@ -90,6 +98,14 @@
             <enclosure url="https://movie-phinf.pstatic.net/20210503_262/1620033652812BPhOh_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[토베 얀손]]></title>
+            <link>https://serieson.naver.com/v2/movie/464123</link>
+            <guid>https://serieson.naver.com/v2/movie/464123</guid>
+            <pubDate>Wed, 02 Mar 2022 15:02:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span>1,250</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20210823_223/1629695673976ctSz6_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[19
 			
 			
@@ -158,22 +174,6 @@
             <enclosure url="https://tvstore-phinf.pstatic.net/20210709_294/1625758650024rIxsz_JPEG/AQuietPlacePart2_2021_Sellthru_KR_800x1200.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[콰이어트 플레이스 2(부가영상..]]></title>
-            <link>https://serieson.naver.com/v2/movie/449517</link>
-            <guid>https://serieson.naver.com/v2/movie/449517</guid>
-            <pubDate>Tue, 01 Mar 2022 15:08:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span>5,005</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20210709_294/1625758650024rIxsz_JPEG/AQuietPlacePart2_2021_Sellthru_KR_800x1200.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[콰이어트 플레이스 2]]></title>
-            <link>https://serieson.naver.com/v2/movie/449516</link>
-            <guid>https://serieson.naver.com/v2/movie/449516</guid>
-            <pubDate>Tue, 01 Mar 2022 15:08:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2,200</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20210709_294/1625758650024rIxsz_JPEG/AQuietPlacePart2_2021_Sellthru_KR_800x1200.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[컨저링 3: 악마가 시켰다(세트..]]></title>
             <link>https://serieson.naver.com/v2/movie/447052</link>
             <guid>https://serieson.naver.com/v2/movie/447052</guid>
@@ -182,12 +182,28 @@
             <enclosure url="https://tvstore-phinf.pstatic.net/20210623_261/1624425567386pgigc_JPEG/CONJURING_TDMMDI_PVOD_STD_V_DD_KA_TT_2160x2880_300dpi_KR.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[미스]]></title>
+            <link>https://serieson.naver.com/v2/movie/440614</link>
+            <guid>https://serieson.naver.com/v2/movie/440614</guid>
+            <pubDate>Wed, 02 Mar 2022 15:02:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span>1,250</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20210427_144/1619487062509UBYeW_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[조제]]></title>
             <link>https://serieson.naver.com/v2/movie/417009</link>
             <guid>https://serieson.naver.com/v2/movie/417009</guid>
             <pubDate>Tue, 01 Mar 2022 15:08:20 GMT</pubDate>
             <content:encoded><![CDATA[<span>3,300</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20201116_276/1605491658399poUOC_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[그리고 우린 춤을 추었다]]></title>
+            <link>https://serieson.naver.com/v2/movie/414478</link>
+            <guid>https://serieson.naver.com/v2/movie/414478</guid>
+            <pubDate>Wed, 02 Mar 2022 15:02:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span>1,250</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20201106_164/1604629218336jHBEf_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[내가 죽던 날]]></title>
@@ -206,26 +222,6 @@
             <pubDate>Tue, 01 Mar 2022 15:08:20 GMT</pubDate>
             <content:encoded><![CDATA[<span>11,440</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20130902_120/1378102519127eR7Fz_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자막
-			
-			코쿠리코 언덕에서(패키지..]]></title>
-            <link>https://serieson.naver.com/v2/movie/400553</link>
-            <guid>https://serieson.naver.com/v2/movie/400553</guid>
-            <pubDate>Tue, 01 Mar 2022 15:08:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span>11,440</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20111223_53/1324645815032yz3sT_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자막
-			
-			벼랑 위의 포뇨(패키지상..]]></title>
-            <link>https://serieson.naver.com/v2/movie/400547</link>
-            <guid>https://serieson.naver.com/v2/movie/400547</guid>
-            <pubDate>Tue, 01 Mar 2022 15:08:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span>11,440</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20111222_95/1324534697829dzdrz_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

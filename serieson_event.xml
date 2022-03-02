@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-03-02T14:02:35.726Z</updated>
+    <updated>2022-03-02T15:03:18.259Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
     <entry>
@@ -34,18 +34,11 @@
         <content type="html"><![CDATA[<a href="/events/20092?productType=movie" class="" onclick="nclk(this, 'mov.list', '20092', '');">🐉호소다 마모루의 메타버스! '용과 주근깨 공주' 시리즈온 상륙</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[😎현대판 킹스맨이 될 절호의 기회! '킹스맨: 퍼스트 에이전트' 경품 이벤트]]></title>
-        <id>https://serieson.naver.com/events/20085?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20085?productType=movie"/>
-        <updated>2022-02-16T16:03:13.202Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20085?productType=movie" class="" onclick="nclk(this, 'mov.list', '20085', '');">😎현대판 킹스맨이 될 절호의 기회! '킹스맨: 퍼스트 에이전트' 경품 이벤트</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[죽여서라도 갖고 싶은 그 이름! '하우스 오브 구찌' 시리즈온 오픈]]></title>
-        <id>https://serieson.naver.com/events/20079?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20079?productType=movie"/>
-        <updated>2022-02-16T16:03:13.202Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20079?productType=movie" class="" onclick="nclk(this, 'mov.list', '20079', '');">죽여서라도 갖고 싶은 그 이름! '하우스 오브 구찌' 시리즈온 오픈</a>]]></content>
+        <title type="html"><![CDATA[🥂술과 인생이 만들어낸 유쾌한 술생찬가! '어나더 라운드' 경품 이벤트]]></title>
+        <id>https://serieson.naver.com/events/20101?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20101?productType=movie"/>
+        <updated>2022-03-02T15:03:17.652Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20101?productType=movie" class="" onclick="nclk(this, 'mov.list', '20101', '');">🥂술과 인생이 만들어낸 유쾌한 술생찬가! '어나더 라운드' 경품 이벤트</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[22년 3월 우수 이용자! 꼭 확인해보자!]]></title>
