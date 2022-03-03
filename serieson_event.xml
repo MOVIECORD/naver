@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-03-03T14:02:28.524Z</updated>
+    <updated>2022-03-03T15:03:08.296Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
     <entry>
@@ -39,6 +39,13 @@
         <link href="https://serieson.naver.com/events/20101?productType=movie"/>
         <updated>2022-03-02T15:03:17.652Z</updated>
         <content type="html"><![CDATA[<a href="/events/20101?productType=movie" class="" onclick="nclk(this, 'mov.list', '20101', '');">🥂술과 인생이 만들어낸 유쾌한 술생찬가! '어나더 라운드' 경품 이벤트</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[📽️Women in Cinema! 세계 여성의 날 기념, 영화 보고 쿠폰 받아가세요~]]></title>
+        <id>https://serieson.naver.com/events/20102?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20102?productType=movie"/>
+        <updated>2022-03-03T15:03:07.698Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20102?productType=movie" class="" onclick="nclk(this, 'mov.list', '20102', '');">📽️Women in Cinema! 세계 여성의 날 기념, 영화 보고 쿠폰 받아가세요~</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[✅최신 영화 최고 혜택으로 보는 꿀팁! 네이버 플러스 멤버십]]></title>

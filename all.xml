@@ -4,9 +4,59 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Mar 2022 14:02:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 15:03:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[19
+										
+											
+										
+										
+										
+											다운 바이 러브 ([시리즈온] 이주의 무료영화)]]></title>
+            <link>https://serieson.naver.com/v2/movie/196216</link>
+            <guid>https://serieson.naver.com/v2/movie/196216</guid>
+            <pubDate>Thu, 03 Mar 2022 15:02:34 GMT</pubDate>
+            <content:encoded><![CDATA[3월 17일까지]]></content:encoded>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20211202_148/1638376901958WB5mX_PNG/ONPOSTER_2519.__.png?type=w320" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[봄, 눈 ([시리즈온] 이주의 무료영화)]]></title>
+            <link>https://serieson.naver.com/v2/movie/390475</link>
+            <guid>https://serieson.naver.com/v2/movie/390475</guid>
+            <pubDate>Thu, 03 Mar 2022 15:02:34 GMT</pubDate>
+            <content:encoded><![CDATA[3월 17일까지]]></content:encoded>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20211202_8/1638376982716lQkcu_PNG/ONPOSTER_2532.%2C_.png?type=w320" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[19
+										
+											
+										
+										
+										
+											와이키키 브라더스 ([시리즈온] 이주의 무료영화)]]></title>
+            <link>https://serieson.naver.com/v2/movie/68141</link>
+            <guid>https://serieson.naver.com/v2/movie/68141</guid>
+            <pubDate>Thu, 03 Mar 2022 15:02:34 GMT</pubDate>
+            <content:encoded><![CDATA[3월 17일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20111222_128/1324488459316jFBDl_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[19
+										
+											
+										
+										
+										
+											투 마더스 ([시리즈온] 이주의 무료영화)]]></title>
+            <link>https://serieson.naver.com/v2/movie/45471</link>
+            <guid>https://serieson.naver.com/v2/movie/45471</guid>
+            <pubDate>Thu, 03 Mar 2022 15:02:34 GMT</pubDate>
+            <content:encoded><![CDATA[3월 17일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20130718_5/1374116517723KjwyC_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[YMCA 야구단 ([시리즈온] 이주의 무료영화)]]></title>
             <link>https://serieson.naver.com/v2/movie/68140</link>
@@ -22,14 +72,6 @@
             <pubDate>Thu, 24 Feb 2022 15:02:07 GMT</pubDate>
             <content:encoded><![CDATA[3월 10일까지]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20170908_108/1504837489518BdEBl_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[펠리칸 베이커리 ([시리즈온] 이주의 무료영화)]]></title>
-            <link>https://serieson.naver.com/v2/movie/365911</link>
-            <guid>https://serieson.naver.com/v2/movie/365911</guid>
-            <pubDate>Thu, 17 Feb 2022 15:01:59 GMT</pubDate>
-            <content:encoded><![CDATA[3월 3일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20200326_197/1585210508393NwqfR_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[그 누구도 아닌 ([시리즈온] 이주의 무료영화)]]></title>
@@ -102,36 +144,11 @@
             <enclosure url="https://movie-phinf.pstatic.net/20180523_89/1527041515521jQKPn_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[더 히어로: 메모리 리메인즈 ([시리즈온] 이주의 무료영화)]]></title>
-            <link>https://serieson.naver.com/v2/movie/270605</link>
-            <guid>https://serieson.naver.com/v2/movie/270605</guid>
-            <pubDate>Thu, 17 Feb 2022 15:01:59 GMT</pubDate>
-            <content:encoded><![CDATA[3월 3일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20190208_237/1549590998257TGaIO_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[남아본색 ([시리즈온] 이주의 무료영화)]]></title>
-            <link>https://serieson.naver.com/v2/movie/2380</link>
-            <guid>https://serieson.naver.com/v2/movie/2380</guid>
-            <pubDate>Thu, 17 Feb 2022 15:01:59 GMT</pubDate>
-            <content:encoded><![CDATA[3월 3일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20111222_273/1324533118675y5NsB_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세이빙 레닌그라드 ([시리즈온] 이주의 무료영화)]]></title>
-            <link>https://serieson.naver.com/v2/movie/298658</link>
-            <guid>https://serieson.naver.com/v2/movie/298658</guid>
-            <pubDate>Thu, 17 Feb 2022 15:01:59 GMT</pubDate>
-            <content:encoded><![CDATA[3월 3일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20190801_222/1564651197018Yp51x_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[C+ 탐정 ([시리즈온] 이주의 무료영화)]]></title>
-            <link>https://serieson.naver.com/v2/movie/329182</link>
-            <guid>https://serieson.naver.com/v2/movie/329182</guid>
-            <pubDate>Thu, 17 Feb 2022 15:01:59 GMT</pubDate>
-            <content:encoded><![CDATA[3월 3일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20111223_25/1324595907424mEoDd_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+            <title><![CDATA[휘트니 ([시리즈온] 이주의 무료영화)]]></title>
+            <link>https://MOVIECORD.github.io/naver/all.xml</link>
+            <guid>https://MOVIECORD.github.io/naver/all.xml</guid>
+            <pubDate>Thu, 03 Mar 2022 15:02:34 GMT</pubDate>
+            <content:encoded><![CDATA[오픈예정]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[19
@@ -140,12 +157,11 @@
 										
 										
 										
-											에리카: 푸른 불꽃 ([시리즈온] 이주의 무료영화)]]></title>
-            <link>https://serieson.naver.com/v2/movie/364201</link>
-            <guid>https://serieson.naver.com/v2/movie/364201</guid>
-            <pubDate>Thu, 17 Feb 2022 15:01:59 GMT</pubDate>
-            <content:encoded><![CDATA[3월 3일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20200320_286/1584675806294SLckH_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+											러브 ([시리즈온] 이주의 무료영화)]]></title>
+            <link>https://MOVIECORD.github.io/naver/all.xml</link>
+            <guid>https://MOVIECORD.github.io/naver/all.xml</guid>
+            <pubDate>Thu, 03 Mar 2022 15:02:34 GMT</pubDate>
+            <content:encoded><![CDATA[오픈예정]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[리프레쉬 ([시리즈온] 할인 영화관)]]></title>
@@ -859,6 +875,13 @@
             <guid>https://serieson.naver.com/events/20101?productType=movie</guid>
             <pubDate>Wed, 02 Mar 2022 15:03:17 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/events/20101?productType=movie" class="" onclick="nclk(this, 'mov.list', '20101', '');">🥂술과 인생이 만들어낸 유쾌한 술생찬가! '어나더 라운드' 경품 이벤트</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[📽️Women in Cinema! 세계 여성의 날 기념, 영화 보고 쿠폰 받아가세요~ ([시리즈온] 이벤트)]]></title>
+            <link>https://serieson.naver.com/events/20102?productType=movie</link>
+            <guid>https://serieson.naver.com/events/20102?productType=movie</guid>
+            <pubDate>Thu, 03 Mar 2022 15:03:07 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/events/20102?productType=movie" class="" onclick="nclk(this, 'mov.list', '20102', '');">📽️Women in Cinema! 세계 여성의 날 기념, 영화 보고 쿠폰 받아가세요~</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[✅최신 영화 최고 혜택으로 보는 꿀팁! 네이버 플러스 멤버십 ([시리즈온] 이벤트)]]></title>
