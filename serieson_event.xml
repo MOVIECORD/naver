@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-03-03T00:25:19.749Z</updated>
+    <updated>2022-03-03T02:05:47.759Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
     <entry>
@@ -41,17 +41,17 @@
         <content type="html"><![CDATA[<a href="/events/20101?productType=movie" class="" onclick="nclk(this, 'mov.list', '20101', '');">🥂술과 인생이 만들어낸 유쾌한 술생찬가! '어나더 라운드' 경품 이벤트</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[22년 3월 우수 이용자! 꼭 확인해보자!]]></title>
-        <id>https://serieson.naver.com/events/20098?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20098?productType=movie"/>
-        <updated>2022-02-28T15:03:06.691Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20098?productType=movie" class="" onclick="nclk(this, 'mov.list', '20098', '');">22년 3월 우수 이용자! 꼭 확인해보자!</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[✅최신 영화 최고 혜택으로 보는 꿀팁! 네이버 플러스 멤버십]]></title>
         <id>https://serieson.naver.com/events/20034?productType=movie</id>
         <link href="https://serieson.naver.com/events/20034?productType=movie"/>
         <updated>2022-03-01T16:05:55.555Z</updated>
         <content type="html"><![CDATA[<a href="/events/20034?productType=movie" class="" onclick="nclk(this, 'mov.list', '20034', '');">✅최신 영화 최고 혜택으로 보는 꿀팁! 네이버 플러스 멤버십</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[22년 3월 우수 이용자! 꼭 확인해보자!]]></title>
+        <id>https://serieson.naver.com/events/20098?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20098?productType=movie"/>
+        <updated>2022-02-28T15:03:06.691Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20098?productType=movie" class="" onclick="nclk(this, 'mov.list', '20098', '');">22년 3월 우수 이용자! 꼭 확인해보자!</a>]]></content>
     </entry>
 </feed>
