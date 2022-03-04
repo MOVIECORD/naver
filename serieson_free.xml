@@ -4,7 +4,7 @@
         <title>[시리즈온] 이주의 무료영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Mar 2022 14:02:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 15:04:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -128,26 +128,10 @@
             <enclosure url="https://movie-phinf.pstatic.net/20200701_278/1593565875115m8oVX_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[세 번째 살인]]></title>
-            <link>https://serieson.naver.com/v2/movie/225030</link>
-            <guid>https://serieson.naver.com/v2/movie/225030</guid>
-            <pubDate>Fri, 18 Feb 2022 15:02:30 GMT</pubDate>
-            <content:encoded><![CDATA[3월 4일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20171127_45/1511746082042xUgGT_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정글]]></title>
-            <link>https://serieson.naver.com/v2/movie/234201</link>
-            <guid>https://serieson.naver.com/v2/movie/234201</guid>
-            <pubDate>Fri, 18 Feb 2022 15:02:30 GMT</pubDate>
-            <content:encoded><![CDATA[3월 4일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20180523_89/1527041515521jQKPn_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[휘트니]]></title>
             <link>https://serieson.naver.com/movie/freeMovieList.nhn</link>
             <guid>https://serieson.naver.com/movie/freeMovieList.nhn</guid>
-            <pubDate>Fri, 04 Mar 2022 14:02:14 GMT</pubDate>
+            <pubDate>Fri, 04 Mar 2022 15:04:23 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
         </item>
         <item>
@@ -160,7 +144,21 @@
 											러브]]></title>
             <link>https://serieson.naver.com/movie/freeMovieList.nhn</link>
             <guid>https://serieson.naver.com/movie/freeMovieList.nhn</guid>
-            <pubDate>Fri, 04 Mar 2022 14:02:14 GMT</pubDate>
+            <pubDate>Fri, 04 Mar 2022 15:04:23 GMT</pubDate>
+            <content:encoded><![CDATA[오픈예정]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[그해 여름]]></title>
+            <link>https://serieson.naver.com/movie/freeMovieList.nhn</link>
+            <guid>https://serieson.naver.com/movie/freeMovieList.nhn</guid>
+            <pubDate>Fri, 04 Mar 2022 15:04:23 GMT</pubDate>
+            <content:encoded><![CDATA[오픈예정]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[시카리오: 데이 오브 솔다도]]></title>
+            <link>https://serieson.naver.com/movie/freeMovieList.nhn</link>
+            <guid>https://serieson.naver.com/movie/freeMovieList.nhn</guid>
+            <pubDate>Fri, 04 Mar 2022 15:04:23 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
         </item>
     </channel>
