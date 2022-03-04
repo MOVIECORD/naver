@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Mar 2022 15:04:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 16:03:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -131,7 +131,7 @@
             <title><![CDATA[휘트니 ([시리즈온] 이주의 무료영화)]]></title>
             <link>https://MOVIECORD.github.io/naver/all.xml</link>
             <guid>https://MOVIECORD.github.io/naver/all.xml</guid>
-            <pubDate>Fri, 04 Mar 2022 15:04:23 GMT</pubDate>
+            <pubDate>Fri, 04 Mar 2022 16:03:03 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
         </item>
         <item>
@@ -144,21 +144,21 @@
 											러브 ([시리즈온] 이주의 무료영화)]]></title>
             <link>https://MOVIECORD.github.io/naver/all.xml</link>
             <guid>https://MOVIECORD.github.io/naver/all.xml</guid>
-            <pubDate>Fri, 04 Mar 2022 15:04:23 GMT</pubDate>
+            <pubDate>Fri, 04 Mar 2022 16:03:03 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[그해 여름 ([시리즈온] 이주의 무료영화)]]></title>
             <link>https://MOVIECORD.github.io/naver/all.xml</link>
             <guid>https://MOVIECORD.github.io/naver/all.xml</guid>
-            <pubDate>Fri, 04 Mar 2022 15:04:23 GMT</pubDate>
+            <pubDate>Fri, 04 Mar 2022 16:03:03 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[시카리오: 데이 오브 솔다도 ([시리즈온] 이주의 무료영화)]]></title>
             <link>https://MOVIECORD.github.io/naver/all.xml</link>
             <guid>https://MOVIECORD.github.io/naver/all.xml</guid>
-            <pubDate>Fri, 04 Mar 2022 15:04:23 GMT</pubDate>
+            <pubDate>Fri, 04 Mar 2022 16:03:03 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
         </item>
         <item>
@@ -838,6 +838,13 @@
             <content:encoded><![CDATA[<em class="">대여</em>
 					<strong class="payment"><span>2,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20210923_272/16323630541200iQPb_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[🕷목 빠지게 기다려온 '스파이더맨: 노 웨이 홈'! 시리즈온 특급 혜택 안내 ([시리즈온] 이벤트)]]></title>
+            <link>https://serieson.naver.com/events/20105?productType=movie</link>
+            <guid>https://serieson.naver.com/events/20105?productType=movie</guid>
+            <pubDate>Fri, 04 Mar 2022 16:03:37 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/events/20105?productType=movie" class="" onclick="nclk(this, 'mov.list', '20105', '');">🕷목 빠지게 기다려온 '스파이더맨: 노 웨이 홈'! 시리즈온 특급 혜택 안내</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[🎤디즈니 블루투스 마이크와 함께! '웨스트 사이드 스토리' 프로모션 ([시리즈온] 이벤트)]]></title>
