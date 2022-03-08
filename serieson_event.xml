@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-03-08T15:02:40.994Z</updated>
+    <updated>2022-03-08T16:05:54.153Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
     <entry>
@@ -39,6 +39,13 @@
         <link href="https://serieson.naver.com/events/20103?productType=movie"/>
         <updated>2022-03-07T15:02:46.067Z</updated>
         <content type="html"><![CDATA[<a href="/events/20103?productType=movie" class="" onclick="nclk(this, 'mov.list', '20103', '');">💖21세기 최고의 문제작으로 빚은 파격 멜로! '인민을 위해 복무하라' 경품 이벤트</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🎁정우, 김갑수 주연의 진~한 느와르! '뜨거운 피' 예매권 이벤트]]></title>
+        <id>https://serieson.naver.com/events/20113?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20113?productType=movie"/>
+        <updated>2022-03-08T16:05:53.490Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20113?productType=movie" class="" onclick="nclk(this, 'mov.list', '20113', '');">🎁정우, 김갑수 주연의 진~한 느와르! '뜨거운 피' 예매권 이벤트</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🥂술과 인생이 만들어낸 유쾌한 술생찬가! '어나더 라운드' 경품 이벤트]]></title>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Mar 2022 15:02:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2022 16:05:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -131,7 +131,7 @@
             <title><![CDATA[휘트니 ([시리즈온] 이주의 무료영화)]]></title>
             <link>https://MOVIECORD.github.io/naver/all.xml</link>
             <guid>https://MOVIECORD.github.io/naver/all.xml</guid>
-            <pubDate>Tue, 08 Mar 2022 15:02:09 GMT</pubDate>
+            <pubDate>Tue, 08 Mar 2022 16:05:21 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
         </item>
         <item>
@@ -144,21 +144,21 @@
 											러브 ([시리즈온] 이주의 무료영화)]]></title>
             <link>https://MOVIECORD.github.io/naver/all.xml</link>
             <guid>https://MOVIECORD.github.io/naver/all.xml</guid>
-            <pubDate>Tue, 08 Mar 2022 15:02:09 GMT</pubDate>
+            <pubDate>Tue, 08 Mar 2022 16:05:21 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[그해 여름 ([시리즈온] 이주의 무료영화)]]></title>
             <link>https://MOVIECORD.github.io/naver/all.xml</link>
             <guid>https://MOVIECORD.github.io/naver/all.xml</guid>
-            <pubDate>Tue, 08 Mar 2022 15:02:09 GMT</pubDate>
+            <pubDate>Tue, 08 Mar 2022 16:05:21 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[시카리오: 데이 오브 솔다도 ([시리즈온] 이주의 무료영화)]]></title>
             <link>https://MOVIECORD.github.io/naver/all.xml</link>
             <guid>https://MOVIECORD.github.io/naver/all.xml</guid>
-            <pubDate>Tue, 08 Mar 2022 15:02:09 GMT</pubDate>
+            <pubDate>Tue, 08 Mar 2022 16:05:21 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
         </item>
         <item>
@@ -887,6 +887,13 @@
             <guid>https://serieson.naver.com/events/20103?productType=movie</guid>
             <pubDate>Mon, 07 Mar 2022 15:02:46 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/events/20103?productType=movie" class="" onclick="nclk(this, 'mov.list', '20103', '');">💖21세기 최고의 문제작으로 빚은 파격 멜로! '인민을 위해 복무하라' 경품 이벤트</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[🎁정우, 김갑수 주연의 진~한 느와르! '뜨거운 피' 예매권 이벤트 ([시리즈온] 이벤트)]]></title>
+            <link>https://serieson.naver.com/events/20113?productType=movie</link>
+            <guid>https://serieson.naver.com/events/20113?productType=movie</guid>
+            <pubDate>Tue, 08 Mar 2022 16:05:53 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/events/20113?productType=movie" class="" onclick="nclk(this, 'mov.list', '20113', '');">🎁정우, 김갑수 주연의 진~한 느와르! '뜨거운 피' 예매권 이벤트</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[🥂술과 인생이 만들어낸 유쾌한 술생찬가! '어나더 라운드' 경품 이벤트 ([시리즈온] 이벤트)]]></title>
