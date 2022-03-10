@@ -4,59 +4,9 @@
         <title>[시리즈온] 이주의 무료영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 15:04:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 16:05:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[봄, 눈]]></title>
-            <link>https://serieson.naver.com/v2/movie/390475</link>
-            <guid>https://serieson.naver.com/v2/movie/390475</guid>
-            <pubDate>Thu, 03 Mar 2022 15:02:34 GMT</pubDate>
-            <content:encoded><![CDATA[3월 17일까지]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20211202_8/1638376982716lQkcu_PNG/ONPOSTER_2532.%2C_.png?type=w320" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[19
-										
-											
-										
-										
-										
-											다운 바이 러브]]></title>
-            <link>https://serieson.naver.com/v2/movie/196216</link>
-            <guid>https://serieson.naver.com/v2/movie/196216</guid>
-            <pubDate>Thu, 03 Mar 2022 15:02:34 GMT</pubDate>
-            <content:encoded><![CDATA[3월 17일까지]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20211202_148/1638376901958WB5mX_PNG/ONPOSTER_2519.__.png?type=w320" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[19
-										
-											
-										
-										
-										
-											와이키키 브라더스]]></title>
-            <link>https://serieson.naver.com/v2/movie/68141</link>
-            <guid>https://serieson.naver.com/v2/movie/68141</guid>
-            <pubDate>Thu, 03 Mar 2022 15:02:34 GMT</pubDate>
-            <content:encoded><![CDATA[3월 17일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20111222_128/1324488459316jFBDl_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[19
-										
-											
-										
-										
-										
-											투 마더스]]></title>
-            <link>https://serieson.naver.com/v2/movie/45471</link>
-            <guid>https://serieson.naver.com/v2/movie/45471</guid>
-            <pubDate>Thu, 03 Mar 2022 15:02:34 GMT</pubDate>
-            <content:encoded><![CDATA[3월 17일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20130718_5/1374116517723KjwyC_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[휘트니]]></title>
             <link>https://serieson.naver.com/v2/movie/250550</link>
@@ -140,6 +90,56 @@
             <pubDate>Thu, 10 Mar 2022 15:03:47 GMT</pubDate>
             <content:encoded><![CDATA[3월 24일까지]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20140218_232/1392709570132dLTDH_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[봄, 눈]]></title>
+            <link>https://serieson.naver.com/v2/movie/390475</link>
+            <guid>https://serieson.naver.com/v2/movie/390475</guid>
+            <pubDate>Thu, 03 Mar 2022 15:02:34 GMT</pubDate>
+            <content:encoded><![CDATA[3월 17일까지]]></content:encoded>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20211202_8/1638376982716lQkcu_PNG/ONPOSTER_2532.%2C_.png?type=w320" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[19
+										
+											
+										
+										
+										
+											다운 바이 러브]]></title>
+            <link>https://serieson.naver.com/v2/movie/196216</link>
+            <guid>https://serieson.naver.com/v2/movie/196216</guid>
+            <pubDate>Thu, 03 Mar 2022 15:02:34 GMT</pubDate>
+            <content:encoded><![CDATA[3월 17일까지]]></content:encoded>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20211202_148/1638376901958WB5mX_PNG/ONPOSTER_2519.__.png?type=w320" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[19
+										
+											
+										
+										
+										
+											와이키키 브라더스]]></title>
+            <link>https://serieson.naver.com/v2/movie/68141</link>
+            <guid>https://serieson.naver.com/v2/movie/68141</guid>
+            <pubDate>Thu, 03 Mar 2022 15:02:34 GMT</pubDate>
+            <content:encoded><![CDATA[3월 17일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20111222_128/1324488459316jFBDl_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[19
+										
+											
+										
+										
+										
+											투 마더스]]></title>
+            <link>https://serieson.naver.com/v2/movie/45471</link>
+            <guid>https://serieson.naver.com/v2/movie/45471</guid>
+            <pubDate>Thu, 03 Mar 2022 15:02:34 GMT</pubDate>
+            <content:encoded><![CDATA[3월 17일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20130718_5/1374116517723KjwyC_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

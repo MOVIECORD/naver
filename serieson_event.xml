@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-03-10T15:04:20.696Z</updated>
+    <updated>2022-03-10T16:05:36.248Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[<a href="/events/20111?productType=movie" class="" onclick="nclk(this, 'mov.list', '20111', '');">🕸'스파이더맨: 노 웨이 홈'! 최고의 혜택으로 지금 예약 구매 중!</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[🎤디즈니 블루투스 마이크와 함께! '웨스트 사이드 스토리' 프로모션]]></title>
-        <id>https://serieson.naver.com/events/20097?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20097?productType=movie"/>
-        <updated>2022-03-01T16:05:55.550Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20097?productType=movie" class="" onclick="nclk(this, 'mov.list', '20097', '');">🎤디즈니 블루투스 마이크와 함께! '웨스트 사이드 스토리' 프로모션</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[🐖돼지를 잃어버린 남자, 마음을 잃어버린 사람들을 만나다 '피그']]></title>
         <id>https://serieson.naver.com/events/20112?productType=movie</id>
         <link href="https://serieson.naver.com/events/20112?productType=movie"/>
         <updated>2022-03-10T15:04:20.033Z</updated>
         <content type="html"><![CDATA[<a href="/events/20112?productType=movie" class="" onclick="nclk(this, 'mov.list', '20112', '');">🐖돼지를 잃어버린 남자, 마음을 잃어버린 사람들을 만나다 '피그'</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[💖21세기 최고의 문제작으로 빚은 파격 멜로! '인민을 위해 복무하라' 경품 이벤트]]></title>
+        <id>https://serieson.naver.com/events/20103?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20103?productType=movie"/>
+        <updated>2022-03-07T15:02:46.067Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20103?productType=movie" class="" onclick="nclk(this, 'mov.list', '20103', '');">💖21세기 최고의 문제작으로 빚은 파격 멜로! '인민을 위해 복무하라' 경품 이벤트</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🐉호소다 마모루의 메타버스! '용과 주근깨 공주' 시리즈온 상륙]]></title>
@@ -34,11 +34,11 @@
         <content type="html"><![CDATA[<a href="/events/20092?productType=movie" class="" onclick="nclk(this, 'mov.list', '20092', '');">🐉호소다 마모루의 메타버스! '용과 주근깨 공주' 시리즈온 상륙</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[💖21세기 최고의 문제작으로 빚은 파격 멜로! '인민을 위해 복무하라' 경품 이벤트]]></title>
-        <id>https://serieson.naver.com/events/20103?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20103?productType=movie"/>
-        <updated>2022-03-07T15:02:46.067Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20103?productType=movie" class="" onclick="nclk(this, 'mov.list', '20103', '');">💖21세기 최고의 문제작으로 빚은 파격 멜로! '인민을 위해 복무하라' 경품 이벤트</a>]]></content>
+        <title type="html"><![CDATA[🎤디즈니 블루투스 마이크와 함께! '웨스트 사이드 스토리' 프로모션]]></title>
+        <id>https://serieson.naver.com/events/20097?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20097?productType=movie"/>
+        <updated>2022-03-01T16:05:55.550Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20097?productType=movie" class="" onclick="nclk(this, 'mov.list', '20097', '');">🎤디즈니 블루투스 마이크와 함께! '웨스트 사이드 스토리' 프로모션</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🎁정우, 김갑수 주연의 진~한 느와르! '뜨거운 피' 예매권 이벤트]]></title>
