@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-03-10T14:02:42.006Z</updated>
+    <updated>2022-03-10T15:04:20.696Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://serieson.naver.com/events/20097?productType=movie"/>
         <updated>2022-03-01T16:05:55.550Z</updated>
         <content type="html"><![CDATA[<a href="/events/20097?productType=movie" class="" onclick="nclk(this, 'mov.list', '20097', '');">🎤디즈니 블루투스 마이크와 함께! '웨스트 사이드 스토리' 프로모션</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🐖돼지를 잃어버린 남자, 마음을 잃어버린 사람들을 만나다 '피그']]></title>
+        <id>https://serieson.naver.com/events/20112?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20112?productType=movie"/>
+        <updated>2022-03-10T15:04:20.033Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20112?productType=movie" class="" onclick="nclk(this, 'mov.list', '20112', '');">🐖돼지를 잃어버린 남자, 마음을 잃어버린 사람들을 만나다 '피그'</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🐉호소다 마모루의 메타버스! '용과 주근깨 공주' 시리즈온 상륙]]></title>
@@ -46,13 +53,6 @@
         <link href="https://serieson.naver.com/events/20101?productType=movie"/>
         <updated>2022-03-02T15:03:17.652Z</updated>
         <content type="html"><![CDATA[<a href="/events/20101?productType=movie" class="" onclick="nclk(this, 'mov.list', '20101', '');">🥂술과 인생이 만들어낸 유쾌한 술생찬가! '어나더 라운드' 경품 이벤트</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[📽️Women in Cinema! 세계 여성의 날 기념, 영화 보고 쿠폰 받아가세요~]]></title>
-        <id>https://serieson.naver.com/events/20102?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20102?productType=movie"/>
-        <updated>2022-03-03T15:03:07.698Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20102?productType=movie" class="" onclick="nclk(this, 'mov.list', '20102', '');">📽️Women in Cinema! 세계 여성의 날 기념, 영화 보고 쿠폰 받아가세요~</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🌹저.. 예술 영화 좋아하세요?]]></title>

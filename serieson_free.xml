@@ -4,7 +4,7 @@
         <title>[시리즈온] 이주의 무료영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 14:02:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 15:04:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -58,81 +58,12 @@
             <enclosure url="https://movie-phinf.pstatic.net/20130718_5/1374116517723KjwyC_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[YMCA 야구단]]></title>
-            <link>https://serieson.naver.com/v2/movie/68140</link>
-            <guid>https://serieson.naver.com/v2/movie/68140</guid>
-            <pubDate>Thu, 24 Feb 2022 15:02:07 GMT</pubDate>
-            <content:encoded><![CDATA[3월 10일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20111222_162/132455269451505ILV_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이 캔 스피크]]></title>
-            <link>https://serieson.naver.com/v2/movie/209501</link>
-            <guid>https://serieson.naver.com/v2/movie/209501</guid>
-            <pubDate>Thu, 24 Feb 2022 15:02:07 GMT</pubDate>
-            <content:encoded><![CDATA[3월 10일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20170908_108/1504837489518BdEBl_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그 누구도 아닌]]></title>
-            <link>https://serieson.naver.com/v2/movie/364197</link>
-            <guid>https://serieson.naver.com/v2/movie/364197</guid>
-            <pubDate>Thu, 24 Feb 2022 15:02:07 GMT</pubDate>
-            <content:encoded><![CDATA[3월 10일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20200320_221/1584670987904hkMtx_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[은행강도 대소동(감독판)]]></title>
-            <link>https://serieson.naver.com/v2/movie/297200</link>
-            <guid>https://serieson.naver.com/v2/movie/297200</guid>
-            <pubDate>Thu, 24 Feb 2022 15:02:07 GMT</pubDate>
-            <content:encoded><![CDATA[3월 10일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20190730_26/1564449575691lBvFP_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블러드 오일]]></title>
-            <link>https://serieson.naver.com/v2/movie/327285</link>
-            <guid>https://serieson.naver.com/v2/movie/327285</guid>
-            <pubDate>Thu, 24 Feb 2022 15:02:07 GMT</pubDate>
-            <content:encoded><![CDATA[3월 10일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20191017_84/1571288750066mPT8q_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[작전명 반데라스]]></title>
-            <link>https://serieson.naver.com/v2/movie/283501</link>
-            <guid>https://serieson.naver.com/v2/movie/283501</guid>
-            <pubDate>Thu, 24 Feb 2022 15:02:07 GMT</pubDate>
-            <content:encoded><![CDATA[3월 10일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20190412_51/15550369089364PwLh_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[19
-										
-											
-										
-										
-										
-											킬러 노블레스 클럽]]></title>
-            <link>https://serieson.naver.com/v2/movie/360240</link>
-            <guid>https://serieson.naver.com/v2/movie/360240</guid>
-            <pubDate>Thu, 24 Feb 2022 15:02:07 GMT</pubDate>
-            <content:encoded><![CDATA[3월 10일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20200131_263/1580445002953cfsyD_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모탈: 레전드 오브 토르]]></title>
-            <link>https://serieson.naver.com/v2/movie/386640</link>
-            <guid>https://serieson.naver.com/v2/movie/386640</guid>
-            <pubDate>Thu, 24 Feb 2022 15:02:07 GMT</pubDate>
-            <content:encoded><![CDATA[3월 10일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20200701_278/1593565875115m8oVX_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[휘트니]]></title>
-            <link>https://serieson.naver.com/movie/freeMovieList.nhn</link>
-            <guid>https://serieson.naver.com/movie/freeMovieList.nhn</guid>
-            <pubDate>Thu, 10 Mar 2022 14:02:08 GMT</pubDate>
-            <content:encoded><![CDATA[오픈예정]]></content:encoded>
+            <link>https://serieson.naver.com/v2/movie/250550</link>
+            <guid>https://serieson.naver.com/v2/movie/250550</guid>
+            <pubDate>Thu, 10 Mar 2022 15:03:47 GMT</pubDate>
+            <content:encoded><![CDATA[3월 24일까지]]></content:encoded>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20211125_148/163782752965682JWH_PNG/ONPOSTER_2515..png?type=w320" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[19
@@ -142,24 +73,73 @@
 										
 										
 											러브]]></title>
-            <link>https://serieson.naver.com/movie/freeMovieList.nhn</link>
-            <guid>https://serieson.naver.com/movie/freeMovieList.nhn</guid>
-            <pubDate>Thu, 10 Mar 2022 14:02:08 GMT</pubDate>
-            <content:encoded><![CDATA[오픈예정]]></content:encoded>
+            <link>https://serieson.naver.com/v2/movie/211536</link>
+            <guid>https://serieson.naver.com/v2/movie/211536</guid>
+            <pubDate>Thu, 10 Mar 2022 15:03:47 GMT</pubDate>
+            <content:encoded><![CDATA[3월 24일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20171010_174/1507626689763r27dl_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[그해 여름]]></title>
-            <link>https://serieson.naver.com/movie/freeMovieList.nhn</link>
-            <guid>https://serieson.naver.com/movie/freeMovieList.nhn</guid>
-            <pubDate>Thu, 10 Mar 2022 14:02:08 GMT</pubDate>
-            <content:encoded><![CDATA[오픈예정]]></content:encoded>
+            <link>https://serieson.naver.com/v2/movie/28698</link>
+            <guid>https://serieson.naver.com/v2/movie/28698</guid>
+            <pubDate>Thu, 10 Mar 2022 15:03:47 GMT</pubDate>
+            <content:encoded><![CDATA[3월 24일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20111223_121/1324570748255LDMxf_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[시카리오: 데이 오브 솔다도]]></title>
-            <link>https://serieson.naver.com/movie/freeMovieList.nhn</link>
-            <guid>https://serieson.naver.com/movie/freeMovieList.nhn</guid>
-            <pubDate>Thu, 10 Mar 2022 14:02:08 GMT</pubDate>
-            <content:encoded><![CDATA[오픈예정]]></content:encoded>
+            <link>https://serieson.naver.com/v2/movie/248125</link>
+            <guid>https://serieson.naver.com/v2/movie/248125</guid>
+            <pubDate>Thu, 10 Mar 2022 15:03:47 GMT</pubDate>
+            <content:encoded><![CDATA[3월 24일까지]]></content:encoded>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20220224_72/1645702767261Axd9A_JPEG/%BD%C3%B8%AE%C1%EEONPOSTER_3196.%BD%C3%C4%AB%B8%AE%BF%C0__%B5%A5%C0%CC_%BF%C0%BA%EA_%BC%D6%B4%D9%B5%B5.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[론 서바이버]]></title>
+            <link>https://serieson.naver.com/v2/movie/61601</link>
+            <guid>https://serieson.naver.com/v2/movie/61601</guid>
+            <pubDate>Thu, 10 Mar 2022 15:03:47 GMT</pubDate>
+            <content:encoded><![CDATA[3월 24일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20140418_157/1397799441142fFXad_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[프렌드 존]]></title>
+            <link>https://serieson.naver.com/v2/movie/329666</link>
+            <guid>https://serieson.naver.com/v2/movie/329666</guid>
+            <pubDate>Thu, 10 Mar 2022 15:03:47 GMT</pubDate>
+            <content:encoded><![CDATA[3월 24일까지]]></content:encoded>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20220125_164/1643096962846lgKWs_PNG/ONPOSTER_3001..png?type=w320" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[옆자리 괴물군]]></title>
+            <link>https://serieson.naver.com/v2/movie/322879</link>
+            <guid>https://serieson.naver.com/v2/movie/322879</guid>
+            <pubDate>Thu, 10 Mar 2022 15:03:47 GMT</pubDate>
+            <content:encoded><![CDATA[3월 24일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20191028_197/1572250642034DKQv7_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[19
+										
+											
+										
+										
+										
+											마담 보바리]]></title>
+            <link>https://serieson.naver.com/v2/movie/131135</link>
+            <guid>https://serieson.naver.com/v2/movie/131135</guid>
+            <pubDate>Thu, 10 Mar 2022 15:03:47 GMT</pubDate>
+            <content:encoded><![CDATA[3월 24일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20151113_134/1447404734056CXx7Y_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[논스톱]]></title>
+            <link>https://serieson.naver.com/v2/movie/64698</link>
+            <guid>https://serieson.naver.com/v2/movie/64698</guid>
+            <pubDate>Thu, 10 Mar 2022 15:03:47 GMT</pubDate>
+            <content:encoded><![CDATA[3월 24일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20140218_232/1392709570132dLTDH_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
