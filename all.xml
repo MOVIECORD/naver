@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Mar 2022 15:03:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2022 16:04:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -151,14 +151,14 @@
 											키스 오브 뱀파이어 ([시리즈온] 이주의 무료영화)]]></title>
             <link>https://MOVIECORD.github.io/naver/all.xml</link>
             <guid>https://MOVIECORD.github.io/naver/all.xml</guid>
-            <pubDate>Sun, 13 Mar 2022 15:02:58 GMT</pubDate>
+            <pubDate>Sun, 13 Mar 2022 16:04:21 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[미녀는 괴로워 ([시리즈온] 이주의 무료영화)]]></title>
             <link>https://MOVIECORD.github.io/naver/all.xml</link>
             <guid>https://MOVIECORD.github.io/naver/all.xml</guid>
-            <pubDate>Sun, 13 Mar 2022 15:02:58 GMT</pubDate>
+            <pubDate>Sun, 13 Mar 2022 16:04:21 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
         </item>
         <item>
@@ -171,7 +171,7 @@
 											화장 ([시리즈온] 이주의 무료영화)]]></title>
             <link>https://MOVIECORD.github.io/naver/all.xml</link>
             <guid>https://MOVIECORD.github.io/naver/all.xml</guid>
-            <pubDate>Sun, 13 Mar 2022 15:02:58 GMT</pubDate>
+            <pubDate>Sun, 13 Mar 2022 16:04:21 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
         </item>
         <item>
@@ -878,6 +878,13 @@
             <guid>https://serieson.naver.com/events/20103?productType=movie</guid>
             <pubDate>Mon, 07 Mar 2022 15:02:46 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/events/20103?productType=movie" class="" onclick="nclk(this, 'mov.list', '20103', '');">💖21세기 최고의 문제작으로 빚은 파격 멜로! '인민을 위해 복무하라' 경품 이벤트</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[📐혹시 나도 천재일지 몰라! 자극 받는 천재 영화 모아 '파이 데이' ([시리즈온] 이벤트)]]></title>
+            <link>https://serieson.naver.com/events/20114?productType=movie</link>
+            <guid>https://serieson.naver.com/events/20114?productType=movie</guid>
+            <pubDate>Sun, 13 Mar 2022 16:04:51 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/events/20114?productType=movie" class="" onclick="nclk(this, 'mov.list', '20114', '');">📐혹시 나도 천재일지 몰라! 자극 받는 천재 영화 모아 '파이 데이'</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[🐉호소다 마모루의 메타버스! '용과 주근깨 공주' 시리즈온 상륙 ([시리즈온] 이벤트)]]></title>
