@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Mar 2022 14:02:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 15:03:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -151,14 +151,14 @@
 											키스 오브 뱀파이어 ([시리즈온] 이주의 무료영화)]]></title>
             <link>https://MOVIECORD.github.io/naver/all.xml</link>
             <guid>https://MOVIECORD.github.io/naver/all.xml</guid>
-            <pubDate>Tue, 15 Mar 2022 14:02:09 GMT</pubDate>
+            <pubDate>Tue, 15 Mar 2022 15:02:28 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[미녀는 괴로워 ([시리즈온] 이주의 무료영화)]]></title>
             <link>https://MOVIECORD.github.io/naver/all.xml</link>
             <guid>https://MOVIECORD.github.io/naver/all.xml</guid>
-            <pubDate>Tue, 15 Mar 2022 14:02:09 GMT</pubDate>
+            <pubDate>Tue, 15 Mar 2022 15:02:28 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
         </item>
         <item>
@@ -171,7 +171,7 @@
 											화장 ([시리즈온] 이주의 무료영화)]]></title>
             <link>https://MOVIECORD.github.io/naver/all.xml</link>
             <guid>https://MOVIECORD.github.io/naver/all.xml</guid>
-            <pubDate>Tue, 15 Mar 2022 14:02:09 GMT</pubDate>
+            <pubDate>Tue, 15 Mar 2022 15:02:28 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
         </item>
         <item>
@@ -892,27 +892,6 @@
             <guid>https://serieson.naver.com/events/20114?productType=movie</guid>
             <pubDate>Sun, 13 Mar 2022 16:04:51 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/events/20114?productType=movie" class="" onclick="nclk(this, 'mov.list', '20114', '');">📐혹시 나도 천재일지 몰라! 자극 받는 천재 영화 모아 '파이 데이'</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[🐉호소다 마모루의 메타버스! '용과 주근깨 공주' 시리즈온 상륙 ([시리즈온] 이벤트)]]></title>
-            <link>https://serieson.naver.com/events/20092?productType=movie</link>
-            <guid>https://serieson.naver.com/events/20092?productType=movie</guid>
-            <pubDate>Tue, 22 Feb 2022 16:06:11 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/20092?productType=movie" class="" onclick="nclk(this, 'mov.list', '20092', '');">🐉호소다 마모루의 메타버스! '용과 주근깨 공주' 시리즈온 상륙</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[🎤디즈니 블루투스 마이크와 함께! '웨스트 사이드 스토리' 프로모션 ([시리즈온] 이벤트)]]></title>
-            <link>https://serieson.naver.com/events/20097?productType=movie</link>
-            <guid>https://serieson.naver.com/events/20097?productType=movie</guid>
-            <pubDate>Tue, 01 Mar 2022 16:05:55 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/20097?productType=movie" class="" onclick="nclk(this, 'mov.list', '20097', '');">🎤디즈니 블루투스 마이크와 함께! '웨스트 사이드 스토리' 프로모션</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[🎁정우, 김갑수 주연의 진~한 느와르! '뜨거운 피' 예매권 이벤트 ([시리즈온] 이벤트)]]></title>
-            <link>https://serieson.naver.com/events/20113?productType=movie</link>
-            <guid>https://serieson.naver.com/events/20113?productType=movie</guid>
-            <pubDate>Tue, 08 Mar 2022 16:05:53 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/20113?productType=movie" class="" onclick="nclk(this, 'mov.list', '20113', '');">🎁정우, 김갑수 주연의 진~한 느와르! '뜨거운 피' 예매권 이벤트</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[🥂술과 인생이 만들어낸 유쾌한 술생찬가! '어나더 라운드' 경품 이벤트 ([시리즈온] 이벤트)]]></title>

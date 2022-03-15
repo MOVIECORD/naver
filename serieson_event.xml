@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-03-15T14:02:39.983Z</updated>
+    <updated>2022-03-15T15:03:03.640Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
     <entry>
@@ -39,27 +39,6 @@
         <link href="https://serieson.naver.com/events/20114?productType=movie"/>
         <updated>2022-03-13T16:04:51.799Z</updated>
         <content type="html"><![CDATA[<a href="/events/20114?productType=movie" class="" onclick="nclk(this, 'mov.list', '20114', '');">📐혹시 나도 천재일지 몰라! 자극 받는 천재 영화 모아 '파이 데이'</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🐉호소다 마모루의 메타버스! '용과 주근깨 공주' 시리즈온 상륙]]></title>
-        <id>https://serieson.naver.com/events/20092?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20092?productType=movie"/>
-        <updated>2022-02-22T16:06:11.001Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20092?productType=movie" class="" onclick="nclk(this, 'mov.list', '20092', '');">🐉호소다 마모루의 메타버스! '용과 주근깨 공주' 시리즈온 상륙</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🎤디즈니 블루투스 마이크와 함께! '웨스트 사이드 스토리' 프로모션]]></title>
-        <id>https://serieson.naver.com/events/20097?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20097?productType=movie"/>
-        <updated>2022-03-01T16:05:55.550Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20097?productType=movie" class="" onclick="nclk(this, 'mov.list', '20097', '');">🎤디즈니 블루투스 마이크와 함께! '웨스트 사이드 스토리' 프로모션</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🎁정우, 김갑수 주연의 진~한 느와르! '뜨거운 피' 예매권 이벤트]]></title>
-        <id>https://serieson.naver.com/events/20113?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20113?productType=movie"/>
-        <updated>2022-03-08T16:05:53.490Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20113?productType=movie" class="" onclick="nclk(this, 'mov.list', '20113', '');">🎁정우, 김갑수 주연의 진~한 느와르! '뜨거운 피' 예매권 이벤트</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🥂술과 인생이 만들어낸 유쾌한 술생찬가! '어나더 라운드' 경품 이벤트]]></title>
