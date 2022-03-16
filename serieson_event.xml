@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-03-16T14:02:38.257Z</updated>
+    <updated>2022-03-16T15:03:13.497Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
     <entry>
@@ -39,13 +39,6 @@
         <link href="https://serieson.naver.com/events/20114?productType=movie"/>
         <updated>2022-03-13T16:04:51.799Z</updated>
         <content type="html"><![CDATA[<a href="/events/20114?productType=movie" class="" onclick="nclk(this, 'mov.list', '20114', '');">📐혹시 나도 천재일지 몰라! 자극 받는 천재 영화 모아 '파이 데이'</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🥂술과 인생이 만들어낸 유쾌한 술생찬가! '어나더 라운드' 경품 이벤트]]></title>
-        <id>https://serieson.naver.com/events/20101?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20101?productType=movie"/>
-        <updated>2022-03-02T15:03:17.652Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20101?productType=movie" class="" onclick="nclk(this, 'mov.list', '20101', '');">🥂술과 인생이 만들어낸 유쾌한 술생찬가! '어나더 라운드' 경품 이벤트</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🌹저.. 예술 영화 좋아하세요?]]></title>

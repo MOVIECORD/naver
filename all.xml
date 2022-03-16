@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Mar 2022 14:02:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 15:03:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -151,14 +151,14 @@
 											키스 오브 뱀파이어 ([시리즈온] 이주의 무료영화)]]></title>
             <link>https://MOVIECORD.github.io/naver/all.xml</link>
             <guid>https://MOVIECORD.github.io/naver/all.xml</guid>
-            <pubDate>Wed, 16 Mar 2022 14:02:07 GMT</pubDate>
+            <pubDate>Wed, 16 Mar 2022 15:02:42 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[미녀는 괴로워 ([시리즈온] 이주의 무료영화)]]></title>
             <link>https://MOVIECORD.github.io/naver/all.xml</link>
             <guid>https://MOVIECORD.github.io/naver/all.xml</guid>
-            <pubDate>Wed, 16 Mar 2022 14:02:07 GMT</pubDate>
+            <pubDate>Wed, 16 Mar 2022 15:02:42 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
         </item>
         <item>
@@ -171,16 +171,8 @@
 											화장 ([시리즈온] 이주의 무료영화)]]></title>
             <link>https://MOVIECORD.github.io/naver/all.xml</link>
             <guid>https://MOVIECORD.github.io/naver/all.xml</guid>
-            <pubDate>Wed, 16 Mar 2022 14:02:07 GMT</pubDate>
+            <pubDate>Wed, 16 Mar 2022 15:02:42 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[리프레쉬 ([시리즈온] 할인 영화관)]]></title>
-            <link>https://serieson.naver.com/v2/movie/487159</link>
-            <guid>https://serieson.naver.com/v2/movie/487159</guid>
-            <pubDate>Wed, 02 Mar 2022 15:02:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span>7,000</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20220128_263/1643335505996o3Wfv_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[19
@@ -281,14 +273,6 @@
             <enclosure url="https://tvstore-phinf.pstatic.net/20211103_255/163590997225821GVt_JPEG/POSTER_--10.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[토베 얀손 ([시리즈온] 할인 영화관)]]></title>
-            <link>https://serieson.naver.com/v2/movie/464123</link>
-            <guid>https://serieson.naver.com/v2/movie/464123</guid>
-            <pubDate>Wed, 02 Mar 2022 15:02:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span>1,250</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20210823_223/1629695673976ctSz6_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[19
 			
 			
@@ -325,6 +309,30 @@
             <enclosure url="https://tvstore-phinf.pstatic.net/20210730_113/1627610452046VuQOy_JPEG/SpaceJam_NewLegacy_PVOD_STD_V_DD_KA_TT_2160x2880_300dpi_KR.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[19
+			
+			
+			
+			이스턴 프라미스 ([시리즈온] 할인 영화관)]]></title>
+            <link>https://serieson.naver.com/v2/movie/452428</link>
+            <guid>https://serieson.naver.com/v2/movie/452428</guid>
+            <pubDate>Wed, 16 Mar 2022 15:02:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span>840</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20151022_5/1445490279314TzhEF_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[19
+			
+			
+			
+			이스턴 프라미스 ([시리즈온] 할인 영화관)]]></title>
+            <link>https://serieson.naver.com/v2/movie/452427</link>
+            <guid>https://serieson.naver.com/v2/movie/452427</guid>
+            <pubDate>Wed, 16 Mar 2022 15:02:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span>3,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20151022_5/1445490279314TzhEF_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[콰이어트 플레이스 2(세트: 1~.. ([시리즈온] 할인 영화관)]]></title>
             <link>https://serieson.naver.com/v2/movie/449519</link>
             <guid>https://serieson.naver.com/v2/movie/449519</guid>
@@ -357,27 +365,27 @@
             <enclosure url="https://movie-phinf.pstatic.net/20210604_231/1622788969819Gr0ta_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[미스 ([시리즈온] 할인 영화관)]]></title>
-            <link>https://serieson.naver.com/v2/movie/440614</link>
-            <guid>https://serieson.naver.com/v2/movie/440614</guid>
-            <pubDate>Wed, 02 Mar 2022 15:02:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span>1,250</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20210427_144/1619487062509UBYeW_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+            <title><![CDATA[프라미싱 영 우먼 ([시리즈온] 할인 영화관)]]></title>
+            <link>https://serieson.naver.com/v2/movie/428038</link>
+            <guid>https://serieson.naver.com/v2/movie/428038</guid>
+            <pubDate>Wed, 16 Mar 2022 15:02:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span>3,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20210208_83/1612747165478tIX9H_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[그리고 우린 춤을 추었다 ([시리즈온] 할인 영화관)]]></title>
-            <link>https://serieson.naver.com/v2/movie/414478</link>
-            <guid>https://serieson.naver.com/v2/movie/414478</guid>
-            <pubDate>Wed, 02 Mar 2022 15:02:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span>1,250</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20201106_164/1604629218336jHBEf_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+            <title><![CDATA[프라미싱 영 우먼 ([시리즈온] 할인 영화관)]]></title>
+            <link>https://serieson.naver.com/v2/movie/428037</link>
+            <guid>https://serieson.naver.com/v2/movie/428037</guid>
+            <pubDate>Wed, 16 Mar 2022 15:02:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span>840</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20210208_83/1612747165478tIX9H_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[마리 퀴리 ([시리즈온] 할인 영화관)]]></title>
             <link>https://serieson.naver.com/v2/movie/410940</link>
             <guid>https://serieson.naver.com/v2/movie/410940</guid>
             <pubDate>Sun, 13 Mar 2022 15:03:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span>1,750</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
+            <content:encoded><![CDATA[<span>1,050</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20201027_218/16037662298627RmRb_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -561,6 +569,18 @@
             <enclosure url="https://movie-phinf.pstatic.net/20111221_87/1324463812384jrIP3_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[19
+			
+			
+			
+			이스턴 프라미스 ([시리즈온] 천원관)]]></title>
+            <link>https://serieson.naver.com/v2/movie/452428</link>
+            <guid>https://serieson.naver.com/v2/movie/452428</guid>
+            <pubDate>Wed, 16 Mar 2022 15:02:57 GMT</pubDate>
+            <content:encoded><![CDATA[대여]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20151022_5/1445490279314TzhEF_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[자막
 			
 			언어의 정원 ([시리즈온] 천원관)]]></title>
@@ -607,14 +627,6 @@
             <pubDate>Tue, 01 Mar 2022 15:08:29 GMT</pubDate>
             <content:encoded><![CDATA[대여]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20160215_163/1455527110149mO3mt_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[번지 점프를 하다 ([시리즈온] 천원관)]]></title>
-            <link>https://serieson.naver.com/v2/movie/439027</link>
-            <guid>https://serieson.naver.com/v2/movie/439027</guid>
-            <pubDate>Sun, 06 Mar 2022 15:02:19 GMT</pubDate>
-            <content:encoded><![CDATA[대여]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20111222_138/1324545567577v2JLW_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[더빙
@@ -892,13 +904,6 @@
             <guid>https://serieson.naver.com/events/20114?productType=movie</guid>
             <pubDate>Sun, 13 Mar 2022 16:04:51 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/events/20114?productType=movie" class="" onclick="nclk(this, 'mov.list', '20114', '');">📐혹시 나도 천재일지 몰라! 자극 받는 천재 영화 모아 '파이 데이'</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[🥂술과 인생이 만들어낸 유쾌한 술생찬가! '어나더 라운드' 경품 이벤트 ([시리즈온] 이벤트)]]></title>
-            <link>https://serieson.naver.com/events/20101?productType=movie</link>
-            <guid>https://serieson.naver.com/events/20101?productType=movie</guid>
-            <pubDate>Wed, 02 Mar 2022 15:03:17 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/20101?productType=movie" class="" onclick="nclk(this, 'mov.list', '20101', '');">🥂술과 인생이 만들어낸 유쾌한 술생찬가! '어나더 라운드' 경품 이벤트</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[🌹저.. 예술 영화 좋아하세요? ([시리즈온] 이벤트)]]></title>
