@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Mar 2022 11:02:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 12:09:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -20,6 +20,14 @@
             <pubDate>Thu, 17 Mar 2022 16:03:49 GMT</pubDate>
             <content:encoded><![CDATA[3월 31일까지]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20150715_205/14369257778716yf7s_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[부러진 화살 ([시리즈온] 이주의 무료영화)]]></title>
+            <link>https://serieson.naver.com/v2/movie/173857</link>
+            <guid>https://serieson.naver.com/v2/movie/173857</guid>
+            <pubDate>Thu, 17 Mar 2022 16:03:49 GMT</pubDate>
+            <content:encoded><![CDATA[3월 31일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20120117_128/1326792036128WSKQp_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[미녀는 괴로워 ([시리즈온] 이주의 무료영화)]]></title>
@@ -42,14 +50,6 @@
             <pubDate>Thu, 17 Mar 2022 16:03:49 GMT</pubDate>
             <content:encoded><![CDATA[3월 31일까지]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20150417_262/14292474706454sGwS_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[부러진 화살 ([시리즈온] 이주의 무료영화)]]></title>
-            <link>https://serieson.naver.com/v2/movie/173857</link>
-            <guid>https://serieson.naver.com/v2/movie/173857</guid>
-            <pubDate>Thu, 17 Mar 2022 16:03:49 GMT</pubDate>
-            <content:encoded><![CDATA[3월 31일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20120117_128/1326792036128WSKQp_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[휘트니 ([시리즈온] 이주의 무료영화)]]></title>
@@ -145,21 +145,21 @@
 											황제를 위하여 ([시리즈온] 이주의 무료영화)]]></title>
             <link>https://MOVIECORD.github.io/naver/all.xml</link>
             <guid>https://MOVIECORD.github.io/naver/all.xml</guid>
-            <pubDate>Fri, 18 Mar 2022 11:02:20 GMT</pubDate>
+            <pubDate>Fri, 18 Mar 2022 12:08:58 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[재심 ([시리즈온] 이주의 무료영화)]]></title>
             <link>https://MOVIECORD.github.io/naver/all.xml</link>
             <guid>https://MOVIECORD.github.io/naver/all.xml</guid>
-            <pubDate>Fri, 18 Mar 2022 11:02:20 GMT</pubDate>
+            <pubDate>Fri, 18 Mar 2022 12:08:58 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[윤희에게 ([시리즈온] 이주의 무료영화)]]></title>
             <link>https://MOVIECORD.github.io/naver/all.xml</link>
             <guid>https://MOVIECORD.github.io/naver/all.xml</guid>
-            <pubDate>Fri, 18 Mar 2022 11:02:20 GMT</pubDate>
+            <pubDate>Fri, 18 Mar 2022 12:08:58 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
         </item>
         <item>
