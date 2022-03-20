@@ -4,9 +4,19 @@
         <title>[시리즈온] 가치봄 영화관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Mar 2022 14:02:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2022 15:02:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[더빙
+			미래의 미라이(가치봄영화..]]></title>
+            <link>https://serieson.naver.com/v2/movie/491126</link>
+            <guid>https://serieson.naver.com/v2/movie/491126</guid>
+            <pubDate>Sun, 20 Mar 2022 15:02:40 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="">대여</em>
+					<strong class="payment"><span>1,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20181221_261/15453677473946ktg5_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[더빙
 			스트레스 제로(가치봄영화..]]></title>
@@ -239,15 +249,6 @@
             <content:encoded><![CDATA[<em class="">구매</em>
                     <strong class="payment"><span>9,900</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20210908_98/1631077678630Mtkxn_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[브라더(가치봄영화:시청각장애..]]></title>
-            <link>https://serieson.naver.com/v2/movie/486768</link>
-            <guid>https://serieson.naver.com/v2/movie/486768</guid>
-            <pubDate>Sat, 12 Feb 2022 15:02:17 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="">대여</em>
-					<strong class="payment"><span>2,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20210923_272/16323630541200iQPb_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
