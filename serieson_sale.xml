@@ -4,7 +4,7 @@
         <title>[시리즈온] 할인 영화관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Mar 2022 14:03:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 15:02:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -150,14 +150,6 @@
             <enclosure url="https://movie-phinf.pstatic.net/20210208_83/1612747165478tIX9H_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[내 사랑]]></title>
-            <link>https://serieson.naver.com/v2/movie/403669</link>
-            <guid>https://serieson.naver.com/v2/movie/403669</guid>
-            <pubDate>Sun, 20 Mar 2022 15:02:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span>700</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20111222_294/1324558013154i22kp_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[자막
 			
 			바람이 분다(패키지상품:..]]></title>
@@ -222,12 +214,12 @@
 			
 			
 			
-			펜트하우스 코끼리]]></title>
-            <link>https://serieson.naver.com/v2/movie/397618</link>
-            <guid>https://serieson.naver.com/v2/movie/397618</guid>
-            <pubDate>Sun, 20 Mar 2022 15:02:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span>700</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20111223_35/1324594330640SukIJ_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+			드라이브]]></title>
+            <link>https://serieson.naver.com/v2/movie/13505</link>
+            <guid>https://serieson.naver.com/v2/movie/13505</guid>
+            <pubDate>Mon, 21 Mar 2022 15:02:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span>750</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20200909_204/1599617656986wzIGp_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[더빙
@@ -247,6 +239,16 @@
             <pubDate>Sun, 20 Mar 2022 15:02:22 GMT</pubDate>
             <content:encoded><![CDATA[<span>11,440</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20111222_63/1324483671210VVU36_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자막
+			
+			이웃집 야마다군(패키지상..]]></title>
+            <link>https://serieson.naver.com/v2/movie/394843</link>
+            <guid>https://serieson.naver.com/v2/movie/394843</guid>
+            <pubDate>Mon, 21 Mar 2022 15:02:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span>11,440</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20111221_276/1324451631976netM8_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

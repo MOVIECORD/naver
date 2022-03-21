@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Mar 2022 14:03:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 15:02:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -145,21 +145,21 @@
 											황제를 위하여 ([시리즈온] 이주의 무료영화)]]></title>
             <link>https://MOVIECORD.github.io/naver/all.xml</link>
             <guid>https://MOVIECORD.github.io/naver/all.xml</guid>
-            <pubDate>Mon, 21 Mar 2022 14:02:26 GMT</pubDate>
+            <pubDate>Mon, 21 Mar 2022 15:02:25 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[재심 ([시리즈온] 이주의 무료영화)]]></title>
             <link>https://MOVIECORD.github.io/naver/all.xml</link>
             <guid>https://MOVIECORD.github.io/naver/all.xml</guid>
-            <pubDate>Mon, 21 Mar 2022 14:02:26 GMT</pubDate>
+            <pubDate>Mon, 21 Mar 2022 15:02:25 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[윤희에게 ([시리즈온] 이주의 무료영화)]]></title>
             <link>https://MOVIECORD.github.io/naver/all.xml</link>
             <guid>https://MOVIECORD.github.io/naver/all.xml</guid>
-            <pubDate>Mon, 21 Mar 2022 14:02:26 GMT</pubDate>
+            <pubDate>Mon, 21 Mar 2022 15:02:25 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
         </item>
         <item>
@@ -305,14 +305,6 @@
             <enclosure url="https://movie-phinf.pstatic.net/20210208_83/1612747165478tIX9H_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[내 사랑 ([시리즈온] 할인 영화관)]]></title>
-            <link>https://serieson.naver.com/v2/movie/403669</link>
-            <guid>https://serieson.naver.com/v2/movie/403669</guid>
-            <pubDate>Sun, 20 Mar 2022 15:02:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span>700</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20111222_294/1324558013154i22kp_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[자막
 			
 			바람이 분다(패키지상품:.. ([시리즈온] 할인 영화관)]]></title>
@@ -377,12 +369,12 @@
 			
 			
 			
-			펜트하우스 코끼리 ([시리즈온] 할인 영화관)]]></title>
-            <link>https://serieson.naver.com/v2/movie/397618</link>
-            <guid>https://serieson.naver.com/v2/movie/397618</guid>
-            <pubDate>Sun, 20 Mar 2022 15:02:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span>700</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20111223_35/1324594330640SukIJ_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+			드라이브 ([시리즈온] 할인 영화관)]]></title>
+            <link>https://serieson.naver.com/v2/movie/13505</link>
+            <guid>https://serieson.naver.com/v2/movie/13505</guid>
+            <pubDate>Mon, 21 Mar 2022 15:02:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span>750</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20200909_204/1599617656986wzIGp_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[더빙
@@ -402,6 +394,16 @@
             <pubDate>Sun, 20 Mar 2022 15:02:22 GMT</pubDate>
             <content:encoded><![CDATA[<span>11,440</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20111222_63/1324483671210VVU36_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자막
+			
+			이웃집 야마다군(패키지상.. ([시리즈온] 할인 영화관)]]></title>
+            <link>https://serieson.naver.com/v2/movie/394843</link>
+            <guid>https://serieson.naver.com/v2/movie/394843</guid>
+            <pubDate>Mon, 21 Mar 2022 15:02:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span>11,440</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20111221_276/1324451631976netM8_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[범죄의 여왕(가치봄영화:시청각.. ([시리즈온] 천원관)]]></title>
@@ -897,13 +899,6 @@
             <guid>https://serieson.naver.com/events/20112?productType=movie</guid>
             <pubDate>Thu, 10 Mar 2022 15:04:20 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/events/20112?productType=movie" class="" onclick="nclk(this, 'mov.list', '20112', '');">🐖돼지를 잃어버린 남자, 마음을 잃어버린 사람들을 만나다 '피그'</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[💖21세기 최고의 문제작으로 빚은 파격 멜로! '인민을 위해 복무하라' 경품 이벤트 ([시리즈온] 이벤트)]]></title>
-            <link>https://serieson.naver.com/events/20103?productType=movie</link>
-            <guid>https://serieson.naver.com/events/20103?productType=movie</guid>
-            <pubDate>Mon, 07 Mar 2022 15:02:46 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/20103?productType=movie" class="" onclick="nclk(this, 'mov.list', '20103', '');">💖21세기 최고의 문제작으로 빚은 파격 멜로! '인민을 위해 복무하라' 경품 이벤트</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[🌹저.. 예술 영화 좋아하세요? ([시리즈온] 이벤트)]]></title>
