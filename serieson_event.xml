@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-03-23T14:03:00.110Z</updated>
+    <updated>2022-03-23T15:03:11.728Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
     <entry>
@@ -32,13 +32,6 @@
         <link href="https://serieson.naver.com/events/20116?productType=movie"/>
         <updated>2022-03-21T16:05:48.605Z</updated>
         <content type="html"><![CDATA[<a href="/events/20116?productType=movie" class="" onclick="nclk(this, 'mov.list', '20116', '');">💥리암 니슨의 끝장 액션 ‘블랙 라이트’ 보고 아이스크림 케이크 받자! </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🌹저.. 예술 영화 좋아하세요?]]></title>
-        <id>https://serieson.naver.com/events/20108?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20108?productType=movie"/>
-        <updated>2022-03-04T09:03:11.483Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20108?productType=movie" class="" onclick="nclk(this, 'mov.list', '20108', '');">🌹저.. 예술 영화 좋아하세요?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[✅최신 영화 최고 혜택으로 보는 꿀팁! 네이버 플러스 멤버십]]></title>
