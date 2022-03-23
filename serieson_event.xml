@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-03-23T15:03:11.728Z</updated>
+    <updated>2022-03-23T16:04:08.870Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://serieson.naver.com/events/20120?productType=movie"/>
         <updated>2022-03-17T16:04:20.356Z</updated>
         <content type="html"><![CDATA[<a href="/events/20120?productType=movie" class="" onclick="nclk(this, 'mov.list', '20120', '');">🕷스파이더맨 노 웨이 홈 소장하고 블루레이 DVD 받자!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🏆94회 아카데미 시상식 특집! 역대 수상작 할인 & 50% 쿠폰 BACK 이벤트]]></title>
+        <id>https://serieson.naver.com/events/20128?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20128?productType=movie"/>
+        <updated>2022-03-23T16:04:08.230Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20128?productType=movie" class="" onclick="nclk(this, 'mov.list', '20128', '');">🏆94회 아카데미 시상식 특집! 역대 수상작 할인 &amp; 50% 쿠폰 BACK 이벤트</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🦋쉿,그들이 너를 선택했다! '안테벨룸']]></title>
