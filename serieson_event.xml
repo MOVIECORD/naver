@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-03-27T15:02:52.517Z</updated>
+    <updated>2022-03-27T16:05:22.161Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://serieson.naver.com/events/20120?productType=movie"/>
         <updated>2022-03-17T16:04:20.356Z</updated>
         <content type="html"><![CDATA[<a href="/events/20120?productType=movie" class="" onclick="nclk(this, 'mov.list', '20120', '');">🕷스파이더맨 노 웨이 홈 소장하고 블루레이 DVD 받자!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[😘조금 더 색다르게 '스파이더맨: 노 웨이 홈' 즐기려면? 더빙판의 즐거움을!]]></title>
+        <id>https://serieson.naver.com/events/20136?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20136?productType=movie"/>
+        <updated>2022-03-27T16:05:21.507Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20136?productType=movie" class="" onclick="nclk(this, 'mov.list', '20136', '');">😘조금 더 색다르게 '스파이더맨: 노 웨이 홈' 즐기려면? 더빙판의 즐거움을!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🏆94회 아카데미 시상식 특집! 역대 수상작 할인 & 50% 쿠폰 BACK 이벤트]]></title>
@@ -25,6 +32,13 @@
         <link href="https://serieson.naver.com/events/20130?productType=movie"/>
         <updated>2022-03-24T16:04:38.781Z</updated>
         <content type="html"><![CDATA[<a href="/events/20130?productType=movie" class="" onclick="nclk(this, 'mov.list', '20130', '');">☕따뜻한 독립예술영화 한잔! &lt;소피의 세계&gt; 경품/할인 이벤트</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[💌가가연의 뮤직 로코 ‘유어 러브 송’ 보고 친필 사인 포스터 받아가세요~]]></title>
+        <id>https://serieson.naver.com/events/20131?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20131?productType=movie"/>
+        <updated>2022-03-27T16:05:21.509Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20131?productType=movie" class="" onclick="nclk(this, 'mov.list', '20131', '');">💌가가연의 뮤직 로코 ‘유어 러브 송’ 보고 친필 사인 포스터 받아가세요~</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[💥리암 니슨의 끝장 액션 ‘블랙 라이트’ 보고 아이스크림 케이크 받자!]]></title>
