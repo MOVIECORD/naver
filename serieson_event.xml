@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-03-28T17:10:05.297Z</updated>
+    <updated>2022-03-28T18:08:00.337Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
     <entry>
@@ -44,7 +44,7 @@
         <title type="html"><![CDATA[🚪LEGEND & NEW 액션 마스터의 만남 ​’도어맨’ 보고 디저트 세트 받아가세요!]]></title>
         <id>https://serieson.naver.com/events/20134?productType=movie</id>
         <link href="https://serieson.naver.com/events/20134?productType=movie"/>
-        <updated>2022-03-28T17:10:04.616Z</updated>
+        <updated>2022-03-28T16:05:09.146Z</updated>
         <content type="html"><![CDATA[<a href="/events/20134?productType=movie" class="" onclick="nclk(this, 'mov.list', '20134', '');">🚪LEGEND &amp; NEW 액션 마스터의 만남 ​’도어맨’ 보고 디저트 세트 받아가세요!</a>]]></content>
     </entry>
     <entry>
