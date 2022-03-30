@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-03-30T14:04:16.609Z</updated>
+    <updated>2022-03-30T15:03:18.426Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
     <entry>
@@ -18,13 +18,6 @@
         <link href="https://serieson.naver.com/events/20133?productType=movie"/>
         <updated>2022-03-29T16:05:09.178Z</updated>
         <content type="html"><![CDATA[<a href="/events/20133?productType=movie" class="" onclick="nclk(this, 'mov.list', '20133', '');">😎포와로 탐정과 함께 이집트 초호화 크루즈 여행을! '나일 강의 죽음'</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🏆94회 아카데미 시상식 특집! 역대 수상작 할인 & 50% 쿠폰 BACK 이벤트]]></title>
-        <id>https://serieson.naver.com/events/20128?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20128?productType=movie"/>
-        <updated>2022-03-23T16:04:08.230Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20128?productType=movie" class="" onclick="nclk(this, 'mov.list', '20128', '');">🏆94회 아카데미 시상식 특집! 역대 수상작 할인 &amp; 50% 쿠폰 BACK 이벤트</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[😘조금 더 색다르게 '스파이더맨: 노 웨이 홈' 즐기려면? 더빙판의 즐거움을!]]></title>
