@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-30T08:08:39.697Z</updated>
+    <updated>2022-03-30T09:03:35.205Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[🕷스파이더맨 노 웨이 홈 소장하고 블루레이 DVD 받자! ([시리즈온] 이벤트)]]></title>
+        <title type="html"><![CDATA[🕷스파이더맨 노 웨이 홈 소장하고 블루레이 받자! ([시리즈온] 이벤트)]]></title>
         <id>https://serieson.naver.com/events/20120?productType=movie</id>
         <link href="https://serieson.naver.com/events/20120?productType=movie"/>
         <updated>2022-03-17T16:04:20.356Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20120?productType=movie" class="" onclick="nclk(this, 'mov.list', '20120', '');">🕷스파이더맨 노 웨이 홈 소장하고 블루레이 DVD 받자!</a>]]></content>
+        <content type="html"><![CDATA[<a href="/events/20120?productType=movie" class="" onclick="nclk(this, 'mov.list', '20120', '');">🕷스파이더맨 노 웨이 홈 소장하고 블루레이 받자!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[😎포와로 탐정과 함께 이집트 초호화 크루즈 여행을! '나일 강의 죽음' ([시리즈온] 이벤트)]]></title>
