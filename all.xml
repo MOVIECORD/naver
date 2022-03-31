@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-31T15:03:57.725Z</updated>
+    <updated>2022-03-31T16:05:03.944Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[🤿시리즈온 단독소장! 오픈특가! <바다 탐험대 옥토넛:해저동굴 대탈출> 할인 이벤트! ([시리즈온] 이벤트)]]></title>
+        <id>https://serieson.naver.com/events/20142?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20142?productType=movie"/>
+        <updated>2022-03-31T16:05:03.356Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20142?productType=movie" class="" onclick="nclk(this, 'mov.list', '20142', '');">🤿시리즈온 단독소장! 오픈특가! &lt;바다 탐험대 옥토넛:해저동굴 대탈출&gt; 할인 이벤트!</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🎁만우절 기념 쿠폰 이벤트! 선착순 3천명 1천 캐시 쿠폰 무조건 선물! ([시리즈온] 이벤트)]]></title>
         <id>https://serieson.naver.com/events/20144?productType=movie</id>
@@ -12,11 +19,11 @@
         <content type="html"><![CDATA[<a href="/events/20144?productType=movie" class="" onclick="nclk(this, 'mov.list', '20144', '');">🎁만우절 기념 쿠폰 이벤트! 선착순 3천명 1천 캐시 쿠폰 무조건 선물! </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[😎올해 남은 MCU 놓치지 않으려면! 꼭 지금 '스파이더맨: 노 웨이 홈' 보세요! ([시리즈온] 이벤트)]]></title>
+        <title type="html"><![CDATA[💪올해 남은 MCU 놓치지 않으려면! 꼭 지금 '스파이더맨: 노 웨이 홈' 보세요! ([시리즈온] 이벤트)]]></title>
         <id>https://serieson.naver.com/events/20141?productType=movie</id>
         <link href="https://serieson.naver.com/events/20141?productType=movie"/>
         <updated>2022-03-31T15:03:57.099Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20141?productType=movie" class="" onclick="nclk(this, 'mov.list', '20141', '');">😎올해 남은 MCU 놓치지 않으려면! 꼭 지금 '스파이더맨: 노 웨이 홈' 보세요!</a>]]></content>
+        <content type="html"><![CDATA[<a href="/events/20141?productType=movie" class="" onclick="nclk(this, 'mov.list', '20141', '');">💪올해 남은 MCU 놓치지 않으려면! 꼭 지금 '스파이더맨: 노 웨이 홈' 보세요!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[😎포와로 탐정과 함께 이집트 초호화 크루즈 여행을! '나일 강의 죽음' ([시리즈온] 이벤트)]]></title>
@@ -24,6 +31,13 @@
         <link href="https://serieson.naver.com/events/20133?productType=movie"/>
         <updated>2022-03-29T16:05:09.178Z</updated>
         <content type="html"><![CDATA[<a href="/events/20133?productType=movie" class="" onclick="nclk(this, 'mov.list', '20133', '');">😎포와로 탐정과 함께 이집트 초호화 크루즈 여행을! '나일 강의 죽음'</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🚪LEGEND & NEW 액션 마스터의 만남 ​’도어맨’ 보고 디저트 세트 받아가세요! ([시리즈온] 이벤트)]]></title>
+        <id>https://serieson.naver.com/events/20134?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20134?productType=movie"/>
+        <updated>2022-03-28T16:05:09.146Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20134?productType=movie" class="" onclick="nclk(this, 'mov.list', '20134', '');">🚪LEGEND &amp; NEW 액션 마스터의 만남 ​’도어맨’ 보고 디저트 세트 받아가세요!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[😘조금 더 색다르게 '스파이더맨: 노 웨이 홈' 즐기려면? 더빙판의 즐거움을! ([시리즈온] 이벤트)]]></title>
@@ -47,13 +61,6 @@
         <content type="html"><![CDATA[<a href="/events/20131?productType=movie" class="" onclick="nclk(this, 'mov.list', '20131', '');">💌가가연의 뮤직 로코 ‘유어 러브 송’ 보고 친필 사인 포스터 받아가세요~</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[🚪LEGEND & NEW 액션 마스터의 만남 ​’도어맨’ 보고 디저트 세트 받아가세요! ([시리즈온] 이벤트)]]></title>
-        <id>https://serieson.naver.com/events/20134?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20134?productType=movie"/>
-        <updated>2022-03-28T16:05:09.146Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20134?productType=movie" class="" onclick="nclk(this, 'mov.list', '20134', '');">🚪LEGEND &amp; NEW 액션 마스터의 만남 ​’도어맨’ 보고 디저트 세트 받아가세요!</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[💥리암 니슨의 끝장 액션 ‘블랙 라이트’ 보고 아이스크림 케이크 받자! ([시리즈온] 이벤트)]]></title>
         <id>https://serieson.naver.com/events/20116?productType=movie</id>
         <link href="https://serieson.naver.com/events/20116?productType=movie"/>
@@ -73,5 +80,12 @@
         <link href="https://serieson.naver.com/events/20135?productType=movie"/>
         <updated>2022-03-25T03:12:09.388Z</updated>
         <content type="html"><![CDATA[<a href="/events/20135?productType=movie" class="" onclick="nclk(this, 'mov.list', '20135', '');">📌캐시가 애매할 때? 착한 가격 착한 영화 라인업 체크!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[22년 4월 우수 이용자! 꼭 확인해보자! ([시리즈온] 이벤트)]]></title>
+        <id>https://serieson.naver.com/events/20140?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20140?productType=movie"/>
+        <updated>2022-03-31T16:05:03.367Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20140?productType=movie" class="" onclick="nclk(this, 'mov.list', '20140', '');">22년 4월 우수 이용자! 꼭 확인해보자!</a>]]></content>
     </entry>
 </feed>
