@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-31T00:24:37.689Z</updated>
+    <updated>2022-03-31T02:20:38.845Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[🕷스파이더맨 노 웨이 홈 소장하고 블루레이 받자! ([시리즈온] 이벤트)]]></title>
@@ -52,6 +52,13 @@
         <link href="https://serieson.naver.com/events/20116?productType=movie"/>
         <updated>2022-03-21T16:05:48.605Z</updated>
         <content type="html"><![CDATA[<a href="/events/20116?productType=movie" class="" onclick="nclk(this, 'mov.list', '20116', '');">💥리암 니슨의 끝장 액션 ‘블랙 라이트’ 보고 아이스크림 케이크 받자! </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[📅벌써 4월? 이제라도 갓생 시작! 동기부여 영화 모음.zip ([시리즈온] 이벤트)]]></title>
+        <id>https://serieson.naver.com/events/20139?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20139?productType=movie"/>
+        <updated>2022-03-31T02:20:38.110Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20139?productType=movie" class="" onclick="nclk(this, 'mov.list', '20139', '');">📅벌써 4월? 이제라도 갓생 시작! 동기부여 영화 모음.zip</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[📌캐시가 애매할 때? 착한 가격 착한 영화 라인업 체크! ([시리즈온] 이벤트)]]></title>
