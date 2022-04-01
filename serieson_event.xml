@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-04-01T15:03:30.773Z</updated>
+    <updated>2022-04-01T16:04:46.851Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[⏰누구보다 빠르게! 오직 시리즈온에서만! <만년이 지나도 변하지 않는게 있어> 대여 선공개 할인 이벤트!]]></title>
+        <id>https://serieson.naver.com/events/20145?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20145?productType=movie"/>
+        <updated>2022-04-01T16:04:46.225Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20145?productType=movie" class="" onclick="nclk(this, 'mov.list', '20145', '');">⏰누구보다 빠르게! 오직 시리즈온에서만! &lt;만년이 지나도 변하지 않는게 있어&gt; 대여 선공개 할인 이벤트!</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🎉무제한 영화 감상하고 5천원 쿠폰 받아가자!]]></title>
         <id>https://serieson.naver.com/events/20146?productType=movie</id>
