@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-04-01T04:10:58.045Z</updated>
+    <updated>2022-04-01T05:03:05.514Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[🤿시리즈온 단독소장! 오픈특가! <바다 탐험대 옥토넛:해저동굴 대탈출> 할인 이벤트!]]></title>
-        <id>https://serieson.naver.com/events/20142?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20142?productType=movie"/>
-        <updated>2022-03-31T16:05:03.356Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20142?productType=movie" class="" onclick="nclk(this, 'mov.list', '20142', '');">🤿시리즈온 단독소장! 오픈특가! &lt;바다 탐험대 옥토넛:해저동굴 대탈출&gt; 할인 이벤트!</a>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[🎁만우절 기념 쿠폰 이벤트! 선착순 3천명 1천 캐시 쿠폰 무조건 선물!]]></title>
         <id>https://serieson.naver.com/events/20144?productType=movie</id>
@@ -32,6 +25,13 @@
         <link href="https://serieson.naver.com/events/20133?productType=movie"/>
         <updated>2022-03-29T16:05:09.178Z</updated>
         <content type="html"><![CDATA[<a href="/events/20133?productType=movie" class="" onclick="nclk(this, 'mov.list', '20133', '');">😎포와로 탐정과 함께 이집트 초호화 크루즈 여행을! '나일 강의 죽음'</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🤿시리즈온 단독소장! 오픈특가! <바다 탐험대 옥토넛:해저동굴 대탈출> 할인 이벤트!]]></title>
+        <id>https://serieson.naver.com/events/20142?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20142?productType=movie"/>
+        <updated>2022-03-31T16:05:03.356Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20142?productType=movie" class="" onclick="nclk(this, 'mov.list', '20142', '');">🤿시리즈온 단독소장! 오픈특가! &lt;바다 탐험대 옥토넛:해저동굴 대탈출&gt; 할인 이벤트!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[😘조금 더 색다르게 '스파이더맨: 노 웨이 홈' 즐기려면? 더빙판의 즐거움을!]]></title>
