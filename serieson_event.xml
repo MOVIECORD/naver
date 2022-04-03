@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-04-03T14:02:41.313Z</updated>
+    <updated>2022-04-03T15:03:11.328Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
     <entry>
@@ -18,13 +18,6 @@
         <link href="https://serieson.naver.com/events/20146?productType=movie"/>
         <updated>2022-04-01T10:07:07.597Z</updated>
         <content type="html"><![CDATA[<a href="/events/20146?productType=movie" class="" onclick="nclk(this, 'mov.list', '20146', '');">🎉무제한 영화 감상하고 5천원 쿠폰 받아가자!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🎁만우절 기념 쿠폰 이벤트! 선착순 3천명 1천 캐시 쿠폰 무조건 선물!]]></title>
-        <id>https://serieson.naver.com/events/20144?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20144?productType=movie"/>
-        <updated>2022-03-31T15:03:57.097Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20144?productType=movie" class="" onclick="nclk(this, 'mov.list', '20144', '');">🎁만우절 기념 쿠폰 이벤트! 선착순 3천명 1천 캐시 쿠폰 무조건 선물! </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[💪올해 남은 MCU 놓치지 않으려면! 꼭 지금 '스파이더맨: 노 웨이 홈' 보세요!]]></title>
@@ -46,13 +39,6 @@
         <link href="https://serieson.naver.com/events/20142?productType=movie"/>
         <updated>2022-03-31T16:05:03.356Z</updated>
         <content type="html"><![CDATA[<a href="/events/20142?productType=movie" class="" onclick="nclk(this, 'mov.list', '20142', '');">🤿시리즈온 단독소장! 오픈특가! &lt;바다 탐험대 옥토넛:해저동굴 대탈출&gt; 할인 이벤트!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[😘조금 더 색다르게 '스파이더맨: 노 웨이 홈' 즐기려면? 더빙판의 즐거움을!]]></title>
-        <id>https://serieson.naver.com/events/20136?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20136?productType=movie"/>
-        <updated>2022-03-27T16:05:21.507Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20136?productType=movie" class="" onclick="nclk(this, 'mov.list', '20136', '');">😘조금 더 색다르게 '스파이더맨: 노 웨이 홈' 즐기려면? 더빙판의 즐거움을!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[📅벌써 4월? 이제라도 갓생 시작! 동기부여 영화 모음.zip]]></title>
