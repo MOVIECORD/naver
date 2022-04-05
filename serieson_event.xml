@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-04-04T23:03:21.288Z</updated>
+    <updated>2022-04-05T00:25:14.782Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
     <entry>
@@ -27,18 +27,18 @@
         <content type="html"><![CDATA[<a href="/events/20145?productType=movie" class="" onclick="nclk(this, 'mov.list', '20145', '');">⏰누구보다 빠르게! 오직 시리즈온에서만! &lt;만년이 지나도 변하지 않는게 있어&gt; 대여 선공개 할인 이벤트!</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[🎉무제한 영화 감상하고 5천원 쿠폰 받아가자!]]></title>
-        <id>https://serieson.naver.com/events/20146?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20146?productType=movie"/>
-        <updated>2022-04-01T10:07:07.597Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20146?productType=movie" class="" onclick="nclk(this, 'mov.list', '20146', '');">🎉무제한 영화 감상하고 5천원 쿠폰 받아가자!</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[📅벌써 4월? 이제라도 갓생 시작! 동기부여 영화 모음.zip]]></title>
         <id>https://serieson.naver.com/events/20139?productType=movie</id>
         <link href="https://serieson.naver.com/events/20139?productType=movie"/>
         <updated>2022-03-31T02:20:38.110Z</updated>
         <content type="html"><![CDATA[<a href="/events/20139?productType=movie" class="" onclick="nclk(this, 'mov.list', '20139', '');">📅벌써 4월? 이제라도 갓생 시작! 동기부여 영화 모음.zip</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🎉무제한 영화 감상하고 5천원 쿠폰 받아가자!]]></title>
+        <id>https://serieson.naver.com/events/20146?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20146?productType=movie"/>
+        <updated>2022-04-01T10:07:07.597Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20146?productType=movie" class="" onclick="nclk(this, 'mov.list', '20146', '');">🎉무제한 영화 감상하고 5천원 쿠폰 받아가자!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🤿시리즈온 단독소장! 오픈특가! <바다 탐험대 옥토넛:해저동굴 대탈출> 할인 이벤트!]]></title>
