@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-05T14:02:34.759Z</updated>
+    <updated>2022-04-05T15:03:35.753Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[😎포와로 탐정과 함께 이집트 초호화 크루즈 여행을! '나일 강의 죽음' ([시리즈온] 이벤트)]]></title>
@@ -31,6 +31,13 @@
         <link href="https://serieson.naver.com/events/20139?productType=movie"/>
         <updated>2022-03-31T02:20:38.110Z</updated>
         <content type="html"><![CDATA[<a href="/events/20139?productType=movie" class="" onclick="nclk(this, 'mov.list', '20139', '');">📅벌써 4월? 이제라도 갓생 시작! 동기부여 영화 모음.zip</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[💕사랑에 빠지고 싶어지는 워너비 로맨스 ‘리디밍 러브’ 보고 피자 받아가세요! ([시리즈온] 이벤트)]]></title>
+        <id>https://serieson.naver.com/events/20147?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20147?productType=movie"/>
+        <updated>2022-04-05T15:03:35.128Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20147?productType=movie" class="" onclick="nclk(this, 'mov.list', '20147', '');">💕사랑에 빠지고 싶어지는 워너비 로맨스 ‘리디밍 러브’ 보고 피자 받아가세요!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🎉무제한 영화 감상하고 5천원 쿠폰 받아가자! ([시리즈온] 이벤트)]]></title>
