@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-04-06T03:21:24.613Z</updated>
+    <updated>2022-04-06T04:04:51.330Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[🌜지구는 영화에서 구하고, 지갑은 시리즈온에서 구하자! <문폴> 할인 이벤트]]></title>
+        <id>https://serieson.naver.com/events/20149?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20149?productType=movie"/>
+        <updated>2022-04-06T04:04:50.706Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20149?productType=movie" class="" onclick="nclk(this, 'mov.list', '20149', '');">🌜지구는 영화에서 구하고, 지갑은 시리즈온에서 구하자! &lt;문폴&gt; 할인 이벤트</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[😎포와로 탐정과 함께 이집트 초호화 크루즈 여행을! '나일 강의 죽음']]></title>
         <id>https://serieson.naver.com/events/20133?productType=movie</id>
