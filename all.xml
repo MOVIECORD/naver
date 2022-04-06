@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-06T14:02:55.523Z</updated>
+    <updated>2022-04-06T15:03:02.895Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[📸유력 대선후보의 충격적인 B컷 유출? 김동완의 ​’B컷’ 보고 선물 받아가세요! ([시리즈온] 이벤트)]]></title>
+        <id>https://serieson.naver.com/events/20148?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20148?productType=movie"/>
+        <updated>2022-04-06T15:03:02.202Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20148?productType=movie" class="" onclick="nclk(this, 'mov.list', '20148', '');">📸유력 대선후보의 충격적인 B컷 유출? 김동완의 ​’B컷’ 보고 선물 받아가세요!</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🌜지구는 영화에서 구하고, 지갑은 시리즈온에서 구하자! <문폴> 할인 이벤트 ([시리즈온] 이벤트)]]></title>
         <id>https://serieson.naver.com/events/20149?productType=movie</id>
@@ -66,13 +73,6 @@
         <link href="https://serieson.naver.com/events/20130?productType=movie"/>
         <updated>2022-03-24T16:04:38.781Z</updated>
         <content type="html"><![CDATA[<a href="/events/20130?productType=movie" class="" onclick="nclk(this, 'mov.list', '20130', '');">☕따뜻한 독립예술영화 한잔! &lt;소피의 세계&gt; 경품/할인 이벤트</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[📅벌써 4월? 이제라도 갓생 시작! 동기부여 영화 모음.zip ([시리즈온] 이벤트)]]></title>
-        <id>https://serieson.naver.com/events/20139?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20139?productType=movie"/>
-        <updated>2022-03-31T02:20:38.110Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20139?productType=movie" class="" onclick="nclk(this, 'mov.list', '20139', '');">📅벌써 4월? 이제라도 갓생 시작! 동기부여 영화 모음.zip</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[💌가가연의 뮤직 로코 ‘유어 러브 송’ 보고 친필 사인 포스터 받아가세요~ ([시리즈온] 이벤트)]]></title>
