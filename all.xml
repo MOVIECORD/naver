@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-08T09:03:43.020Z</updated>
+    <updated>2022-04-08T10:05:40.793Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[👨‍🏫 할인혜택과 함께! OTT단독 예약구매! <이상한 나라의 수학자> ([시리즈온] 이벤트)]]></title>
@@ -80,13 +80,6 @@
         <link href="https://serieson.naver.com/events/20142?productType=movie"/>
         <updated>2022-03-31T16:05:03.356Z</updated>
         <content type="html"><![CDATA[<a href="/events/20142?productType=movie" class="" onclick="nclk(this, 'mov.list', '20142', '');">🤿시리즈온 단독소장! 오픈특가! &lt;바다 탐험대 옥토넛:해저동굴 대탈출&gt; 할인 이벤트!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🎉무제한 영화 감상하고 5천원 쿠폰 받아가자! ([시리즈온] 이벤트)]]></title>
-        <id>https://serieson.naver.com/events/20146?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20146?productType=movie"/>
-        <updated>2022-04-01T10:07:07.597Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20146?productType=movie" class="" onclick="nclk(this, 'mov.list', '20146', '');">🎉무제한 영화 감상하고 5천원 쿠폰 받아가자!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[📌캐시가 애매할 때? 착한 가격 착한 영화 라인업 체크! ([시리즈온] 이벤트)]]></title>
