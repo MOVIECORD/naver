@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-04-12T15:02:59.397Z</updated>
+    <updated>2022-04-12T16:03:56.583Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[👨‍🏫 수포자도 쫄지마요! 문송해도 괜찮아요! 이상한 나라의 수학자]]></title>
+        <id>https://serieson.naver.com/events/20155?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20155?productType=movie"/>
+        <updated>2022-04-12T16:03:55.908Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20155?productType=movie" class="" onclick="nclk(this, 'mov.list', '20155', '');">👨‍🏫 수포자도 쫄지마요! 문송해도 괜찮아요! 이상한 나라의 수학자</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🕵️어둠을 뚫고 온 고독한 히어로 '더 배트맨' 예약 구매 중]]></title>
         <id>https://serieson.naver.com/events/20151?productType=movie</id>
