@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-14T14:03:01.495Z</updated>
+    <updated>2022-04-14T15:03:02.723Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[👨‍🏫 수포자도 쫄지마요! 문송해도 괜찮아요! 이상한 나라의 수학자 ([시리즈온] 이벤트)]]></title>
@@ -47,39 +47,11 @@
         <content type="html"><![CDATA[<a href="/events/20148?productType=movie" class="" onclick="nclk(this, 'mov.list', '20148', '');">📸유력 대선후보의 충격적인 B컷 유출? 김동완의 ​’B컷’ 보고 선물 받아가세요!</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[💪올해 남은 MCU 놓치지 않으려면! 꼭 지금 '스파이더맨: 노 웨이 홈' 보세요! ([시리즈온] 이벤트)]]></title>
-        <id>https://serieson.naver.com/events/20141?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20141?productType=movie"/>
-        <updated>2022-03-31T15:03:57.099Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20141?productType=movie" class="" onclick="nclk(this, 'mov.list', '20141', '');">💪올해 남은 MCU 놓치지 않으려면! 꼭 지금 '스파이더맨: 노 웨이 홈' 보세요!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[😍대만풍 로맨스 레전드들의 만남, <만년이 지나도 변하지 않는게 있어> 경품/할인 이벤트 ([시리즈온] 이벤트)]]></title>
-        <id>https://serieson.naver.com/events/20110?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20110?productType=movie"/>
-        <updated>2022-04-07T16:05:35.641Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20110?productType=movie" class="" onclick="nclk(this, 'mov.list', '20110', '');">😍대만풍 로맨스 레전드들의 만남, &lt;만년이 지나도 변하지 않는게 있어&gt; 경품/할인 이벤트</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[💕사랑에 빠지고 싶어지는 워너비 로맨스 ‘리디밍 러브’ 보고 피자 받아가세요! ([시리즈온] 이벤트)]]></title>
         <id>https://serieson.naver.com/events/20147?productType=movie</id>
         <link href="https://serieson.naver.com/events/20147?productType=movie"/>
         <updated>2022-04-05T15:03:35.128Z</updated>
         <content type="html"><![CDATA[<a href="/events/20147?productType=movie" class="" onclick="nclk(this, 'mov.list', '20147', '');">💕사랑에 빠지고 싶어지는 워너비 로맨스 ‘리디밍 러브’ 보고 피자 받아가세요!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[☕따뜻한 독립예술영화 한잔! <소피의 세계> 경품/할인 이벤트 ([시리즈온] 이벤트)]]></title>
-        <id>https://serieson.naver.com/events/20130?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20130?productType=movie"/>
-        <updated>2022-03-24T16:04:38.781Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20130?productType=movie" class="" onclick="nclk(this, 'mov.list', '20130', '');">☕따뜻한 독립예술영화 한잔! &lt;소피의 세계&gt; 경품/할인 이벤트</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🤿시리즈온 단독소장! 오픈특가! <바다 탐험대 옥토넛:해저동굴 대탈출> 할인 이벤트! ([시리즈온] 이벤트)]]></title>
-        <id>https://serieson.naver.com/events/20142?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20142?productType=movie"/>
-        <updated>2022-03-31T16:05:03.356Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20142?productType=movie" class="" onclick="nclk(this, 'mov.list', '20142', '');">🤿시리즈온 단독소장! 오픈특가! &lt;바다 탐험대 옥토넛:해저동굴 대탈출&gt; 할인 이벤트!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[📌캐시가 애매할 때? 착한 가격 착한 영화 라인업 체크! ([시리즈온] 이벤트)]]></title>
