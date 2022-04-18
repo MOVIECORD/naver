@@ -2,21 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-18T07:03:23.172Z</updated>
+    <updated>2022-04-18T08:08:14.303Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[🦇드디어 시작된 새로운 배트맨의 역사! '더 배트맨' 지금 바로 소장각! ([시리즈온] 이벤트)]]></title>
+        <id>https://serieson.naver.com/events/20156?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20156?productType=movie"/>
+        <updated>2022-04-18T08:08:13.708Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20156?productType=movie" class="" onclick="nclk(this, 'mov.list', '20156', '');">🦇드디어 시작된 새로운 배트맨의 역사! '더 배트맨' 지금 바로 소장각!</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[👨‍🏫 수포자도 쫄지마요! 문송해도 괜찮아요! 이상한 나라의 수학자 ([시리즈온] 이벤트)]]></title>
         <id>https://serieson.naver.com/events/20155?productType=movie</id>
         <link href="https://serieson.naver.com/events/20155?productType=movie"/>
         <updated>2022-04-12T16:03:55.908Z</updated>
         <content type="html"><![CDATA[<a href="/events/20155?productType=movie" class="" onclick="nclk(this, 'mov.list', '20155', '');">👨‍🏫 수포자도 쫄지마요! 문송해도 괜찮아요! 이상한 나라의 수학자</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🕵️어둠을 뚫고 온 고독한 히어로 '더 배트맨' 예약 구매 중 ([시리즈온] 이벤트)]]></title>
-        <id>https://serieson.naver.com/events/20151?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20151?productType=movie"/>
-        <updated>2022-04-12T06:08:02.107Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20151?productType=movie" class="" onclick="nclk(this, 'mov.list', '20151', '');">🕵️어둠을 뚫고 온 고독한 히어로 '더 배트맨' 예약 구매 중</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🎁슈퍼스타 X 슈퍼노멀 커플의 특급 로코 '메리 미' 보고 부티크 스위트 박스 가자! ([시리즈온] 이벤트)]]></title>
