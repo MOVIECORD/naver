@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-04-20T15:04:41.418Z</updated>
+    <updated>2022-04-20T16:06:04.908Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[💄 매혹적인 크리스틴 스튜어트와 함께! '스펜서' 경품 & 할인 프로모션!]]></title>
+        <id>https://serieson.naver.com/events/20163?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20163?productType=movie"/>
+        <updated>2022-04-20T16:06:04.260Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20163?productType=movie" class="" onclick="nclk(this, 'mov.list', '20163', '');">💄 매혹적인 크리스틴 스튜어트와 함께! '스펜서' 경품 &amp; 할인 프로모션!</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🦇드디어 시작된 새로운 배트맨의 역사! '더 배트맨' 지금 바로 소장각!]]></title>
         <id>https://serieson.naver.com/events/20156?productType=movie</id>
@@ -18,6 +25,13 @@
         <link href="https://serieson.naver.com/events/20155?productType=movie"/>
         <updated>2022-04-12T16:03:55.908Z</updated>
         <content type="html"><![CDATA[<a href="/events/20155?productType=movie" class="" onclick="nclk(this, 'mov.list', '20155', '');">👨‍🏫 수포자도 쫄지마요! 문송해도 괜찮아요! 이상한 나라의 수학자</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🎁갤럭시 탭 S8과 선물과 함께 '뜨거운 피' 오픈! 느와르의 쌉싸름한 맛에 지금 빠져보세요~]]></title>
+        <id>https://serieson.naver.com/events/20160?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20160?productType=movie"/>
+        <updated>2022-04-20T16:06:04.263Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20160?productType=movie" class="" onclick="nclk(this, 'mov.list', '20160', '');">🎁갤럭시 탭 S8과 선물과 함께 '뜨거운 피' 오픈! 느와르의 쌉싸름한 맛에 지금 빠져보세요~</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🎁슈퍼스타 X 슈퍼노멀 커플의 특급 로코 '메리 미' 보고 부티크 스위트 박스 가자!]]></title>
