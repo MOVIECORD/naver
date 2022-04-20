@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-20T14:02:44.154Z</updated>
+    <updated>2022-04-20T15:04:41.419Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[🦇드디어 시작된 새로운 배트맨의 역사! '더 배트맨' 지금 바로 소장각! ([시리즈온] 이벤트)]]></title>
@@ -38,13 +38,6 @@
         <link href="https://serieson.naver.com/events/20149?productType=movie"/>
         <updated>2022-04-06T04:04:50.706Z</updated>
         <content type="html"><![CDATA[<a href="/events/20149?productType=movie" class="" onclick="nclk(this, 'mov.list', '20149', '');">🌜지구는 영화에서 구하고, 지갑은 시리즈온에서 구하자! &lt;문폴&gt; 할인 이벤트</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[📸유력 대선후보의 충격적인 B컷 유출? 김동완의 ​’B컷’ 보고 선물 받아가세요! ([시리즈온] 이벤트)]]></title>
-        <id>https://serieson.naver.com/events/20148?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20148?productType=movie"/>
-        <updated>2022-04-06T15:03:02.202Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20148?productType=movie" class="" onclick="nclk(this, 'mov.list', '20148', '');">📸유력 대선후보의 충격적인 B컷 유출? 김동완의 ​’B컷’ 보고 선물 받아가세요!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[📌캐시가 애매할 때? 착한 가격 착한 영화 라인업 체크! ([시리즈온] 이벤트)]]></title>
