@@ -2,22 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-04-21T14:05:15.232Z</updated>
+    <updated>2022-04-21T15:07:23.621Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[💄 매혹적인 크리스틴 스튜어트와 함께! '스펜서' 경품 & 할인 프로모션!]]></title>
-        <id>https://serieson.naver.com/events/20163?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20163?productType=movie"/>
-        <updated>2022-04-20T16:06:04.260Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20163?productType=movie" class="" onclick="nclk(this, 'mov.list', '20163', '');">💄 매혹적인 크리스틴 스튜어트와 함께! '스펜서' 경품 &amp; 할인 프로모션!</a>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[🦇드디어 시작된 새로운 배트맨의 역사! '더 배트맨' 지금 바로 소장각!]]></title>
         <id>https://serieson.naver.com/events/20156?productType=movie</id>
         <link href="https://serieson.naver.com/events/20156?productType=movie"/>
         <updated>2022-04-18T08:08:13.708Z</updated>
         <content type="html"><![CDATA[<a href="/events/20156?productType=movie" class="" onclick="nclk(this, 'mov.list', '20156', '');">🦇드디어 시작된 새로운 배트맨의 역사! '더 배트맨' 지금 바로 소장각!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[😎폭발하는 톰 홀랜드의 특급 액션 어드벤쳐! '언차티드' 예약 구매 중]]></title>
+        <id>https://serieson.naver.com/events/20161?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20161?productType=movie"/>
+        <updated>2022-04-21T15:07:22.995Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20161?productType=movie" class="" onclick="nclk(this, 'mov.list', '20161', '');">😎폭발하는 톰 홀랜드의 특급 액션 어드벤쳐! '언차티드' 예약 구매 중</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[☑️금토일 3일간 무제한 영화 할인 쿠폰이 와르르~ 설레는 봄을 위한 심쿵 선물!]]></title>
+        <id>https://serieson.naver.com/events/20164?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20164?productType=movie"/>
+        <updated>2022-04-21T15:07:22.995Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20164?productType=movie" class="" onclick="nclk(this, 'mov.list', '20164', '');">☑️금토일 3일간 무제한 영화 할인 쿠폰이 와르르~ 설레는 봄을 위한 심쿵 선물!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[💄 매혹적인 크리스틴 스튜어트와 함께! '스펜서' 경품 & 할인 프로모션!]]></title>
+        <id>https://serieson.naver.com/events/20163?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20163?productType=movie"/>
+        <updated>2022-04-20T16:06:04.260Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20163?productType=movie" class="" onclick="nclk(this, 'mov.list', '20163', '');">💄 매혹적인 크리스틴 스튜어트와 함께! '스펜서' 경품 &amp; 할인 프로모션!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[👨‍🏫 수포자도 쫄지마요! 문송해도 괜찮아요! 이상한 나라의 수학자]]></title>
