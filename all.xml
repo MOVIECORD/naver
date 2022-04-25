@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-25T00:24:27.219Z</updated>
+    <updated>2022-04-25T02:45:31.671Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[💕 '캐롤' 제작진이 참여한 또 하나의 띵작, '사랑 후의 두 여자' ([시리즈온] 이벤트)]]></title>
+        <id>https://serieson.naver.com/events/20167?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20167?productType=movie"/>
+        <updated>2022-04-25T02:45:31.002Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20167?productType=movie" class="" onclick="nclk(this, 'mov.list', '20167', '');">💕 '캐롤' 제작진이 참여한 또 하나의 띵작, '사랑 후의 두 여자'</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🦇드디어 시작된 새로운 배트맨의 역사! '더 배트맨' 지금 바로 소장각! ([시리즈온] 이벤트)]]></title>
         <id>https://serieson.naver.com/events/20156?productType=movie</id>
