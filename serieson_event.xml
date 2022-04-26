@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-04-26T14:02:49.362Z</updated>
+    <updated>2022-04-26T15:03:51.661Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[😎톰 홀랜드 좋아하면 아묻따 클릭! 시리즈온 단독 언차티드 패키지 판매 중!]]></title>
+        <id>https://serieson.naver.com/events/20171?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20171?productType=movie"/>
+        <updated>2022-04-26T15:03:50.921Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20171?productType=movie" class="" onclick="nclk(this, 'mov.list', '20171', '');">😎톰 홀랜드 좋아하면 아묻따 클릭! 시리즈온 단독 언차티드 패키지 판매 중!</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🦇드디어 시작된 새로운 배트맨의 역사! '더 배트맨' 지금 바로 소장각!]]></title>
         <id>https://serieson.naver.com/events/20156?productType=movie</id>
         <link href="https://serieson.naver.com/events/20156?productType=movie"/>
         <updated>2022-04-18T08:08:13.708Z</updated>
         <content type="html"><![CDATA[<a href="/events/20156?productType=movie" class="" onclick="nclk(this, 'mov.list', '20156', '');">🦇드디어 시작된 새로운 배트맨의 역사! '더 배트맨' 지금 바로 소장각!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[😎폭발하는 톰 홀랜드의 특급 액션 어드벤쳐! '언차티드' 예약 구매 중]]></title>
-        <id>https://serieson.naver.com/events/20161?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20161?productType=movie"/>
-        <updated>2022-04-21T15:07:22.995Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20161?productType=movie" class="" onclick="nclk(this, 'mov.list', '20161', '');">😎폭발하는 톰 홀랜드의 특급 액션 어드벤쳐! '언차티드' 예약 구매 중</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[❤️쏘 큐트 거대 레서판다 ‘메이의 새빨간 비밀‘ 경품 이벤트!]]></title>
@@ -55,25 +55,11 @@
         <content type="html"><![CDATA[<a href="/events/20160?productType=movie" class="" onclick="nclk(this, 'mov.list', '20160', '');">🎁갤럭시 탭 S8과 선물과 함께 '뜨거운 피' 오픈! 느와르의 쌉싸름한 맛에 지금 빠져보세요~</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[💕슈퍼스타 X 슈퍼노멀 커플의 특급 로코 '메리 미' 보고 부티크 스위트 박스 가자!]]></title>
-        <id>https://serieson.naver.com/events/20154?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20154?productType=movie"/>
-        <updated>2022-04-12T15:02:58.714Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20154?productType=movie" class="" onclick="nclk(this, 'mov.list', '20154', '');">💕슈퍼스타 X 슈퍼노멀 커플의 특급 로코 '메리 미' 보고 부티크 스위트 박스 가자!</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[🎉무제한 영화 감상하고 5천원 쿠폰 받아가자!]]></title>
         <id>https://serieson.naver.com/events/20146?productType=movie</id>
         <link href="https://serieson.naver.com/events/20146?productType=movie"/>
         <updated>2022-04-11T02:38:18.755Z</updated>
         <content type="html"><![CDATA[<a href="/events/20146?productType=movie" class="" onclick="nclk(this, 'mov.list', '20146', '');">🎉무제한 영화 감상하고 5천원 쿠폰 받아가자!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🌜지구는 영화에서 구하고, 지갑은 시리즈온에서 구하자! <문폴> 할인 이벤트]]></title>
-        <id>https://serieson.naver.com/events/20149?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20149?productType=movie"/>
-        <updated>2022-04-06T04:04:50.706Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20149?productType=movie" class="" onclick="nclk(this, 'mov.list', '20149', '');">🌜지구는 영화에서 구하고, 지갑은 시리즈온에서 구하자! &lt;문폴&gt; 할인 이벤트</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[📌캐시가 애매할 때? 착한 가격 착한 영화 라인업 체크!]]></title>
