@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-04-28T15:03:10.208Z</updated>
+    <updated>2022-04-28T16:05:46.692Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
     <entry>
@@ -32,6 +32,13 @@
         <link href="https://serieson.naver.com/events/20168?productType=movie"/>
         <updated>2022-04-26T02:53:56.320Z</updated>
         <content type="html"><![CDATA[<a href="/events/20168?productType=movie" class="" onclick="nclk(this, 'mov.list', '20168', '');">❤️쏘 큐트 거대 레서판다 ‘메이의 새빨간 비밀‘ 경품 이벤트!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[👨‍👩‍👧가정의 달 5월, 소중한 사람들과 꿀잼 타임 ON! 가족과 함께 보면 딱 좋은 영화 최대 50% 할인!]]></title>
+        <id>https://serieson.naver.com/events/20166?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20166?productType=movie"/>
+        <updated>2022-04-28T16:05:46.062Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20166?productType=movie" class="" onclick="nclk(this, 'mov.list', '20166', '');">👨‍👩‍👧가정의 달 5월, 소중한 사람들과 꿀잼 타임 ON! 가족과 함께 보면 딱 좋은 영화 최대 50% 할인!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[👩‍👩‍👦페드로 알모도바르 X 페넬로페 크루즈 레전드 페어의 또 하나의 명작 ‘패러렐 마더스’]]></title>
