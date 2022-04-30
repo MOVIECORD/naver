@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-30T14:04:05.657Z</updated>
+    <updated>2022-04-30T15:03:39.773Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[🦇드디어 시작된 새로운 배트맨의 역사! '더 배트맨' 지금 바로 소장각! ([시리즈온] 이벤트)]]></title>
@@ -87,26 +87,5 @@
         <link href="https://serieson.naver.com/events/20167?productType=movie"/>
         <updated>2022-04-25T02:45:31.002Z</updated>
         <content type="html"><![CDATA[<a href="/events/20167?productType=movie" class="" onclick="nclk(this, 'mov.list', '20167', '');">💕 '캐롤' 제작진이 참여한 또 하나의 띵작, '사랑 후의 두 여자'</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🎉무제한 영화 감상하고 5천원 쿠폰 받아가자! ([시리즈온] 이벤트)]]></title>
-        <id>https://serieson.naver.com/events/20146?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20146?productType=movie"/>
-        <updated>2022-04-11T02:38:18.755Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20146?productType=movie" class="" onclick="nclk(this, 'mov.list', '20146', '');">🎉무제한 영화 감상하고 5천원 쿠폰 받아가자!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[📌캐시가 애매할 때? 착한 가격 착한 영화 라인업 체크! ([시리즈온] 이벤트)]]></title>
-        <id>https://serieson.naver.com/events/20135?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20135?productType=movie"/>
-        <updated>2022-03-25T03:12:09.388Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20135?productType=movie" class="" onclick="nclk(this, 'mov.list', '20135', '');">📌캐시가 애매할 때? 착한 가격 착한 영화 라인업 체크!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[22년 4월 우수 이용자! 꼭 확인해보자! ([시리즈온] 이벤트)]]></title>
-        <id>https://serieson.naver.com/events/20140?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20140?productType=movie"/>
-        <updated>2022-03-31T16:05:03.367Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20140?productType=movie" class="" onclick="nclk(this, 'mov.list', '20140', '');">22년 4월 우수 이용자! 꼭 확인해보자!</a>]]></content>
     </entry>
 </feed>
