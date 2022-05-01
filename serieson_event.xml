@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-05-01T14:03:36.345Z</updated>
+    <updated>2022-05-01T15:04:04.587Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
     <entry>
@@ -48,6 +48,13 @@
         <content type="html"><![CDATA[<a href="/events/20169?productType=movie" class="" onclick="nclk(this, 'mov.list', '20169', '');">👩‍👩‍👦페드로 알모도바르 X 페넬로페 크루즈 레전드 페어의 또 하나의 명작 ‘패러렐 마더스’</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[🎁갤럭시 탭 S8과 선물과 함께 '뜨거운 피' 오픈! 느와르의 쌉싸름한 맛에 지금 빠져보세요~]]></title>
+        <id>https://serieson.naver.com/events/20160?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20160?productType=movie"/>
+        <updated>2022-04-20T16:06:04.263Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20160?productType=movie" class="" onclick="nclk(this, 'mov.list', '20160', '');">🎁갤럭시 탭 S8과 선물과 함께 '뜨거운 피' 오픈! 느와르의 쌉싸름한 맛에 지금 빠져보세요~</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[👷‍♀️ 불도저 진짜 탑니다! '불도저에 탄 소녀']]></title>
         <id>https://serieson.naver.com/events/20174?productType=movie</id>
         <link href="https://serieson.naver.com/events/20174?productType=movie"/>
@@ -76,17 +83,17 @@
         <content type="html"><![CDATA[<a href="/events/20163?productType=movie" class="" onclick="nclk(this, 'mov.list', '20163', '');">💄 매혹적인 크리스틴 스튜어트와 함께! '스펜서' 경품 &amp; 할인 프로모션!</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[🎁갤럭시 탭 S8과 선물과 함께 '뜨거운 피' 오픈! 느와르의 쌉싸름한 맛에 지금 빠져보세요~]]></title>
-        <id>https://serieson.naver.com/events/20160?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20160?productType=movie"/>
-        <updated>2022-04-20T16:06:04.263Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20160?productType=movie" class="" onclick="nclk(this, 'mov.list', '20160', '');">🎁갤럭시 탭 S8과 선물과 함께 '뜨거운 피' 오픈! 느와르의 쌉싸름한 맛에 지금 빠져보세요~</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[💕 '캐롤' 제작진이 참여한 또 하나의 띵작, '사랑 후의 두 여자']]></title>
         <id>https://serieson.naver.com/events/20167?productType=movie</id>
         <link href="https://serieson.naver.com/events/20167?productType=movie"/>
         <updated>2022-04-25T02:45:31.002Z</updated>
         <content type="html"><![CDATA[<a href="/events/20167?productType=movie" class="" onclick="nclk(this, 'mov.list', '20167', '');">💕 '캐롤' 제작진이 참여한 또 하나의 띵작, '사랑 후의 두 여자'</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[22년 5월 우수 이용자! 꼭 확인해보자!]]></title>
+        <id>https://serieson.naver.com/events/20175?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20175?productType=movie"/>
+        <updated>2022-05-01T15:04:03.815Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20175?productType=movie" class="" onclick="nclk(this, 'mov.list', '20175', '');">22년 5월 우수 이용자! 꼭 확인해보자!</a>]]></content>
     </entry>
 </feed>
