@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-05-02T14:04:31.888Z</updated>
+    <updated>2022-05-02T15:03:33.634Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[🦇드디어 시작된 새로운 배트맨의 역사! '더 배트맨' 지금 바로 소장각! ([시리즈온] 이벤트)]]></title>
@@ -17,6 +17,13 @@
         <link href="https://serieson.naver.com/events/20179?productType=movie"/>
         <updated>2022-05-02T00:28:07.815Z</updated>
         <content type="html"><![CDATA[<a href="/events/20179?productType=movie" class="" onclick="nclk(this, 'mov.list', '20179', '');">🎁5월엔 무료영화 SPECIAL 라인-업 확인! 시리즈온이 드리는 5월의 영화 선물 받아 가세요~</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[😺베니X고양이의 황홀한 로맨틱의 세계로! '루이스 웨인: 사랑을 그린 고양이 화가' ([시리즈온] 이벤트)]]></title>
+        <id>https://serieson.naver.com/events/20183?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20183?productType=movie"/>
+        <updated>2022-05-02T15:03:32.837Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20183?productType=movie" class="" onclick="nclk(this, 'mov.list', '20183', '');">😺베니X고양이의 황홀한 로맨틱의 세계로! '루이스 웨인: 사랑을 그린 고양이 화가'</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[👨‍🏫 수포자도 쫄지마요! 문송해도 괜찮아요! 이상한 나라의 수학자 ([시리즈온] 이벤트)]]></title>
