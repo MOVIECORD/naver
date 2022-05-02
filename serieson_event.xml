@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-05-02T15:03:33.516Z</updated>
+    <updated>2022-05-02T16:05:55.071Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
     <entry>
@@ -20,6 +20,20 @@
         <content type="html"><![CDATA[<a href="/events/20179?productType=movie" class="" onclick="nclk(this, 'mov.list', '20179', '');">🎁5월엔 무료영화 SPECIAL 라인-업 확인! 시리즈온이 드리는 5월의 영화 선물 받아 가세요~</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[🕸스파이더맨 20주년! 스파이더맨: 노 웨이 홈, 돌아갈 길은 없다]]></title>
+        <id>https://serieson.naver.com/events/20186?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20186?productType=movie"/>
+        <updated>2022-05-02T16:05:54.455Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20186?productType=movie" class="" onclick="nclk(this, 'mov.list', '20186', '');">🕸스파이더맨 20주년! 스파이더맨: 노 웨이 홈, 돌아갈 길은 없다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[😎톰 홀랜드 좋아하면 아묻따 클릭! 시리즈온 단독 언차티드 패키지 판매 중!]]></title>
+        <id>https://serieson.naver.com/events/20171?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20171?productType=movie"/>
+        <updated>2022-04-26T15:03:50.921Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20171?productType=movie" class="" onclick="nclk(this, 'mov.list', '20171', '');">😎톰 홀랜드 좋아하면 아묻따 클릭! 시리즈온 단독 언차티드 패키지 판매 중!</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[😺베니X고양이의 황홀한 로맨틱의 세계로! '루이스 웨인: 사랑을 그린 고양이 화가']]></title>
         <id>https://serieson.naver.com/events/20183?productType=movie</id>
         <link href="https://serieson.naver.com/events/20183?productType=movie"/>
@@ -32,13 +46,6 @@
         <link href="https://serieson.naver.com/events/20155?productType=movie"/>
         <updated>2022-04-12T16:03:55.908Z</updated>
         <content type="html"><![CDATA[<a href="/events/20155?productType=movie" class="" onclick="nclk(this, 'mov.list', '20155', '');">👨‍🏫 수포자도 쫄지마요! 문송해도 괜찮아요! 이상한 나라의 수학자</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[😎톰 홀랜드 좋아하면 아묻따 클릭! 시리즈온 단독 언차티드 패키지 판매 중!]]></title>
-        <id>https://serieson.naver.com/events/20171?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20171?productType=movie"/>
-        <updated>2022-04-26T15:03:50.921Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20171?productType=movie" class="" onclick="nclk(this, 'mov.list', '20171', '');">😎톰 홀랜드 좋아하면 아묻따 클릭! 시리즈온 단독 언차티드 패키지 판매 중!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🚘 버라이어티 카체이싱 휴먼 코미디! '스텔라']]></title>
