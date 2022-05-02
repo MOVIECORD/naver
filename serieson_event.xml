@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-05-01T23:03:02.316Z</updated>
+    <updated>2022-05-02T00:28:08.476Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://serieson.naver.com/events/20156?productType=movie"/>
         <updated>2022-04-18T08:08:13.708Z</updated>
         <content type="html"><![CDATA[<a href="/events/20156?productType=movie" class="" onclick="nclk(this, 'mov.list', '20156', '');">🦇드디어 시작된 새로운 배트맨의 역사! '더 배트맨' 지금 바로 소장각!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🎁5월엔 무료영화 SPECIAL 라인-업 확인! 시리즈온이 드리는 5월의 영화 선물 받아 가세요~]]></title>
+        <id>https://serieson.naver.com/events/20179?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20179?productType=movie"/>
+        <updated>2022-05-02T00:28:07.815Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20179?productType=movie" class="" onclick="nclk(this, 'mov.list', '20179', '');">🎁5월엔 무료영화 SPECIAL 라인-업 확인! 시리즈온이 드리는 5월의 영화 선물 받아 가세요~</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[👨‍🏫 수포자도 쫄지마요! 문송해도 괜찮아요! 이상한 나라의 수학자]]></title>
