@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-05-04T14:03:28.901Z</updated>
+    <updated>2022-05-04T15:07:38.939Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
     <entry>
@@ -109,13 +109,6 @@
         <link href="https://serieson.naver.com/events/20170?productType=movie"/>
         <updated>2022-04-26T16:05:50.564Z</updated>
         <content type="html"><![CDATA[<a href="/events/20170?productType=movie" class="" onclick="nclk(this, 'mov.list', '20170', '');">🏆올해 아카데미를 불태웠던 바로 그 작품! 실화보다 더 큰 울림 ‘킹 리차드’</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🎁갤럭시 탭 S8과 선물과 함께 '뜨거운 피' 오픈! 느와르의 쌉싸름한 맛에 지금 빠져보세요~]]></title>
-        <id>https://serieson.naver.com/events/20160?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20160?productType=movie"/>
-        <updated>2022-04-20T16:06:04.263Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20160?productType=movie" class="" onclick="nclk(this, 'mov.list', '20160', '');">🎁갤럭시 탭 S8과 선물과 함께 '뜨거운 피' 오픈! 느와르의 쌉싸름한 맛에 지금 빠져보세요~</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[👷‍♀️ 불도저 진짜 탑니다! '불도저에 탄 소녀']]></title>
