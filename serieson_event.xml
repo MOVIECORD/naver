@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-05-09T14:03:03.100Z</updated>
+    <updated>2022-05-09T15:04:00.531Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
     <entry>
@@ -67,13 +67,6 @@
         <link href="https://serieson.naver.com/events/20186?productType=movie"/>
         <updated>2022-05-02T16:05:54.455Z</updated>
         <content type="html"><![CDATA[<a href="/events/20186?productType=movie" class="" onclick="nclk(this, 'mov.list', '20186', '');">🕸스파이더맨 20주년! 스파이더맨: 노 웨이 홈, 돌아갈 길은 없다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[❤️쏘 큐트 거대 레서판다 ‘메이의 새빨간 비밀‘ 경품 이벤트!]]></title>
-        <id>https://serieson.naver.com/events/20168?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20168?productType=movie"/>
-        <updated>2022-04-26T02:53:56.320Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20168?productType=movie" class="" onclick="nclk(this, 'mov.list', '20168', '');">❤️쏘 큐트 거대 레서판다 ‘메이의 새빨간 비밀‘ 경품 이벤트!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[💄 매혹적인 크리스틴 스튜어트와 함께! '스펜서' 경품 & 할인 프로모션!]]></title>
