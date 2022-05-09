@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-05-09T00:29:34.494Z</updated>
+    <updated>2022-05-09T02:50:29.562Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
     <entry>
@@ -39,6 +39,13 @@
         <link href="https://serieson.naver.com/events/20188?productType=movie"/>
         <updated>2022-05-03T16:08:35.690Z</updated>
         <content type="html"><![CDATA[<a href="/events/20188?productType=movie" class="" onclick="nclk(this, 'mov.list', '20188', '');">💌 디즈니가 전하는 5월의 러브레터! 영화도 보고 디즈니 굿즈도 받고</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🦇배트맨과 리들러의 뇌를 쪼이는 추리 대결! ‘더 배트맨’ 지금 조금 더 합리적인 가격에 소장하자]]></title>
+        <id>https://serieson.naver.com/events/20193?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20193?productType=movie"/>
+        <updated>2022-05-09T02:50:29.028Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20193?productType=movie" class="" onclick="nclk(this, 'mov.list', '20193', '');">🦇배트맨과 리들러의 뇌를 쪼이는 추리 대결! ‘더 배트맨’ 지금 조금 더 합리적인 가격에 소장하자</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[😺베니X고양이의 황홀한 로맨틱의 세계로! '루이스 웨인: 사랑을 그린 고양이 화가']]></title>
