@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-05-10T14:13:21.787Z</updated>
+    <updated>2022-05-10T15:04:13.101Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[⭐️ '신비한 동물들과 덤블도어의 비밀' 드디어 시리즈온 OPEN! ([시리즈온] 이벤트)]]></title>
+        <id>https://serieson.naver.com/events/20196?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20196?productType=movie"/>
+        <updated>2022-05-10T15:04:12.423Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20196?productType=movie" class="" onclick="nclk(this, 'mov.list', '20196', '');">⭐️ '신비한 동물들과 덤블도어의 비밀' 드디어 시리즈온 OPEN!</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🎙️ 할인+10,000캐시와 함께! 웰메이드 미스터리 스릴러, '앵커' ([시리즈온] 이벤트)]]></title>
         <id>https://serieson.naver.com/events/20192?productType=movie</id>
@@ -17,13 +24,6 @@
         <link href="https://serieson.naver.com/events/20190?productType=movie"/>
         <updated>2022-05-03T16:08:35.686Z</updated>
         <content type="html"><![CDATA[<a href="/events/20190?productType=movie" class="" onclick="nclk(this, 'mov.list', '20190', '');">💨 초특급 경품과 함께 레벨업되어 돌아왔다! '수퍼 소닉 2' 오픈 프로모션</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[😎톰 홀랜드 좋아하면 아묻따 클릭! 시리즈온 단독 언차티드 패키지 판매 중! ([시리즈온] 이벤트)]]></title>
-        <id>https://serieson.naver.com/events/20171?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20171?productType=movie"/>
-        <updated>2022-04-26T15:03:50.921Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20171?productType=movie" class="" onclick="nclk(this, 'mov.list', '20171', '');">😎톰 홀랜드 좋아하면 아묻따 클릭! 시리즈온 단독 언차티드 패키지 판매 중!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[💥‘존 윅’ ‘시카리오’ 제작진의 명품 액션 스릴러 ‘더 컨트랙터’ 보고 5천 캐시 받아가세요! ([시리즈온] 이벤트)]]></title>
@@ -94,13 +94,6 @@
         <link href="https://serieson.naver.com/events/20166?productType=movie"/>
         <updated>2022-04-28T16:05:46.062Z</updated>
         <content type="html"><![CDATA[<a href="/events/20166?productType=movie" class="" onclick="nclk(this, 'mov.list', '20166', '');">👨‍👩‍👧가정의 달 5월, 소중한 사람들과 꿀잼 타임 ON! 가족과 함께 보면 딱 좋은 영화 최대 50% 할인!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[👩‍👩‍👦페드로 알모도바르 X 페넬로페 크루즈 레전드 페어의 또 하나의 명작 ‘패러렐 마더스’ ([시리즈온] 이벤트)]]></title>
-        <id>https://serieson.naver.com/events/20169?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20169?productType=movie"/>
-        <updated>2022-04-26T16:05:50.563Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20169?productType=movie" class="" onclick="nclk(this, 'mov.list', '20169', '');">👩‍👩‍👦페드로 알모도바르 X 페넬로페 크루즈 레전드 페어의 또 하나의 명작 ‘패러렐 마더스’</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🏆올해 아카데미를 불태웠던 바로 그 작품! 실화보다 더 큰 울림 ‘킹 리차드’ ([시리즈온] 이벤트)]]></title>
