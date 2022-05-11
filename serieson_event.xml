@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-05-11T14:03:26.500Z</updated>
+    <updated>2022-05-11T15:04:24.551Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
     <entry>
@@ -41,6 +41,13 @@
         <content type="html"><![CDATA[<a href="/events/20189?productType=movie" class="" onclick="nclk(this, 'mov.list', '20189', '');">🚔 액션 마스터 '마이클 베이' 감독 신작! '앰뷸런스' OPEN</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[🌹성년의 날 기념, 빨간 맛 로맨스 최대 50% 할인 & 2만 캐시 선물!]]></title>
+        <id>https://serieson.naver.com/events/20195?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20195?productType=movie"/>
+        <updated>2022-05-11T15:04:23.879Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20195?productType=movie" class="" onclick="nclk(this, 'mov.list', '20195', '');">🌹성년의 날 기념, 빨간 맛 로맨스 최대 50% 할인 &amp; 2만 캐시 선물!</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[💌 디즈니가 전하는 5월의 러브레터! 영화도 보고 디즈니 굿즈도 받고]]></title>
         <id>https://serieson.naver.com/events/20188?productType=movie</id>
         <link href="https://serieson.naver.com/events/20188?productType=movie"/>
@@ -76,13 +83,6 @@
         <content type="html"><![CDATA[<a href="/events/20186?productType=movie" class="" onclick="nclk(this, 'mov.list', '20186', '');">🕸스파이더맨 20주년! 스파이더맨: 노 웨이 홈, 돌아갈 길은 없다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[💄 매혹적인 크리스틴 스튜어트와 함께! '스펜서' 경품 & 할인 프로모션!]]></title>
-        <id>https://serieson.naver.com/events/20163?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20163?productType=movie"/>
-        <updated>2022-04-20T16:06:04.260Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20163?productType=movie" class="" onclick="nclk(this, 'mov.list', '20163', '');">💄 매혹적인 크리스틴 스튜어트와 함께! '스펜서' 경품 &amp; 할인 프로모션!</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[🥳어른이도 어린이도 쑥쑥 크는 5월! 소니 특급 추천 라인업!]]></title>
         <id>https://serieson.naver.com/events/20185?productType=movie</id>
         <link href="https://serieson.naver.com/events/20185?productType=movie"/>
@@ -95,13 +95,6 @@
         <link href="https://serieson.naver.com/events/20166?productType=movie"/>
         <updated>2022-04-28T16:05:46.062Z</updated>
         <content type="html"><![CDATA[<a href="/events/20166?productType=movie" class="" onclick="nclk(this, 'mov.list', '20166', '');">👨‍👩‍👧가정의 달 5월, 소중한 사람들과 꿀잼 타임 ON! 가족과 함께 보면 딱 좋은 영화 최대 50% 할인!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🏆올해 아카데미를 불태웠던 바로 그 작품! 실화보다 더 큰 울림 ‘킹 리차드’]]></title>
-        <id>https://serieson.naver.com/events/20170?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20170?productType=movie"/>
-        <updated>2022-04-26T16:05:50.564Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20170?productType=movie" class="" onclick="nclk(this, 'mov.list', '20170', '');">🏆올해 아카데미를 불태웠던 바로 그 작품! 실화보다 더 큰 울림 ‘킹 리차드’</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[👷‍♀️ 불도저 진짜 탑니다! '불도저에 탄 소녀']]></title>
