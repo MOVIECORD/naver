@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-05-12T14:10:47.177Z</updated>
+    <updated>2022-05-12T15:04:22.079Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
     <entry>
@@ -88,13 +88,6 @@
         <link href="https://serieson.naver.com/events/20185?productType=movie"/>
         <updated>2022-05-02T05:22:42.747Z</updated>
         <content type="html"><![CDATA[<a href="/events/20185?productType=movie" class="" onclick="nclk(this, 'mov.list', '20185', '');">🥳어른이도 어린이도 쑥쑥 크는 5월! 소니 특급 추천 라인업!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[👨‍👩‍👧가정의 달 5월, 소중한 사람들과 꿀잼 타임 ON! 가족과 함께 보면 딱 좋은 영화 최대 50% 할인!]]></title>
-        <id>https://serieson.naver.com/events/20166?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20166?productType=movie"/>
-        <updated>2022-04-28T16:05:46.062Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20166?productType=movie" class="" onclick="nclk(this, 'mov.list', '20166', '');">👨‍👩‍👧가정의 달 5월, 소중한 사람들과 꿀잼 타임 ON! 가족과 함께 보면 딱 좋은 영화 최대 50% 할인!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[👷‍♀️ 불도저 진짜 탑니다! '불도저에 탄 소녀']]></title>
