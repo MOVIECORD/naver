@@ -2,14 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-05-12T23:05:20.574Z</updated>
+    <updated>2022-05-24T02:42:30.768Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[🦇 마블 최강의 안티 히어로! '모비우스' 오픈 ([시리즈온] 이벤트)]]></title>
+        <id>https://serieson.naver.com/events/20200?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20200?productType=movie"/>
+        <updated>2022-05-24T02:42:29.987Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20200?productType=movie" class="" onclick="nclk(this, 'mov.list', '20200', '');">🦇 마블 최강의 안티 히어로! '모비우스' 오픈</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[😎 대환장 코믹 케미스트리! '로스트 시티' 보고 한바탕 웃자 ([시리즈온] 이벤트)]]></title>
+        <id>https://serieson.naver.com/events/20203?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20203?productType=movie"/>
+        <updated>2022-05-24T02:42:29.987Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20203?productType=movie" class="" onclick="nclk(this, 'mov.list', '20203', '');">😎 대환장 코믹 케미스트리! '로스트 시티' 보고 한바탕 웃자</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[⭐️ '신비한 동물들과 덤블도어의 비밀' 드디어 시리즈온 OPEN! ([시리즈온] 이벤트)]]></title>
         <id>https://serieson.naver.com/events/20196?productType=movie</id>
         <link href="https://serieson.naver.com/events/20196?productType=movie"/>
         <updated>2022-05-10T15:04:12.423Z</updated>
         <content type="html"><![CDATA[<a href="/events/20196?productType=movie" class="" onclick="nclk(this, 'mov.list', '20196', '');">⭐️ '신비한 동물들과 덤블도어의 비밀' 드디어 시리즈온 OPEN!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🥳스타일쉐어 X 시리즈온 특급 콜라보 OPEN 귀여움 한도 초과 파자마 입고 집콕 파티하자! ([시리즈온] 이벤트)]]></title>
+        <id>https://serieson.naver.com/events/20206?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20206?productType=movie"/>
+        <updated>2022-05-24T02:42:29.991Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20206?productType=movie" class="" onclick="nclk(this, 'mov.list', '20206', '');">🥳스타일쉐어 X 시리즈온 특급 콜라보 OPEN 귀여움 한도 초과 파자마 입고 집콕 파티하자!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🎥 누벨바그의 거장, 에릭 로메르 감독전 할인! ([시리즈온] 이벤트)]]></title>
+        <id>https://serieson.naver.com/events/20210?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20210?productType=movie"/>
+        <updated>2022-05-24T02:42:29.992Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20210?productType=movie" class="" onclick="nclk(this, 'mov.list', '20210', '');">🎥 누벨바그의 거장, 에릭 로메르 감독전 할인!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🎙️ 할인+10,000캐시와 함께! 웰메이드 미스터리 스릴러, '앵커' ([시리즈온] 이벤트)]]></title>
@@ -26,74 +54,11 @@
         <content type="html"><![CDATA[<a href="/events/20190?productType=movie" class="" onclick="nclk(this, 'mov.list', '20190', '');">💨 초특급 경품과 함께 레벨업되어 돌아왔다! '수퍼 소닉 2' 오픈 프로모션</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[💥‘존 윅’ ‘시카리오’ 제작진의 명품 액션 스릴러 ‘더 컨트랙터’ 보고 5천 캐시 받아가세요! ([시리즈온] 이벤트)]]></title>
-        <id>https://serieson.naver.com/events/20194?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20194?productType=movie"/>
-        <updated>2022-05-10T02:13:54.124Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20194?productType=movie" class="" onclick="nclk(this, 'mov.list', '20194', '');">💥‘존 윅’ ‘시카리오’ 제작진의 명품 액션 스릴러 ‘더 컨트랙터’ 보고 5천 캐시 받아가세요!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🚔 액션 마스터 '마이클 베이' 감독 신작! '앰뷸런스' OPEN ([시리즈온] 이벤트)]]></title>
-        <id>https://serieson.naver.com/events/20189?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20189?productType=movie"/>
-        <updated>2022-05-04T02:54:58.411Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20189?productType=movie" class="" onclick="nclk(this, 'mov.list', '20189', '');">🚔 액션 마스터 '마이클 베이' 감독 신작! '앰뷸런스' OPEN</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🌹성년의 날 기념, 빨간 맛 로맨스 최대 50% 할인 & 2만 캐시 선물! ([시리즈온] 이벤트)]]></title>
-        <id>https://serieson.naver.com/events/20195?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20195?productType=movie"/>
-        <updated>2022-05-11T15:04:23.879Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20195?productType=movie" class="" onclick="nclk(this, 'mov.list', '20195', '');">🌹성년의 날 기념, 빨간 맛 로맨스 최대 50% 할인 &amp; 2만 캐시 선물!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[💌 디즈니가 전하는 5월의 러브레터! 영화도 보고 디즈니 굿즈도 받고 ([시리즈온] 이벤트)]]></title>
-        <id>https://serieson.naver.com/events/20188?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20188?productType=movie"/>
-        <updated>2022-05-03T16:08:35.690Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20188?productType=movie" class="" onclick="nclk(this, 'mov.list', '20188', '');">💌 디즈니가 전하는 5월의 러브레터! 영화도 보고 디즈니 굿즈도 받고</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🦇배트맨과 리들러의 뇌를 쪼이는 추리 대결! ‘더 배트맨’ 지금 조금 더 합리적인 가격에 소장하자 ([시리즈온] 이벤트)]]></title>
-        <id>https://serieson.naver.com/events/20193?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20193?productType=movie"/>
-        <updated>2022-05-09T02:50:29.028Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20193?productType=movie" class="" onclick="nclk(this, 'mov.list', '20193', '');">🦇배트맨과 리들러의 뇌를 쪼이는 추리 대결! ‘더 배트맨’ 지금 조금 더 합리적인 가격에 소장하자</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[😺베니X고양이의 황홀한 로맨틱의 세계로! '루이스 웨인: 사랑을 그린 고양이 화가' ([시리즈온] 이벤트)]]></title>
-        <id>https://serieson.naver.com/events/20183?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20183?productType=movie"/>
-        <updated>2022-05-02T15:03:32.837Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20183?productType=movie" class="" onclick="nclk(this, 'mov.list', '20183', '');">😺베니X고양이의 황홀한 로맨틱의 세계로! '루이스 웨인: 사랑을 그린 고양이 화가'</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🚘 버라이어티 카체이싱 휴먼 코미디! '스텔라' ([시리즈온] 이벤트)]]></title>
-        <id>https://serieson.naver.com/events/20173?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20173?productType=movie"/>
-        <updated>2022-04-28T03:30:20.675Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20173?productType=movie" class="" onclick="nclk(this, 'mov.list', '20173', '');">🚘 버라이어티 카체이싱 휴먼 코미디! '스텔라'</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🕸스파이더맨 20주년! 스파이더맨: 노 웨이 홈, 돌아갈 길은 없다 ([시리즈온] 이벤트)]]></title>
-        <id>https://serieson.naver.com/events/20186?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20186?productType=movie"/>
-        <updated>2022-05-02T16:05:54.455Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20186?productType=movie" class="" onclick="nclk(this, 'mov.list', '20186', '');">🕸스파이더맨 20주년! 스파이더맨: 노 웨이 홈, 돌아갈 길은 없다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🥳어른이도 어린이도 쑥쑥 크는 5월! 소니 특급 추천 라인업! ([시리즈온] 이벤트)]]></title>
-        <id>https://serieson.naver.com/events/20185?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20185?productType=movie"/>
-        <updated>2022-05-02T05:22:42.747Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20185?productType=movie" class="" onclick="nclk(this, 'mov.list', '20185', '');">🥳어른이도 어린이도 쑥쑥 크는 5월! 소니 특급 추천 라인업!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[👷‍♀️ 불도저 진짜 탑니다! '불도저에 탄 소녀' ([시리즈온] 이벤트)]]></title>
-        <id>https://serieson.naver.com/events/20174?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20174?productType=movie"/>
-        <updated>2022-04-28T04:56:38.646Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20174?productType=movie" class="" onclick="nclk(this, 'mov.list', '20174', '');">👷‍♀️ 불도저 진짜 탑니다! '불도저에 탄 소녀'</a>]]></content>
+        <title type="html"><![CDATA[대한민국을 공포에 빠뜨린 충격적 재난! ‘공기살인’ 경품 이벤트 ([시리즈온] 이벤트)]]></title>
+        <id>https://serieson.naver.com/events/20199?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20199?productType=movie"/>
+        <updated>2022-05-24T02:42:29.998Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20199?productType=movie" class="" onclick="nclk(this, 'mov.list', '20199', '');">대한민국을 공포에 빠뜨린 충격적 재난! ‘공기살인’ 경품 이벤트</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[22년 5월 우수 이용자! 꼭 확인해보자! ([시리즈온] 이벤트)]]></title>
