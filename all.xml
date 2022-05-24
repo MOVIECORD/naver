@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-05-24T14:10:15.464Z</updated>
+    <updated>2022-05-24T15:05:30.935Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[🦇 마블 최강의 안티 히어로! '모비우스' 오픈 ([시리즈온] 이벤트)]]></title>
@@ -19,11 +19,11 @@
         <content type="html"><![CDATA[<a href="/events/20203?productType=movie" class="" onclick="nclk(this, 'mov.list', '20203', '');">😎 대환장 코믹 케미스트리! '로스트 시티' 보고 한바탕 웃자</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[⭐️ '신비한 동물들과 덤블도어의 비밀' 드디어 시리즈온 OPEN! ([시리즈온] 이벤트)]]></title>
-        <id>https://serieson.naver.com/events/20196?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20196?productType=movie"/>
-        <updated>2022-05-10T15:04:12.423Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20196?productType=movie" class="" onclick="nclk(this, 'mov.list', '20196', '');">⭐️ '신비한 동물들과 덤블도어의 비밀' 드디어 시리즈온 OPEN!</a>]]></content>
+        <title type="html"><![CDATA[👨🏻‍✈️갓벽한 제복핏 ‘킹스맨' 콜린 퍼스의 ‘민스미트 작전’ 시리즈온 상륙! ([시리즈온] 이벤트)]]></title>
+        <id>https://serieson.naver.com/events/20209?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20209?productType=movie"/>
+        <updated>2022-05-24T15:05:30.220Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20209?productType=movie" class="" onclick="nclk(this, 'mov.list', '20209', '');">👨🏻‍✈️갓벽한 제복핏 ‘킹스맨' 콜린 퍼스의 ‘민스미트 작전’ 시리즈온 상륙!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🥳스타일쉐어 X 시리즈온 특급 콜라보 OPEN 귀여움 한도 초과 파자마 입고 집콕 파티하자! ([시리즈온] 이벤트)]]></title>
@@ -45,13 +45,6 @@
         <link href="https://serieson.naver.com/events/20192?productType=movie"/>
         <updated>2022-05-08T16:05:13.679Z</updated>
         <content type="html"><![CDATA[<a href="/events/20192?productType=movie" class="" onclick="nclk(this, 'mov.list', '20192', '');">🎙️ 할인+10,000캐시와 함께! 웰메이드 미스터리 스릴러, '앵커'</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[💨 초특급 경품과 함께 레벨업되어 돌아왔다! '수퍼 소닉 2' 오픈 프로모션 ([시리즈온] 이벤트)]]></title>
-        <id>https://serieson.naver.com/events/20190?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20190?productType=movie"/>
-        <updated>2022-05-03T16:08:35.686Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20190?productType=movie" class="" onclick="nclk(this, 'mov.list', '20190', '');">💨 초특급 경품과 함께 레벨업되어 돌아왔다! '수퍼 소닉 2' 오픈 프로모션</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[대한민국을 공포에 빠뜨린 충격적 재난! ‘공기살인’ 경품 이벤트 ([시리즈온] 이벤트)]]></title>
