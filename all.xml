@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-05-25T14:09:00.376Z</updated>
+    <updated>2022-05-25T15:07:33.230Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[👨🏻‍✈️갓벽한 제복핏 ‘킹스맨' 콜린 퍼스의 ‘민스미트 작전’ 시리즈온 상륙! ([시리즈온] 이벤트)]]></title>
@@ -24,6 +24,13 @@
         <link href="https://serieson.naver.com/events/20203?productType=movie"/>
         <updated>2022-05-24T02:42:29.987Z</updated>
         <content type="html"><![CDATA[<a href="/events/20203?productType=movie" class="" onclick="nclk(this, 'mov.list', '20203', '');">😎 대환장 코믹 케미스트리! '로스트 시티' 보고 한바탕 웃자</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🏆제 75회 칸 영화제 특집! 꼭 보셨으면 하는 역대 수상작만 쿠폰 선물! ([시리즈온] 이벤트)]]></title>
+        <id>https://serieson.naver.com/events/20212?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20212?productType=movie"/>
+        <updated>2022-05-25T15:07:32.638Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20212?productType=movie" class="" onclick="nclk(this, 'mov.list', '20212', '');">🏆제 75회 칸 영화제 특집! 꼭 보셨으면 하는 역대 수상작만 쿠폰 선물!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🥳스타일쉐어 X 시리즈온 특급 콜라보 OPEN 귀여움 한도 초과 파자마 입고 집콕 파티하자! ([시리즈온] 이벤트)]]></title>
