@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-05-29T14:02:59.740Z</updated>
+    <updated>2022-05-29T15:03:03.425Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
     <entry>
@@ -18,13 +18,6 @@
         <link href="https://serieson.naver.com/events/20200?productType=movie"/>
         <updated>2022-05-24T02:42:29.987Z</updated>
         <content type="html"><![CDATA[<a href="/events/20200?productType=movie" class="" onclick="nclk(this, 'mov.list', '20200', '');">🦇 마블 최강의 안티 히어로! '모비우스' 오픈</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🍿 이번 주말, 영화를 보기만 해도 할인쿠폰이!? 팝콘 준비하세요!]]></title>
-        <id>https://serieson.naver.com/events/20215?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20215?productType=movie"/>
-        <updated>2022-05-26T17:15:42.741Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20215?productType=movie" class="" onclick="nclk(this, 'mov.list', '20215', '');">🍿 이번 주말, 영화를 보기만 해도 할인쿠폰이!? 팝콘 준비하세요!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[😎 대환장 코믹 케미스트리! '로스트 시티' 보고 한바탕 웃자]]></title>
@@ -53,13 +46,6 @@
         <link href="https://serieson.naver.com/events/20210?productType=movie"/>
         <updated>2022-05-24T09:10:36.193Z</updated>
         <content type="html"><![CDATA[<a href="/events/20210?productType=movie" class="" onclick="nclk(this, 'mov.list', '20210', '');">🎥 누벨바그의 거장, 에릭 로메르 감독전 할인!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🎙️ 할인+10,000캐시와 함께! 웰메이드 미스터리 스릴러, '앵커']]></title>
-        <id>https://serieson.naver.com/events/20192?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20192?productType=movie"/>
-        <updated>2022-05-08T16:05:13.679Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20192?productType=movie" class="" onclick="nclk(this, 'mov.list', '20192', '');">🎙️ 할인+10,000캐시와 함께! 웰메이드 미스터리 스릴러, '앵커'</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[대한민국을 공포에 빠뜨린 충격적 재난! ‘공기살인’ 경품 이벤트]]></title>
