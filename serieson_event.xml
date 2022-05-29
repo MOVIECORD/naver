@@ -2,15 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-05-29T15:03:03.425Z</updated>
+    <updated>2022-05-29T16:04:55.722Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[🦕 쥬라기 월드로 여행을 떠나요~ 특급 쥬라기 패키지 오픈]]></title>
+        <id>https://serieson.naver.com/events/20216?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20216?productType=movie"/>
+        <updated>2022-05-29T16:04:55.036Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20216?productType=movie" class="" onclick="nclk(this, 'mov.list', '20216', '');">🦕 쥬라기 월드로 여행을 떠나요~ 특급 쥬라기 패키지 오픈</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[👨🏻‍✈️갓벽한 제복핏 ‘킹스맨' 콜린 퍼스의 ‘민스미트 작전’ 시리즈온 상륙!]]></title>
         <id>https://serieson.naver.com/events/20209?productType=movie</id>
         <link href="https://serieson.naver.com/events/20209?productType=movie"/>
         <updated>2022-05-24T15:05:30.220Z</updated>
         <content type="html"><![CDATA[<a href="/events/20209?productType=movie" class="" onclick="nclk(this, 'mov.list', '20209', '');">👨🏻‍✈️갓벽한 제복핏 ‘킹스맨' 콜린 퍼스의 ‘민스미트 작전’ 시리즈온 상륙!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[♠️ 지금 '더 배트맨' 보고 DC 굿즈도 받아가자]]></title>
+        <id>https://serieson.naver.com/events/20217?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20217?productType=movie"/>
+        <updated>2022-05-29T16:04:55.048Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20217?productType=movie" class="" onclick="nclk(this, 'mov.list', '20217', '');">♠️ 지금 '더 배트맨' 보고 DC 굿즈도 받아가자</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🏆제 75회 칸 영화제 특집! 꼭 보셨으면 하는 역대 수상작만 쿠폰 선물!]]></title>
+        <id>https://serieson.naver.com/events/20212?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20212?productType=movie"/>
+        <updated>2022-05-25T15:07:32.638Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20212?productType=movie" class="" onclick="nclk(this, 'mov.list', '20212', '');">🏆제 75회 칸 영화제 특집! 꼭 보셨으면 하는 역대 수상작만 쿠폰 선물!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🦇 마블 최강의 안티 히어로! '모비우스' 오픈]]></title>
@@ -25,13 +46,6 @@
         <link href="https://serieson.naver.com/events/20203?productType=movie"/>
         <updated>2022-05-24T02:42:29.987Z</updated>
         <content type="html"><![CDATA[<a href="/events/20203?productType=movie" class="" onclick="nclk(this, 'mov.list', '20203', '');">😎 대환장 코믹 케미스트리! '로스트 시티' 보고 한바탕 웃자</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🏆제 75회 칸 영화제 특집! 꼭 보셨으면 하는 역대 수상작만 쿠폰 선물!]]></title>
-        <id>https://serieson.naver.com/events/20212?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20212?productType=movie"/>
-        <updated>2022-05-25T15:07:32.638Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20212?productType=movie" class="" onclick="nclk(this, 'mov.list', '20212', '');">🏆제 75회 칸 영화제 특집! 꼭 보셨으면 하는 역대 수상작만 쿠폰 선물!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🥳스타일쉐어 X 시리즈온 특급 콜라보 OPEN 귀여움 한도 초과 파자마 입고 집콕 파티하자!]]></title>
