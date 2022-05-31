@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-05-31T00:29:55.915Z</updated>
+    <updated>2022-05-31T02:52:53.225Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[🦕 쥬라기 월드로 여행을 떠나요~ 특급 쥬라기 패키지 오픈 ([시리즈온] 이벤트)]]></title>
@@ -24,6 +24,13 @@
         <link href="https://serieson.naver.com/events/20217?productType=movie"/>
         <updated>2022-05-29T16:04:55.048Z</updated>
         <content type="html"><![CDATA[<a href="/events/20217?productType=movie" class="" onclick="nclk(this, 'mov.list', '20217', '');">♠️ 지금 '더 배트맨' 보고 DC 굿즈도 받아가자</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🔥 영화 좀 본다면 주목! 하마구치 류스케 '우연과 상상' ([시리즈온] 이벤트)]]></title>
+        <id>https://serieson.naver.com/events/20225?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20225?productType=movie"/>
+        <updated>2022-05-31T02:52:52.491Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20225?productType=movie" class="" onclick="nclk(this, 'mov.list', '20225', '');">🔥 영화 좀 본다면 주목! 하마구치 류스케 '우연과 상상'</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[💐 주인공이 INFP라는데요!? '완벽한 축사를 준비하는 방법' ([시리즈온] 이벤트)]]></title>
