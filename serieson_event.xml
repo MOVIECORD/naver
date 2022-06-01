@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-06-01T14:25:49.731Z</updated>
+    <updated>2022-06-01T15:08:14.505Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
     <entry>
@@ -60,13 +60,6 @@
         <link href="https://serieson.naver.com/events/20221?productType=movie"/>
         <updated>2022-05-30T03:00:26.620Z</updated>
         <content type="html"><![CDATA[<a href="/events/20221?productType=movie" class="" onclick="nclk(this, 'mov.list', '20221', '');">💐 주인공이 INFP라는데요!? '완벽한 축사를 준비하는 방법'</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🏆제 75회 칸 영화제 특집! 꼭 보셨으면 하는 역대 수상작만 쿠폰 선물!]]></title>
-        <id>https://serieson.naver.com/events/20212?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20212?productType=movie"/>
-        <updated>2022-05-25T15:07:32.638Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20212?productType=movie" class="" onclick="nclk(this, 'mov.list', '20212', '');">🏆제 75회 칸 영화제 특집! 꼭 보셨으면 하는 역대 수상작만 쿠폰 선물!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[😎 대환장 코믹 케미스트리! '로스트 시티' 보고 한바탕 웃자]]></title>
