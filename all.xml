@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-06-01T23:04:09.006Z</updated>
+    <updated>2022-06-02T00:36:03.721Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[🦊 드림웍스의 쫄깃한 범죄액션 블록버스터 '배드 가이즈'보면 3천 캐시 100% BACK! ([시리즈온] 이벤트)]]></title>
@@ -52,6 +52,13 @@
         <link href="https://serieson.naver.com/events/20225?productType=movie"/>
         <updated>2022-05-31T02:52:52.491Z</updated>
         <content type="html"><![CDATA[<a href="/events/20225?productType=movie" class="" onclick="nclk(this, 'mov.list', '20225', '');">🔥 영화 좀 본다면 주목! 하마구치 류스케 '우연과 상상'</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🚪 감금 72시간 째, 반드시 탈출해야 한다! ‘셧 인’ 보고 요기요 상품권 받아가세요~ ([시리즈온] 이벤트)]]></title>
+        <id>https://serieson.naver.com/events/20223?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20223?productType=movie"/>
+        <updated>2022-06-02T00:36:03.019Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20223?productType=movie" class="" onclick="nclk(this, 'mov.list', '20223', '');">🚪 감금 72시간 째, 반드시 탈출해야 한다! ‘셧 인’ 보고 요기요 상품권 받아가세요~</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[💐 주인공이 INFP라는데요!? '완벽한 축사를 준비하는 방법' ([시리즈온] 이벤트)]]></title>
