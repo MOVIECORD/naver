@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-06-06T14:02:54.002Z</updated>
+    <updated>2022-06-06T15:02:54.765Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[🦊 드림웍스의 쫄깃한 범죄액션 블록버스터 '배드 가이즈'보면 3천 캐시 100% BACK! ([시리즈온] 이벤트)]]></title>
@@ -87,13 +87,6 @@
         <link href="https://serieson.naver.com/events/20203?productType=movie"/>
         <updated>2022-05-24T02:42:29.987Z</updated>
         <content type="html"><![CDATA[<a href="/events/20203?productType=movie" class="" onclick="nclk(this, 'mov.list', '20203', '');">😎 대환장 코믹 케미스트리! '로스트 시티' 보고 한바탕 웃자</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🥳스타일쉐어 X 시리즈온 특급 콜라보 OPEN 귀여움 한도 초과 파자마 입고 집콕 파티하자! ([시리즈온] 이벤트)]]></title>
-        <id>https://serieson.naver.com/events/20206?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20206?productType=movie"/>
-        <updated>2022-05-24T02:42:29.991Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20206?productType=movie" class="" onclick="nclk(this, 'mov.list', '20206', '');">🥳스타일쉐어 X 시리즈온 특급 콜라보 OPEN 귀여움 한도 초과 파자마 입고 집콕 파티하자!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[✅ 아직 네플멤 쿠폰 안 쓰셨다면? 이번 달은 이 영화 어때요? ([시리즈온] 이벤트)]]></title>
