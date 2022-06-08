@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-06-08T20:03:27.139Z</updated>
+    <updated>2022-06-08T21:03:11.965Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[🦊 드림웍스의 쫄깃한 범죄액션 블록버스터 '배드 가이즈'보면 3천 캐시 100% BACK! ([시리즈온] 이벤트)]]></title>
@@ -31,6 +31,13 @@
         <link href="https://serieson.naver.com/events/20216?productType=movie"/>
         <updated>2022-05-29T16:04:55.036Z</updated>
         <content type="html"><![CDATA[<a href="/events/20216?productType=movie" class="" onclick="nclk(this, 'mov.list', '20216', '');">🦕 쥬라기 월드로 여행을 떠나요~ 특급 쥬라기 패키지 오픈</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[💊 하루하루 버텨내며 살아가는 당신을 위한 힐링무비, '안녕하세요' ([시리즈온] 이벤트)]]></title>
+        <id>https://serieson.naver.com/events/20235?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20235?productType=movie"/>
+        <updated>2022-06-08T21:03:11.333Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20235?productType=movie" class="" onclick="nclk(this, 'mov.list', '20235', '');">💊 하루하루 버텨내며 살아가는 당신을 위한 힐링무비, '안녕하세요'</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[😎 지금 톰 크루즈 필모 보면 '탑건: 매버릭' 예매권 선물이! ([시리즈온] 이벤트)]]></title>
