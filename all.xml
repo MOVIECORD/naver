@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-06-15T03:01:43.760Z</updated>
+    <updated>2022-06-15T03:57:14.623Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[👨‍👧 서현진, 안성기 주연의 '카시오페아', 소중한 사람을 떠올려 보세요! ([시리즈온] 이벤트)]]></title>
@@ -59,13 +59,6 @@
         <link href="https://serieson.naver.com/events/20221?productType=movie"/>
         <updated>2022-05-30T03:00:26.620Z</updated>
         <content type="html"><![CDATA[<a href="/events/20221?productType=movie" class="" onclick="nclk(this, 'mov.list', '20221', '');">💐 주인공이 INFP라는데요!? '완벽한 축사를 준비하는 방법'</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[✅ 아직 네플멤 쿠폰 안 쓰셨다면? 이번 달은 이 영화 어때요? ([시리즈온] 이벤트)]]></title>
-        <id>https://serieson.naver.com/events/20211?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20211?productType=movie"/>
-        <updated>2022-05-25T02:57:59.708Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20211?productType=movie" class="" onclick="nclk(this, 'mov.list', '20211', '');">✅ 아직 네플멤 쿠폰 안 쓰셨다면? 이번 달은 이 영화 어때요?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[22년 6월 우수 이용자! 꼭 확인해보자! ([시리즈온] 이벤트)]]></title>
