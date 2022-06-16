@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-06-16T14:02:44.296Z</updated>
+    <updated>2022-06-16T15:03:04.053Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://serieson.naver.com/events/20239?productType=movie"/>
         <updated>2022-06-14T03:05:11.676Z</updated>
         <content type="html"><![CDATA[<a href="/events/20239?productType=movie" class="" onclick="nclk(this, 'mov.list', '20239', '');">👨‍👧 서현진, 안성기 주연의 '카시오페아', 소중한 사람을 떠올려 보세요!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🏆 상반기 가장 사랑 받은 영화는? 시리즈온 영화 올스타전 시작!]]></title>
+        <id>https://serieson.naver.com/events/20242?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20242?productType=movie"/>
+        <updated>2022-06-16T15:03:03.351Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20242?productType=movie" class="" onclick="nclk(this, 'mov.list', '20242', '');">🏆 상반기 가장 사랑 받은 영화는? 시리즈온 영화 올스타전 시작!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[💊 하루하루 버텨내며 살아가는 당신을 위한 힐링무비, '안녕하세요']]></title>
