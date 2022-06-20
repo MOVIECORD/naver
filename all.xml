@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-06-20T14:07:03.389Z</updated>
+    <updated>2022-06-20T15:03:23.118Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[👨‍👧 서현진, 안성기 주연의 '카시오페아', 소중한 사람을 떠올려 보세요! ([시리즈온] 이벤트)]]></title>
@@ -31,13 +31,6 @@
         <link href="https://serieson.naver.com/events/20235?productType=movie"/>
         <updated>2022-06-08T21:03:11.333Z</updated>
         <content type="html"><![CDATA[<a href="/events/20235?productType=movie" class="" onclick="nclk(this, 'mov.list', '20235', '');">💊 하루하루 버텨내며 살아가는 당신을 위한 힐링무비, '안녕하세요'</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🩸 이완 X 조동혁의 쫄깃한 하드보일드 액션 ‘피는 물보다 진하다’ 보고 치킨 받아가세요~ ([시리즈온] 이벤트)]]></title>
-        <id>https://serieson.naver.com/events/20232?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20232?productType=movie"/>
-        <updated>2022-06-07T02:46:21.340Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20232?productType=movie" class="" onclick="nclk(this, 'mov.list', '20232', '');">🩸 이완 X 조동혁의 쫄깃한 하드보일드 액션 ‘피는 물보다 진하다’ 보고 치킨 받아가세요~</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🎊 시리즈온 ONLY! "I AM" 시리즈 오픈 기념 이벤트 ([시리즈온] 이벤트)]]></title>
