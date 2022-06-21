@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-06-21T15:07:49.443Z</updated>
+    <updated>2022-06-21T16:08:51.143Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[😎 '닥터스트레인지: 대혼돈의 멀티버스' 시리즈온 OPEN ([시리즈온] 이벤트)]]></title>
+        <id>https://serieson.naver.com/events/20237?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20237?productType=movie"/>
+        <updated>2022-06-21T16:08:50.522Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20237?productType=movie" class="" onclick="nclk(this, 'mov.list', '20237', '');">😎 '닥터스트레인지: 대혼돈의 멀티버스' 시리즈온 OPEN</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[👨‍👧 서현진, 안성기 주연의 '카시오페아', 소중한 사람을 떠올려 보세요! ([시리즈온] 이벤트)]]></title>
         <id>https://serieson.naver.com/events/20239?productType=movie</id>
