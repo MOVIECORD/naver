@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-06-22T17:17:58.760Z</updated>
+    <updated>2022-06-22T18:12:26.200Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[😎 '닥터스트레인지: 대혼돈의 멀티버스' 시리즈온 OPEN ([시리즈온] 이벤트)]]></title>
@@ -26,18 +26,18 @@
         <content type="html"><![CDATA[<a href="/events/20244?productType=movie" class="" onclick="nclk(this, 'mov.list', '20244', '');">🏫 대환장 약.육.강.식 학교 생존기! 살벌한 아부 전쟁 ‘아부쟁이’ 경품 이벤트</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[🖤 두 거장이 선사하는 찐~한 프렌치 로맨스 '파리 13구' 굿즈 이벤트 오픈! ([시리즈온] 이벤트)]]></title>
-        <id>https://serieson.naver.com/events/20245?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20245?productType=movie"/>
-        <updated>2022-06-22T17:17:58.026Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20245?productType=movie" class="" onclick="nclk(this, 'mov.list', '20245', '');">🖤 두 거장이 선사하는 찐~한 프렌치 로맨스 '파리 13구' 굿즈 이벤트 오픈!</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[🏆 상반기 가장 사랑 받은 영화는? 시리즈온 영화 올스타전 시작! ([시리즈온] 이벤트)]]></title>
         <id>https://serieson.naver.com/events/20242?productType=movie</id>
         <link href="https://serieson.naver.com/events/20242?productType=movie"/>
         <updated>2022-06-16T15:03:03.351Z</updated>
         <content type="html"><![CDATA[<a href="/events/20242?productType=movie" class="" onclick="nclk(this, 'mov.list', '20242', '');">🏆 상반기 가장 사랑 받은 영화는? 시리즈온 영화 올스타전 시작!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🖤 두 거장이 선사하는 찐~한 프렌치 로맨스 '파리 13구' 굿즈 이벤트 오픈! ([시리즈온] 이벤트)]]></title>
+        <id>https://serieson.naver.com/events/20245?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20245?productType=movie"/>
+        <updated>2022-06-22T17:17:58.026Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20245?productType=movie" class="" onclick="nclk(this, 'mov.list', '20245', '');">🖤 두 거장이 선사하는 찐~한 프렌치 로맨스 '파리 13구' 굿즈 이벤트 오픈!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🎊 시리즈온 ONLY! "I AM" 시리즈 오픈 기념 이벤트 ([시리즈온] 이벤트)]]></title>
