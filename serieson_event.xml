@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-06-22T14:07:55.681Z</updated>
+    <updated>2022-06-22T15:03:38.612Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
     <entry>
@@ -32,20 +32,6 @@
         <link href="https://serieson.naver.com/events/20242?productType=movie"/>
         <updated>2022-06-16T15:03:03.351Z</updated>
         <content type="html"><![CDATA[<a href="/events/20242?productType=movie" class="" onclick="nclk(this, 'mov.list', '20242', '');">🏆 상반기 가장 사랑 받은 영화는? 시리즈온 영화 올스타전 시작!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[✨ 미라맥스 갓띵작! 아직 안 보신 분 계신가요?]]></title>
-        <id>https://serieson.naver.com/events/20240?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20240?productType=movie"/>
-        <updated>2022-06-15T16:09:24.655Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20240?productType=movie" class="" onclick="nclk(this, 'mov.list', '20240', '');">✨ 미라맥스 갓띵작! 아직 안 보신 분 계신가요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[💊 하루하루 버텨내며 살아가는 당신을 위한 힐링무비, '안녕하세요']]></title>
-        <id>https://serieson.naver.com/events/20235?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20235?productType=movie"/>
-        <updated>2022-06-08T21:03:11.333Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20235?productType=movie" class="" onclick="nclk(this, 'mov.list', '20235', '');">💊 하루하루 버텨내며 살아가는 당신을 위한 힐링무비, '안녕하세요'</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🎊 시리즈온 ONLY! "I AM" 시리즈 오픈 기념 이벤트]]></title>
