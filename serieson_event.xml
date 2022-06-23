@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-06-23T04:22:54.101Z</updated>
+    <updated>2022-06-23T05:13:59.613Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://serieson.naver.com/events/20239?productType=movie"/>
         <updated>2022-06-14T03:05:11.676Z</updated>
         <content type="html"><![CDATA[<a href="/events/20239?productType=movie" class="" onclick="nclk(this, 'mov.list', '20239', '');">👨‍👧 서현진, 안성기 주연의 '카시오페아', 소중한 사람을 떠올려 보세요!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[💤 열대야의 시작, 올타임 레전드 영화 할인과 함께!]]></title>
+        <id>https://serieson.naver.com/events/20246?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20246?productType=movie"/>
+        <updated>2022-06-23T05:13:59.039Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20246?productType=movie" class="" onclick="nclk(this, 'mov.list', '20246', '');">💤 열대야의 시작, 올타임 레전드 영화 할인과 함께!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🏫 대환장 약.육.강.식 학교 생존기! 살벌한 아부 전쟁 ‘아부쟁이’ 경품 이벤트]]></title>
