@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-06-23T14:02:58.073Z</updated>
+    <updated>2022-06-23T15:06:48.620Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[😎 '닥터스트레인지: 대혼돈의 멀티버스' 시리즈온 OPEN ([시리즈온] 이벤트)]]></title>
@@ -12,18 +12,25 @@
         <content type="html"><![CDATA[<a href="/events/20237?productType=movie" class="" onclick="nclk(this, 'mov.list', '20237', '');">😎 '닥터스트레인지: 대혼돈의 멀티버스' 시리즈온 OPEN</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[👨‍👧 서현진, 안성기 주연의 '카시오페아', 소중한 사람을 떠올려 보세요! ([시리즈온] 이벤트)]]></title>
-        <id>https://serieson.naver.com/events/20239?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20239?productType=movie"/>
-        <updated>2022-06-14T03:05:11.676Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20239?productType=movie" class="" onclick="nclk(this, 'mov.list', '20239', '');">👨‍👧 서현진, 안성기 주연의 '카시오페아', 소중한 사람을 떠올려 보세요!</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[💤 열대야의 시작, 올타임 레전드 영화 할인과 함께! ([시리즈온] 이벤트)]]></title>
         <id>https://serieson.naver.com/events/20246?productType=movie</id>
         <link href="https://serieson.naver.com/events/20246?productType=movie"/>
         <updated>2022-06-23T05:13:59.039Z</updated>
         <content type="html"><![CDATA[<a href="/events/20246?productType=movie" class="" onclick="nclk(this, 'mov.list', '20246', '');">💤 열대야의 시작, 올타임 레전드 영화 할인과 함께!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[⛱️ 전용 쿠폰과 함께 떠나요 씨네바캉스! 여름마다 재탕하는 영화만 모아모아! ([시리즈온] 이벤트)]]></title>
+        <id>https://serieson.naver.com/events/20241?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20241?productType=movie"/>
+        <updated>2022-06-23T15:06:48.075Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20241?productType=movie" class="" onclick="nclk(this, 'mov.list', '20241', '');">⛱️ 전용 쿠폰과 함께 떠나요 씨네바캉스! 여름마다 재탕하는 영화만 모아모아!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[👨‍👧 서현진, 안성기 주연의 '카시오페아', 소중한 사람을 떠올려 보세요! ([시리즈온] 이벤트)]]></title>
+        <id>https://serieson.naver.com/events/20239?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20239?productType=movie"/>
+        <updated>2022-06-14T03:05:11.676Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20239?productType=movie" class="" onclick="nclk(this, 'mov.list', '20239', '');">👨‍👧 서현진, 안성기 주연의 '카시오페아', 소중한 사람을 떠올려 보세요!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🏫 대환장 약.육.강.식 학교 생존기! 살벌한 아부 전쟁 ‘아부쟁이’ 경품 이벤트 ([시리즈온] 이벤트)]]></title>
@@ -52,13 +59,6 @@
         <link href="https://serieson.naver.com/events/20234?productType=movie"/>
         <updated>2022-06-07T02:46:21.327Z</updated>
         <content type="html"><![CDATA[<a href="/events/20234?productType=movie" class="" onclick="nclk(this, 'mov.list', '20234', '');">🎊 시리즈온 ONLY! "I AM" 시리즈 오픈 기념 이벤트</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🔠 영어 잘 하는 법 지금 풀어DREAM 시리즈온 특급 추천 영어자막 영화 지금 확인! ([시리즈온] 이벤트)]]></title>
-        <id>https://serieson.naver.com/events/20236?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20236?productType=movie"/>
-        <updated>2022-06-09T16:08:18.218Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20236?productType=movie" class="" onclick="nclk(this, 'mov.list', '20236', '');">🔠 영어 잘 하는 법 지금 풀어DREAM 시리즈온 특급 추천 영어자막 영화 지금 확인!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[✅ 아직 네플멤 쿠폰 안 쓰셨다면? 이번 달은 이 영화 어때요? ([시리즈온] 이벤트)]]></title>
