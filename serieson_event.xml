@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-06-27T09:03:18.933Z</updated>
+    <updated>2022-06-27T10:03:37.558Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
     <entry>
@@ -32,6 +32,13 @@
         <link href="https://serieson.naver.com/events/20241?productType=movie"/>
         <updated>2022-06-23T15:06:48.075Z</updated>
         <content type="html"><![CDATA[<a href="/events/20241?productType=movie" class="" onclick="nclk(this, 'mov.list', '20241', '');">⛱️ 전용 쿠폰과 함께 떠나요 씨네바캉스! 여름마다 재탕하는 영화만 모아모아!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🌹 아름다운 장미 보고가세요! '베르네 부인의 장미정원' 경품+할인]]></title>
+        <id>https://serieson.naver.com/events/20250?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20250?productType=movie"/>
+        <updated>2022-06-27T10:03:36.980Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20250?productType=movie" class="" onclick="nclk(this, 'mov.list', '20250', '');">🌹 아름다운 장미 보고가세요! '베르네 부인의 장미정원' 경품+할인</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[👨‍👧 서현진, 안성기 주연의 '카시오페아', 소중한 사람을 떠올려 보세요!]]></title>
