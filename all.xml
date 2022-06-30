@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-06-30T14:02:48.306Z</updated>
+    <updated>2022-06-30T15:03:16.726Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[👶 '브로커' 오늘부터 딱 4일! 일요일까지 예약구매 ([시리즈온] 이벤트)]]></title>
@@ -68,17 +68,10 @@
         <content type="html"><![CDATA[<a href="/events/20245?productType=movie" class="" onclick="nclk(this, 'mov.list', '20245', '');">🖤 두 거장이 선사하는 찐~한 프렌치 로맨스 '파리 13구' 굿즈 이벤트 오픈!</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[✅ 아직 네플멤 쿠폰 안 쓰셨다면? 이번 달은 이 영화 어때요? ([시리즈온] 이벤트)]]></title>
-        <id>https://serieson.naver.com/events/20211?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20211?productType=movie"/>
-        <updated>2022-06-20T02:47:59.819Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20211?productType=movie" class="" onclick="nclk(this, 'mov.list', '20211', '');">✅ 아직 네플멤 쿠폰 안 쓰셨다면? 이번 달은 이 영화 어때요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[22년 6월 우수 이용자! 꼭 확인해보자! ([시리즈온] 이벤트)]]></title>
-        <id>https://serieson.naver.com/events/20227?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20227?productType=movie"/>
-        <updated>2022-05-31T15:05:35.523Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20227?productType=movie" class="" onclick="nclk(this, 'mov.list', '20227', '');">22년 6월 우수 이용자! 꼭 확인해보자!</a>]]></content>
+        <title type="html"><![CDATA[22년 7월 우수 이용자! 꼭 확인해보자! ([시리즈온] 이벤트)]]></title>
+        <id>https://serieson.naver.com/events/20254?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20254?productType=movie"/>
+        <updated>2022-06-30T15:03:16.140Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20254?productType=movie" class="" onclick="nclk(this, 'mov.list', '20254', '');">22년 7월 우수 이용자! 꼭 확인해보자!</a>]]></content>
     </entry>
 </feed>
