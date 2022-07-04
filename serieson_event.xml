@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-07-04T07:04:06.986Z</updated>
+    <updated>2022-07-04T08:09:00.319Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
     <entry>
@@ -25,13 +25,6 @@
         <link href="https://serieson.naver.com/events/20247?productType=movie"/>
         <updated>2022-06-26T15:02:42.237Z</updated>
         <content type="html"><![CDATA[<a href="/events/20247?productType=movie" class="" onclick="nclk(this, 'mov.list', '20247', '');">🎁 '수퍼 소닉 2' 보면 다이슨 '수퍼소닉'을 '로스트 시티'보면 스탠리 캠핑세트를 드려요!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🧹 '마녀2' 극장에서 핫한 그 영화! 예약구매 시작합니다!]]></title>
-        <id>https://serieson.naver.com/events/20257?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20257?productType=movie"/>
-        <updated>2022-07-04T06:09:46.579Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20257?productType=movie" class="" onclick="nclk(this, 'mov.list', '20257', '');">🧹 '마녀2' 극장에서 핫한 그 영화! 예약구매 시작합니다! </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[💤 열대야의 시작, 올타임 레전드 영화 할인과 함께!]]></title>
