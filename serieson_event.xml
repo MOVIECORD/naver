@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-07-04T03:09:07.239Z</updated>
+    <updated>2022-07-04T04:36:47.407Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[🍼 '브로커' 오픈! 할인해줘서 고마워!]]></title>
+        <id>https://serieson.naver.com/events/20256?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20256?productType=movie"/>
+        <updated>2022-07-04T04:36:46.842Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20256?productType=movie" class="" onclick="nclk(this, 'mov.list', '20256', '');">🍼 '브로커' 오픈! 할인해줘서 고마워!</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[😎 '닥터스트레인지: 대혼돈의 멀티버스' 시리즈온 OPEN]]></title>
         <id>https://serieson.naver.com/events/20237?productType=movie</id>
