@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-07-05T15:03:45.161Z</updated>
+    <updated>2022-07-05T16:07:53.809Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[🦖지상 최대 블록버스터의 압도적 피날레! '쥬라기월드: 도미니언' 시리즈온 개장!]]></title>
+        <id>https://serieson.naver.com/events/20258?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20258?productType=movie"/>
+        <updated>2022-07-05T16:07:53.121Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20258?productType=movie" class="" onclick="nclk(this, 'mov.list', '20258', '');">🦖지상 최대 블록버스터의 압도적 피날레! '쥬라기월드: 도미니언' 시리즈온 개장!</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🍼 '브로커' 오픈! 할인해줘서 고마워!]]></title>
         <id>https://serieson.naver.com/events/20256?productType=movie</id>
@@ -46,5 +53,12 @@
         <link href="https://serieson.naver.com/events/20254?productType=movie"/>
         <updated>2022-06-30T15:03:16.140Z</updated>
         <content type="html"><![CDATA[<a href="/events/20254?productType=movie" class="" onclick="nclk(this, 'mov.list', '20254', '');">22년 7월 우수 이용자! 꼭 확인해보자!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[✅ 아직 네플멤 쿠폰 안 쓰셨다면? 이번 달은 이 영화 어때요?]]></title>
+        <id>https://serieson.naver.com/events/20211?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20211?productType=movie"/>
+        <updated>2022-07-05T16:07:53.130Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20211?productType=movie" class="" onclick="nclk(this, 'mov.list', '20211', '');">✅ 아직 네플멤 쿠폰 안 쓰셨다면? 이번 달은 이 영화 어때요?</a>]]></content>
     </entry>
 </feed>
