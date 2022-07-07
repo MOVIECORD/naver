@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-07-07T05:18:22.295Z</updated>
+    <updated>2022-07-07T06:08:08.703Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
     <entry>
@@ -32,6 +32,13 @@
         <link href="https://serieson.naver.com/events/20250?productType=movie"/>
         <updated>2022-06-27T10:03:36.980Z</updated>
         <content type="html"><![CDATA[<a href="/events/20250?productType=movie" class="" onclick="nclk(this, 'mov.list', '20250', '');">🌹 아름다운 장미 보고가세요! '베르네 부인의 장미정원' 경품+할인</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🔥 열대야를 책임질 HOT한 영화 반값 할인!]]></title>
+        <id>https://serieson.naver.com/events/20259?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20259?productType=movie"/>
+        <updated>2022-07-07T06:08:08.141Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20259?productType=movie" class="" onclick="nclk(this, 'mov.list', '20259', '');">🔥 열대야를 책임질 HOT한 영화 반값 할인!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[22년 7월 우수 이용자! 꼭 확인해보자!]]></title>
