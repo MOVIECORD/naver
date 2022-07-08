@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-07-08T03:03:52.217Z</updated>
+    <updated>2022-07-08T04:28:31.438Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[🧹 '마녀2' 예약구매 시작합니다!]]></title>
+        <id>https://serieson.naver.com/events/20257?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20257?productType=movie"/>
+        <updated>2022-07-08T04:28:30.814Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20257?productType=movie" class="" onclick="nclk(this, 'mov.list', '20257', '');">🧹 '마녀2' 예약구매 시작합니다!</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🦖지상 최대 블록버스터의 압도적 피날레! '쥬라기월드: 도미니언' 시리즈온 개장!]]></title>
         <id>https://serieson.naver.com/events/20258?productType=movie</id>
