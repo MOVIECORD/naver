@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-07-11T03:01:12.684Z</updated>
+    <updated>2022-07-11T03:55:27.781Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[🎁 네이버 멤버십 영화 무제한을 소개합니다! ([시리즈온] 이벤트)]]></title>
+        <id>https://serieson.naver.com/events/20260?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20260?productType=movie"/>
+        <updated>2022-07-11T03:55:27.223Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20260?productType=movie" class="" onclick="nclk(this, 'mov.list', '20260', '');">🎁 네이버 멤버십 영화 무제한을 소개합니다!</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🧹 '마녀2' 예약구매 시작합니다! ([시리즈온] 이벤트)]]></title>
         <id>https://serieson.naver.com/events/20257?productType=movie</id>
