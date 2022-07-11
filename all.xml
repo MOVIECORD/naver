@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-07-11T14:10:32.928Z</updated>
+    <updated>2022-07-11T15:03:26.798Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[🧹 '마녀2' 예약구매 시작합니다! ([시리즈온] 이벤트)]]></title>
@@ -17,6 +17,13 @@
         <link href="https://serieson.naver.com/events/20258?productType=movie"/>
         <updated>2022-07-05T16:07:53.121Z</updated>
         <content type="html"><![CDATA[<a href="/events/20258?productType=movie" class="" onclick="nclk(this, 'mov.list', '20258', '');">🦖지상 최대 블록버스터의 압도적 피날레! '쥬라기월드: 도미니언' 시리즈온 개장!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[😎 데드풀 제작진 X 니콜라스 케이지의 대환장 브로맨스 '미친 능력' ([시리즈온] 이벤트)]]></title>
+        <id>https://serieson.naver.com/events/20261?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20261?productType=movie"/>
+        <updated>2022-07-11T15:03:26.186Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20261?productType=movie" class="" onclick="nclk(this, 'mov.list', '20261', '');">😎 데드풀 제작진 X 니콜라스 케이지의 대환장 브로맨스 '미친 능력'</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🎁 네이버 멤버십 영화 무제한을 소개합니다! ([시리즈온] 이벤트)]]></title>
