@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-07-13T15:03:05.552Z</updated>
+    <updated>2022-07-13T16:05:44.851Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[🧙‍♀️ 마녀 아가씨, 오랜만이네?]]></title>
+        <id>https://serieson.naver.com/events/20264?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20264?productType=movie"/>
+        <updated>2022-07-13T16:05:44.239Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20264?productType=movie" class="" onclick="nclk(this, 'mov.list', '20264', '');">🧙‍♀️ 마녀 아가씨, 오랜만이네?</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🦖지상 최대 블록버스터의 압도적 피날레! '쥬라기월드: 도미니언' 시리즈온 개장!]]></title>
         <id>https://serieson.naver.com/events/20258?productType=movie</id>
