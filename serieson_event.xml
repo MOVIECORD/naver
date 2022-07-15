@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-07-15T00:37:11.064Z</updated>
+    <updated>2022-07-15T03:13:19.079Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[👊 올해 최초 천만 돌파 그 영화 ‘범죄도시 2’ 4천 캐시와 함께 예약 구매 시작!]]></title>
+        <id>https://serieson.naver.com/events/20265?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20265?productType=movie"/>
+        <updated>2022-07-15T03:13:18.380Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20265?productType=movie" class="" onclick="nclk(this, 'mov.list', '20265', '');">👊 올해 최초 천만 돌파 그 영화 ‘범죄도시 2’ 4천 캐시와 함께 예약 구매 시작! </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🧙‍♀️ 마녀 아가씨, 오랜만이네?]]></title>
         <id>https://serieson.naver.com/events/20264?productType=movie</id>
