@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-07-19T15:03:52.573Z</updated>
+    <updated>2022-07-19T16:05:45.507Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[👊 올해 최초 천만 돌파 그 영화 ‘범죄도시 2’ 4천 캐시와 함께 예약 구매 시작!]]></title>
+        <title type="html"><![CDATA[👊 업그레이드된 말맛 & 손맛으로 더 시원하게 터지는 ‘범죄도시2’]]></title>
         <id>https://serieson.naver.com/events/20265?productType=movie</id>
         <link href="https://serieson.naver.com/events/20265?productType=movie"/>
         <updated>2022-07-18T03:03:38.215Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20265?productType=movie" class="" onclick="nclk(this, 'mov.list', '20265', '');">👊 올해 최초 천만 돌파 그 영화 ‘범죄도시 2’ 4천 캐시와 함께 예약 구매 시작! </a>]]></content>
+        <content type="html"><![CDATA[<a href="/events/20265?productType=movie" class="" onclick="nclk(this, 'mov.list', '20265', '');">👊 업그레이드된 말맛 &amp; 손맛으로 더 시원하게 터지는 ‘범죄도시2’ </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🧙‍♀️ 마녀 아가씨, 오랜만이네?]]></title>
@@ -18,6 +18,13 @@
         <link href="https://serieson.naver.com/events/20264?productType=movie"/>
         <updated>2022-07-13T16:05:44.239Z</updated>
         <content type="html"><![CDATA[<a href="/events/20264?productType=movie" class="" onclick="nclk(this, 'mov.list', '20264', '');">🧙‍♀️ 마녀 아가씨, 오랜만이네?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[😎 담당자 PICK! 이왕이면 시리즈 한 번에 소장하자!]]></title>
+        <id>https://serieson.naver.com/events/20266?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20266?productType=movie"/>
+        <updated>2022-07-19T16:05:44.743Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20266?productType=movie" class="" onclick="nclk(this, 'mov.list', '20266', '');">😎 담당자 PICK! 이왕이면 시리즈 한 번에 소장하자!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[👰🏻 HBO MAX 1위 찍은 그 작품의 국내 최초 공개! 현대판 로미오와 줄리엣 ‘신부의 아버지’]]></title>
@@ -34,13 +41,6 @@
         <content type="html"><![CDATA[<a href="/events/20256?productType=movie" class="" onclick="nclk(this, 'mov.list', '20256', '');">🍼 '브로커' 오픈! 할인해줘서 고마워!</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[😎 데드풀 제작진 X 니콜라스 케이지의 대환장 브로맨스 '미친 능력']]></title>
-        <id>https://serieson.naver.com/events/20261?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20261?productType=movie"/>
-        <updated>2022-07-11T15:03:26.186Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20261?productType=movie" class="" onclick="nclk(this, 'mov.list', '20261', '');">😎 데드풀 제작진 X 니콜라스 케이지의 대환장 브로맨스 '미친 능력'</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[🎁 네이버 멤버십 영화 무제한을 소개합니다!]]></title>
         <id>https://serieson.naver.com/events/20260?productType=movie</id>
         <link href="https://serieson.naver.com/events/20260?productType=movie"/>
@@ -48,11 +48,25 @@
         <content type="html"><![CDATA[<a href="/events/20260?productType=movie" class="" onclick="nclk(this, 'mov.list', '20260', '');">🎁 네이버 멤버십 영화 무제한을 소개합니다!</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[😎 데드풀 제작진 X 니콜라스 케이지의 대환장 브로맨스 '미친 능력']]></title>
+        <id>https://serieson.naver.com/events/20261?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20261?productType=movie"/>
+        <updated>2022-07-11T15:03:26.186Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20261?productType=movie" class="" onclick="nclk(this, 'mov.list', '20261', '');">😎 데드풀 제작진 X 니콜라스 케이지의 대환장 브로맨스 '미친 능력'</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[🔥 열대야를 책임질 HOT한 영화 반값 할인!]]></title>
         <id>https://serieson.naver.com/events/20259?productType=movie</id>
         <link href="https://serieson.naver.com/events/20259?productType=movie"/>
         <updated>2022-07-07T06:08:08.141Z</updated>
         <content type="html"><![CDATA[<a href="/events/20259?productType=movie" class="" onclick="nclk(this, 'mov.list', '20259', '');">🔥 열대야를 책임질 HOT한 영화 반값 할인!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[✅최신 영화 최고 혜택으로 보는 꿀팁! 네이버 플러스 멤버십]]></title>
+        <id>https://serieson.naver.com/events/20268?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20268?productType=movie"/>
+        <updated>2022-07-19T16:05:44.751Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20268?productType=movie" class="" onclick="nclk(this, 'mov.list', '20268', '');">✅최신 영화 최고 혜택으로 보는 꿀팁! 네이버 플러스 멤버십</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[22년 7월 우수 이용자! 꼭 확인해보자!]]></title>
