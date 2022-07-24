@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-07-24T14:02:53.292Z</updated>
+    <updated>2022-07-24T15:03:14.760Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
     <entry>
@@ -32,13 +32,6 @@
         <link href="https://serieson.naver.com/events/20262?productType=movie"/>
         <updated>2022-07-12T16:09:22.184Z</updated>
         <content type="html"><![CDATA[<a href="/events/20262?productType=movie" class="" onclick="nclk(this, 'mov.list', '20262', '');">👰🏻 HBO MAX 1위 찍은 그 작품의 국내 최초 공개! 현대판 로미오와 줄리엣 ‘신부의 아버지’</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🍼 '브로커' 오픈! 할인해줘서 고마워!]]></title>
-        <id>https://serieson.naver.com/events/20256?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20256?productType=movie"/>
-        <updated>2022-07-04T04:36:46.842Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20256?productType=movie" class="" onclick="nclk(this, 'mov.list', '20256', '');">🍼 '브로커' 오픈! 할인해줘서 고마워!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🎁 네이버 멤버십 영화 무제한을 소개합니다!]]></title>
