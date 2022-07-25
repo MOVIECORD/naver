@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-07-25T14:14:17.416Z</updated>
+    <updated>2022-07-25T15:03:20.465Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
     <entry>
@@ -39,13 +39,6 @@
         <link href="https://serieson.naver.com/events/20260?productType=movie"/>
         <updated>2022-07-11T03:55:27.223Z</updated>
         <content type="html"><![CDATA[<a href="/events/20260?productType=movie" class="" onclick="nclk(this, 'mov.list', '20260', '');">🎁 네이버 멤버십 영화 무제한을 소개합니다!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[😎 데드풀 제작진 X 니콜라스 케이지의 대환장 브로맨스 '미친 능력']]></title>
-        <id>https://serieson.naver.com/events/20261?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20261?productType=movie"/>
-        <updated>2022-07-11T15:03:26.186Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20261?productType=movie" class="" onclick="nclk(this, 'mov.list', '20261', '');">😎 데드풀 제작진 X 니콜라스 케이지의 대환장 브로맨스 '미친 능력'</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[✅최신 영화 최고 혜택으로 보는 꿀팁! 네이버 플러스 멤버십]]></title>
