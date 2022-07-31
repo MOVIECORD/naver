@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-07-31T14:02:30.280Z</updated>
+    <updated>2022-07-31T15:03:10.523Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[👊 업그레이드된 말맛 & 손맛으로 더 시원하게 터지는 ‘범죄도시2’ ([시리즈온] 이벤트)]]></title>
@@ -59,12 +59,5 @@
         <link href="https://serieson.naver.com/events/20268?productType=movie"/>
         <updated>2022-07-19T16:05:44.751Z</updated>
         <content type="html"><![CDATA[<a href="/events/20268?productType=movie" class="" onclick="nclk(this, 'mov.list', '20268', '');">✅최신 영화 최고 혜택으로 보는 꿀팁! 네이버 플러스 멤버십</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[22년 7월 우수 이용자! 꼭 확인해보자! ([시리즈온] 이벤트)]]></title>
-        <id>https://serieson.naver.com/events/20254?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20254?productType=movie"/>
-        <updated>2022-06-30T15:03:16.140Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20254?productType=movie" class="" onclick="nclk(this, 'mov.list', '20254', '');">22년 7월 우수 이용자! 꼭 확인해보자!</a>]]></content>
     </entry>
 </feed>
