@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-08-01T00:38:08.196Z</updated>
+    <updated>2022-08-01T03:21:27.443Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
     <entry>
@@ -60,5 +60,12 @@
         <link href="https://serieson.naver.com/events/20268?productType=movie"/>
         <updated>2022-07-19T16:05:44.751Z</updated>
         <content type="html"><![CDATA[<a href="/events/20268?productType=movie" class="" onclick="nclk(this, 'mov.list', '20268', '');">✅최신 영화 최고 혜택으로 보는 꿀팁! 네이버 플러스 멤버십</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[22년 8월 우수 이용자! 꼭 확인해보자!]]></title>
+        <id>https://serieson.naver.com/events/20274?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20274?productType=movie"/>
+        <updated>2022-08-01T03:21:26.911Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20274?productType=movie" class="" onclick="nclk(this, 'mov.list', '20274', '');">22년 8월 우수 이용자! 꼭 확인해보자!</a>]]></content>
     </entry>
 </feed>
