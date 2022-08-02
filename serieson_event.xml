@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-08-02T15:03:47.427Z</updated>
+    <updated>2022-08-02T16:06:30.019Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[🚀 '토이스토리' 첫 스핀오프 시리즈온 상륙! '버즈 라이트이어' 경품 이벤트]]></title>
+        <id>https://serieson.naver.com/events/20277?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20277?productType=movie"/>
+        <updated>2022-08-02T16:06:29.492Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20277?productType=movie" class="" onclick="nclk(this, 'mov.list', '20277', '');">🚀 '토이스토리' 첫 스핀오프 시리즈온 상륙! '버즈 라이트이어' 경품 이벤트</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🧙‍♂️ 소장각 세게 잡혔다! '해리포터 20주년:리턴 투 호그와트 패키지']]></title>
         <id>https://serieson.naver.com/events/20275?productType=movie</id>
