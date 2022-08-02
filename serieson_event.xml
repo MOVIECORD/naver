@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-08-02T14:06:31.309Z</updated>
+    <updated>2022-08-02T15:03:47.427Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[👊 업그레이드된 말맛 & 손맛으로 더 시원하게 터지는 ‘범죄도시2’]]></title>
-        <id>https://serieson.naver.com/events/20265?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20265?productType=movie"/>
-        <updated>2022-07-18T03:03:38.215Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20265?productType=movie" class="" onclick="nclk(this, 'mov.list', '20265', '');">👊 업그레이드된 말맛 &amp; 손맛으로 더 시원하게 터지는 ‘범죄도시2’ </a>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[🧙‍♂️ 소장각 세게 잡혔다! '해리포터 20주년:리턴 투 호그와트 패키지']]></title>
         <id>https://serieson.naver.com/events/20275?productType=movie</id>
@@ -39,13 +32,6 @@
         <link href="https://serieson.naver.com/events/20267?productType=movie"/>
         <updated>2022-07-28T16:08:38.592Z</updated>
         <content type="html"><![CDATA[<a href="/events/20267?productType=movie" class="" onclick="nclk(this, 'mov.list', '20267', '');">✨ 더운 여름에 딱! 이주의 무료영화 PICK</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[😎 담당자 PICK! 이왕이면 시리즈 한 번에 소장하자!]]></title>
-        <id>https://serieson.naver.com/events/20266?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20266?productType=movie"/>
-        <updated>2022-07-19T16:05:44.743Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20266?productType=movie" class="" onclick="nclk(this, 'mov.list', '20266', '');">😎 담당자 PICK! 이왕이면 시리즈 한 번에 소장하자!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🎁 네이버 멤버십 영화 무제한을 소개합니다!]]></title>
