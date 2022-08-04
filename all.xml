@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-08-04T14:02:23.070Z</updated>
+    <updated>2022-08-04T15:03:25.805Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[💗 혜택 줄 결심! '헤어질 결심'이 왔어요! ([시리즈온] 이벤트)]]></title>
@@ -38,13 +38,6 @@
         <link href="https://serieson.naver.com/events/20272?productType=movie"/>
         <updated>2022-07-26T16:07:03.772Z</updated>
         <content type="html"><![CDATA[<a href="/events/20272?productType=movie" class="" onclick="nclk(this, 'mov.list', '20272', '');">💥장혁의 폭주하는 킬러 본능! ‘더 킬러: 죽어도 되는 아이’ 경품 이벤트</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[✨ 더운 여름에 딱! 이주의 무료영화 PICK ([시리즈온] 이벤트)]]></title>
-        <id>https://serieson.naver.com/events/20267?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20267?productType=movie"/>
-        <updated>2022-07-28T16:08:38.592Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20267?productType=movie" class="" onclick="nclk(this, 'mov.list', '20267', '');">✨ 더운 여름에 딱! 이주의 무료영화 PICK</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🎁 네이버 멤버십 영화 무제한을 소개합니다! ([시리즈온] 이벤트)]]></title>
