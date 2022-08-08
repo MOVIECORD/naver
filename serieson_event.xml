@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-08-08T14:10:04.225Z</updated>
+    <updated>2022-08-08T15:03:20.655Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[💗 혜택 줄 결심! '헤어질 결심'이 왔어요!]]></title>
-        <id>https://serieson.naver.com/events/20278?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20278?productType=movie"/>
-        <updated>2022-08-04T02:56:12.916Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20278?productType=movie" class="" onclick="nclk(this, 'mov.list', '20278', '');">💗 혜택 줄 결심! '헤어질 결심'이 왔어요!</a>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[🚀 '토이스토리' 첫 스핀오프 시리즈온 상륙! '버즈 라이트이어' 경품 이벤트]]></title>
         <id>https://serieson.naver.com/events/20277?productType=movie</id>
