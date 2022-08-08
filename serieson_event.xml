@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-08-08T04:26:41.420Z</updated>
+    <updated>2022-08-08T05:14:17.091Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
     <entry>
@@ -32,6 +32,13 @@
         <link href="https://serieson.naver.com/events/20272?productType=movie"/>
         <updated>2022-07-26T16:07:03.772Z</updated>
         <content type="html"><![CDATA[<a href="/events/20272?productType=movie" class="" onclick="nclk(this, 'mov.list', '20272', '');">💥장혁의 폭주하는 킬러 본능! ‘더 킬러: 죽어도 되는 아이’ 경품 이벤트</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🧙‍♀️ 마녀 아가씨, 오랜만이네?]]></title>
+        <id>https://serieson.naver.com/events/20264?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20264?productType=movie"/>
+        <updated>2022-08-08T05:14:16.489Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20264?productType=movie" class="" onclick="nclk(this, 'mov.list', '20264', '');">🧙‍♀️ 마녀 아가씨, 오랜만이네?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🎁 네이버 멤버십 영화 무제한을 소개합니다!]]></title>
