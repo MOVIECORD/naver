@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-08-10T00:31:25.892Z</updated>
+    <updated>2022-08-10T02:31:23.450Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[💙 오픈했구나! 드.디.어. '헤어질 결심' ([시리즈온] 이벤트)]]></title>
@@ -17,6 +17,13 @@
         <link href="https://serieson.naver.com/events/20277?productType=movie"/>
         <updated>2022-08-02T16:06:29.492Z</updated>
         <content type="html"><![CDATA[<a href="/events/20277?productType=movie" class="" onclick="nclk(this, 'mov.list', '20277', '');">🚀 '토이스토리' 첫 스핀오프 시리즈온 상륙! '버즈 라이트이어' 경품 이벤트</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[💸 고경표X이이경의 남북 코믹접선극  ‘육사오’ 극장 예매권 이벤트 ([시리즈온] 이벤트)]]></title>
+        <id>https://serieson.naver.com/events/20281?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20281?productType=movie"/>
+        <updated>2022-08-10T02:31:22.825Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20281?productType=movie" class="" onclick="nclk(this, 'mov.list', '20281', '');">💸 고경표X이이경의 남북 코믹접선극  ‘육사오’ 극장 예매권 이벤트</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🤍 호아킨 피닉스 X A24 제작의 힐링 로드무비가 왔다! 경품과 함께 지금 ‘컴온 컴온’! ([시리즈온] 이벤트)]]></title>
