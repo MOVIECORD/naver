@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-08-11T14:04:41.048Z</updated>
+    <updated>2022-08-11T15:03:52.038Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
     <entry>
@@ -53,13 +53,6 @@
         <link href="https://serieson.naver.com/events/20279?productType=movie"/>
         <updated>2022-08-08T16:05:10.097Z</updated>
         <content type="html"><![CDATA[<a href="/events/20279?productType=movie" class="" onclick="nclk(this, 'mov.list', '20279', '');">🤍 호아킨 피닉스 X A24 제작의 힐링 로드무비가 왔다! 경품과 함께 지금 ‘컴온 컴온’!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🧙‍♂️ 소장각 세게 잡혔다! '해리포터 20주년:리턴 투 호그와트 패키지']]></title>
-        <id>https://serieson.naver.com/events/20275?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20275?productType=movie"/>
-        <updated>2022-07-29T03:14:31.699Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20275?productType=movie" class="" onclick="nclk(this, 'mov.list', '20275', '');">🧙‍♂️ 소장각 세게 잡혔다! '해리포터 20주년:리턴 투 호그와트 패키지'</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🎁 네이버 멤버십 영화 무제한을 소개합니다!]]></title>
