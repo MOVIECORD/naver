@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-08-12T08:08:56.081Z</updated>
+    <updated>2022-08-12T09:03:46.070Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://serieson.naver.com/events/20284?productType=movie"/>
         <updated>2022-08-10T16:05:42.442Z</updated>
         <content type="html"><![CDATA[<a href="/events/20284?productType=movie" class="" onclick="nclk(this, 'mov.list', '20284', '');">💛 단 6일, 예약 구매 특별 혜택 준비했언! ‘미니언즈2’ 보고 비스포크 &amp; 냉장고 받아가세언</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[기억해야 할 그날을 위해!  광복절 역사 영화 20% 쿠폰 이벤트]]></title>
+        <id>https://serieson.naver.com/events/20287?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20287?productType=movie"/>
+        <updated>2022-08-12T09:03:45.382Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20287?productType=movie" class="" onclick="nclk(this, 'mov.list', '20287', '');">기억해야 할 그날을 위해!  광복절 역사 영화 20% 쿠폰 이벤트</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🚀 '토이스토리' 첫 스핀오프 시리즈온 상륙! '버즈 라이트이어' 경품 이벤트]]></title>
