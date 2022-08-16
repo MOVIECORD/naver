@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-08-16T15:07:34.139Z</updated>
+    <updated>2022-08-16T16:09:09.011Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[👨🏻‍✈️ '탑건: 매버릭' 시리즈온 상륙 ([시리즈온] 이벤트)]]></title>
+        <id>https://serieson.naver.com/events/20289?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20289?productType=movie"/>
+        <updated>2022-08-16T16:09:08.465Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20289?productType=movie" class="" onclick="nclk(this, 'mov.list', '20289', '');">👨🏻‍✈️ '탑건: 매버릭' 시리즈온 상륙</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[💛 미치게 귀여운 노랑이들이 돌아왔언! 지금 ‘미니언즈2’ 보고 비스포크 & 냉장고 받자! ([시리즈온] 이벤트)]]></title>
         <id>https://serieson.naver.com/events/20284?productType=movie</id>
