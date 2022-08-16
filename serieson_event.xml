@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-08-16T14:03:05.366Z</updated>
+    <updated>2022-08-16T15:07:34.134Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[🎖️ '탑건: 매버릭' 얼리버드 출시!]]></title>
-        <id>https://serieson.naver.com/events/20286?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20286?productType=movie"/>
-        <updated>2022-08-11T09:03:57.780Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20286?productType=movie" class="" onclick="nclk(this, 'mov.list', '20286', '');">🎖️ '탑건: 매버릭' 얼리버드 출시!</a>]]></content>
+        <title type="html"><![CDATA[💛 미치게 귀여운 노랑이들이 돌아왔언! 지금 ‘미니언즈2’ 보고 비스포크 & 냉장고 받자!]]></title>
+        <id>https://serieson.naver.com/events/20284?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20284?productType=movie"/>
+        <updated>2022-08-10T16:05:42.442Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20284?productType=movie" class="" onclick="nclk(this, 'mov.list', '20284', '');">💛 미치게 귀여운 노랑이들이 돌아왔언! 지금 ‘미니언즈2’ 보고 비스포크 &amp; 냉장고 받자!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[💙 오픈했구나! 드.디.어. '헤어질 결심']]></title>
@@ -20,39 +20,11 @@
         <content type="html"><![CDATA[<a href="/events/20280?productType=movie" class="" onclick="nclk(this, 'mov.list', '20280', '');">💙 오픈했구나! 드.디.어. '헤어질 결심'</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[💛 단 6일, 예약 구매 특별 혜택 준비했언! ‘미니언즈2’ 보고 비스포크 & 냉장고 받아가세언]]></title>
-        <id>https://serieson.naver.com/events/20284?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20284?productType=movie"/>
-        <updated>2022-08-10T16:05:42.442Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20284?productType=movie" class="" onclick="nclk(this, 'mov.list', '20284', '');">💛 단 6일, 예약 구매 특별 혜택 준비했언! ‘미니언즈2’ 보고 비스포크 &amp; 냉장고 받아가세언</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기억해야 할 그날을 위해!  광복절 역사 영화 20% 쿠폰 이벤트]]></title>
-        <id>https://serieson.naver.com/events/20287?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20287?productType=movie"/>
-        <updated>2022-08-12T09:03:45.382Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20287?productType=movie" class="" onclick="nclk(this, 'mov.list', '20287', '');">기억해야 할 그날을 위해!  광복절 역사 영화 20% 쿠폰 이벤트</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🚀 '토이스토리' 첫 스핀오프 시리즈온 상륙! '버즈 라이트이어' 경품 이벤트]]></title>
-        <id>https://serieson.naver.com/events/20277?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20277?productType=movie"/>
-        <updated>2022-08-02T16:06:29.492Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20277?productType=movie" class="" onclick="nclk(this, 'mov.list', '20277', '');">🚀 '토이스토리' 첫 스핀오프 시리즈온 상륙! '버즈 라이트이어' 경품 이벤트</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[🎸 영원한 슈퍼스타! '엘비스' 오픈 이벤트]]></title>
         <id>https://serieson.naver.com/events/20285?productType=movie</id>
         <link href="https://serieson.naver.com/events/20285?productType=movie"/>
         <updated>2022-08-11T07:07:09.907Z</updated>
         <content type="html"><![CDATA[<a href="/events/20285?productType=movie" class="" onclick="nclk(this, 'mov.list', '20285', '');">🎸 영원한 슈퍼스타! '엘비스' 오픈 이벤트</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[💸 고경표X이이경의 남북 코믹접선극  ‘육사오’ 극장 예매권 이벤트]]></title>
-        <id>https://serieson.naver.com/events/20281?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20281?productType=movie"/>
-        <updated>2022-08-10T02:31:22.825Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20281?productType=movie" class="" onclick="nclk(this, 'mov.list', '20281', '');">💸 고경표X이이경의 남북 코믹접선극  ‘육사오’ 극장 예매권 이벤트</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🤍 호아킨 피닉스 X A24 제작의 힐링 로드무비가 왔다! 경품과 함께 지금 ‘컴온 컴온’!]]></title>
