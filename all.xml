@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-08-22T14:09:34.230Z</updated>
+    <updated>2022-08-22T15:04:00.530Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[👨🏻‍✈️ '탑건: 매버릭' 시리즈온 상륙 ([시리즈온] 이벤트)]]></title>
@@ -17,13 +17,6 @@
         <link href="https://serieson.naver.com/events/20284?productType=movie"/>
         <updated>2022-08-10T16:05:42.442Z</updated>
         <content type="html"><![CDATA[<a href="/events/20284?productType=movie" class="" onclick="nclk(this, 'mov.list', '20284', '');">💛 미치게 귀여운 노랑이들이 돌아왔언! 지금 ‘미니언즈2’ 보고 비스포크 &amp; 냉장고 받자!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🛸 예약구매 시작! 외계+인! ([시리즈온] 이벤트)]]></title>
-        <id>https://serieson.naver.com/events/20291?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20291?productType=movie"/>
-        <updated>2022-08-18T05:29:51.858Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20291?productType=movie" class="" onclick="nclk(this, 'mov.list', '20291', '');">🛸 예약구매 시작! 외계+인!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[💙 오픈했구나! 드.디.어. '헤어질 결심' ([시리즈온] 이벤트)]]></title>
@@ -45,13 +38,6 @@
         <link href="https://serieson.naver.com/events/20290?productType=movie"/>
         <updated>2022-08-17T15:03:42.720Z</updated>
         <content type="html"><![CDATA[<a href="/events/20290?productType=movie" class="" onclick="nclk(this, 'mov.list', '20290', '');">🎒 방학의 끝을 잡고♪ 신나는 애니 파티! 인기 애니메이션 할인전 ‘백 투 스쿨’</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🤍 호아킨 피닉스 X A24 제작의 힐링 로드무비가 왔다! 경품과 함께 지금 ‘컴온 컴온’! ([시리즈온] 이벤트)]]></title>
-        <id>https://serieson.naver.com/events/20279?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20279?productType=movie"/>
-        <updated>2022-08-08T16:05:10.097Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20279?productType=movie" class="" onclick="nclk(this, 'mov.list', '20279', '');">🤍 호아킨 피닉스 X A24 제작의 힐링 로드무비가 왔다! 경품과 함께 지금 ‘컴온 컴온’!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🎁 네이버 멤버십 영화 무제한을 소개합니다! ([시리즈온] 이벤트)]]></title>
