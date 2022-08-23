@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-08-23T00:40:11.845Z</updated>
+    <updated>2022-08-23T03:25:53.684Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[👨🏻‍✈️ '탑건: 매버릭' 시리즈온 상륙 ([시리즈온] 이벤트)]]></title>
@@ -17,6 +17,13 @@
         <link href="https://serieson.naver.com/events/20284?productType=movie"/>
         <updated>2022-08-10T16:05:42.442Z</updated>
         <content type="html"><![CDATA[<a href="/events/20284?productType=movie" class="" onclick="nclk(this, 'mov.list', '20284', '');">💛 미치게 귀여운 노랑이들이 돌아왔언! 지금 ‘미니언즈2’ 보고 비스포크 &amp; 냉장고 받자!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[👽 '외계+인 1부' 소장하면 미공개 영상이!? ([시리즈온] 이벤트)]]></title>
+        <id>https://serieson.naver.com/events/20293?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20293?productType=movie"/>
+        <updated>2022-08-23T03:25:53.031Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20293?productType=movie" class="" onclick="nclk(this, 'mov.list', '20293', '');">👽 '외계+인 1부' 소장하면 미공개 영상이!?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[💙 오픈했구나! 드.디.어. '헤어질 결심' ([시리즈온] 이벤트)]]></title>
