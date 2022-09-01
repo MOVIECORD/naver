@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-09-01T00:31:17.711Z</updated>
+    <updated>2022-09-01T05:06:44.942Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://serieson.naver.com/events/20280?productType=movie"/>
         <updated>2022-08-08T16:05:10.094Z</updated>
         <content type="html"><![CDATA[<a href="/events/20280?productType=movie" class="" onclick="nclk(this, 'mov.list', '20280', '');">💙 오픈했구나! 드.디.어. '헤어질 결심'</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[✅최신 영화 최고 혜택으로 보는 꿀팁! 네이버 플러스 멤버십]]></title>
+        <id>https://serieson.naver.com/events/20299?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20299?productType=movie"/>
+        <updated>2022-09-01T05:06:44.418Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20299?productType=movie" class="" onclick="nclk(this, 'mov.list', '20299', '');">✅최신 영화 최고 혜택으로 보는 꿀팁! 네이버 플러스 멤버십</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🎁 네이버 멤버십 영화 무제한을 소개합니다!]]></title>
