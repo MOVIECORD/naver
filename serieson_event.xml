@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-09-05T14:11:23.331Z</updated>
+    <updated>2022-09-05T16:13:47.375Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
     <entry>
@@ -20,11 +20,11 @@
         <content type="html"><![CDATA[<a href="/events/20293?productType=movie" class="" onclick="nclk(this, 'mov.list', '20293', '');">👽 '외계+인 1부' 소장하면 미공개 영상이!?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[💙 오픈했구나! 드.디.어. '헤어질 결심']]></title>
-        <id>https://serieson.naver.com/events/20280?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20280?productType=movie"/>
-        <updated>2022-08-08T16:05:10.094Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20280?productType=movie" class="" onclick="nclk(this, 'mov.list', '20280', '');">💙 오픈했구나! 드.디.어. '헤어질 결심'</a>]]></content>
+        <title type="html"><![CDATA[💛 귀여운 노랑이들이 돌아왔언! '미니언즈2' 2차 이벤트]]></title>
+        <id>https://serieson.naver.com/events/20305?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20305?productType=movie"/>
+        <updated>2022-09-05T16:13:46.762Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20305?productType=movie" class="" onclick="nclk(this, 'mov.list', '20305', '');">💛 귀여운 노랑이들이 돌아왔언! '미니언즈2' 2차 이벤트</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[✅최신 영화 최고 혜택으로 보는 꿀팁! 네이버 플러스 멤버십]]></title>
