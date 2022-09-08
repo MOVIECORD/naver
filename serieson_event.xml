@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-09-08T15:06:07.244Z</updated>
+    <updated>2022-09-08T16:08:45.742Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[🎤에-오! 시리즈온 영화 무제한 X <보헤미안 랩소디>]]></title>
-        <id>https://serieson.naver.com/events/20301?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20301?productType=movie"/>
-        <updated>2022-09-08T15:06:06.612Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20301?productType=movie" class="" onclick="nclk(this, 'mov.list', '20301', '');">🎤에-오! 시리즈온 영화 무제한 X &lt;보헤미안 랩소디&gt;</a>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[⚡️ 지금 천둥의 스피드로 ‘토르: 러브 앤 썬더‘]]></title>
         <id>https://serieson.naver.com/events/20307?productType=movie</id>
@@ -20,11 +13,25 @@
         <content type="html"><![CDATA[<a href="/events/20307?productType=movie" class="" onclick="nclk(this, 'mov.list', '20307', '');">⚡️ 지금 천둥의 스피드로 ‘토르: 러브 앤 썬더‘</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[🔥 추석 연휴 30% 쿠폰이 무제한! 쿠폰 피버 핫타임!]]></title>
+        <id>https://serieson.naver.com/events/20308?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20308?productType=movie"/>
+        <updated>2022-09-08T16:08:45.188Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20308?productType=movie" class="" onclick="nclk(this, 'mov.list', '20308', '');">🔥 추석 연휴 30% 쿠폰이 무제한! 쿠폰 피버 핫타임!</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[🌕 인기 영화만 모아모아! 추석 특선 할인 영화관 오픈!]]></title>
         <id>https://serieson.naver.com/events/20304?productType=movie</id>
         <link href="https://serieson.naver.com/events/20304?productType=movie"/>
         <updated>2022-09-07T03:38:00.854Z</updated>
         <content type="html"><![CDATA[<a href="/events/20304?productType=movie" class="" onclick="nclk(this, 'mov.list', '20304', '');">🌕 인기 영화만 모아모아! 추석 특선 할인 영화관 오픈!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🎤에-오! 시리즈온 영화 무제한 X <보헤미안 랩소디>]]></title>
+        <id>https://serieson.naver.com/events/20301?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20301?productType=movie"/>
+        <updated>2022-09-08T15:06:06.612Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20301?productType=movie" class="" onclick="nclk(this, 'mov.list', '20301', '');">🎤에-오! 시리즈온 영화 무제한 X &lt;보헤미안 랩소디&gt;</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🐕 슈퍼 히어로를 지키는 슈퍼펫 군단의 경품 이벤트가 온다!]]></title>
