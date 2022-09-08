@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-09-08T14:05:05.945Z</updated>
+    <updated>2022-09-08T15:06:07.243Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[🎤에-오! 시리즈온 영화 무제한 X <보헤미안 랩소디> ([시리즈온] 이벤트)]]></title>
+        <id>https://serieson.naver.com/events/20301?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20301?productType=movie"/>
+        <updated>2022-09-08T15:06:06.612Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20301?productType=movie" class="" onclick="nclk(this, 'mov.list', '20301', '');">🎤에-오! 시리즈온 영화 무제한 X &lt;보헤미안 랩소디&gt;</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[⚡️ 지금 천둥의 스피드로 ‘토르: 러브 앤 썬더‘ ([시리즈온] 이벤트)]]></title>
         <id>https://serieson.naver.com/events/20307?productType=movie</id>
