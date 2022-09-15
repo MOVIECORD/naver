@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-09-15T06:33:44.018Z</updated>
+    <updated>2022-09-15T07:22:23.378Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[⚡️ 지금 천둥의 스피드로 ‘토르: 러브 앤 썬더‘ ([시리즈온] 이벤트)]]></title>
@@ -17,6 +17,13 @@
         <link href="https://serieson.naver.com/events/20311?productType=movie"/>
         <updated>2022-09-14T03:31:49.526Z</updated>
         <content type="html"><![CDATA[<a href="/events/20311?productType=movie" class="" onclick="nclk(this, 'mov.list', '20311', '');">☁️ 이런 영화 본 적 있으세요? NOPE! ‘놉’은 물론 ‘겟 아웃’ ‘어스’까지 쿠폰 지급!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🦇 배트맨 데이 기념! 배트맨 시리즈를 특별한 혜택으로! ([시리즈온] 이벤트)]]></title>
+        <id>https://serieson.naver.com/events/20316?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20316?productType=movie"/>
+        <updated>2022-09-15T07:22:22.752Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20316?productType=movie" class="" onclick="nclk(this, 'mov.list', '20316', '');">🦇 배트맨 데이 기념! 배트맨 시리즈를 특별한 혜택으로!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🎤에-오! 시리즈온 영화 무제한 X <보헤미안 랩소디> ([시리즈온] 이벤트)]]></title>
