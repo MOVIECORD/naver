@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-09-16T07:20:26.615Z</updated>
+    <updated>2022-09-16T08:10:01.809Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://serieson.naver.com/events/20311?productType=movie"/>
         <updated>2022-09-14T03:31:49.526Z</updated>
         <content type="html"><![CDATA[<a href="/events/20311?productType=movie" class="" onclick="nclk(this, 'mov.list', '20311', '');">☁️ 이런 영화 본 적 있으세요? NOPE! ‘놉’은 물론 ‘겟 아웃’ ‘어스’까지 쿠폰 지급!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🛩️ 톰형과 함께, '미션임파서블7'을 기다리자!]]></title>
+        <id>https://serieson.naver.com/events/20317?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20317?productType=movie"/>
+        <updated>2022-09-16T08:10:01.108Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20317?productType=movie" class="" onclick="nclk(this, 'mov.list', '20317', '');">🛩️ 톰형과 함께, '미션임파서블7'을 기다리자!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🦇 배트맨 데이 기념! 배트맨 시리즈를 특별한 혜택으로!]]></title>
