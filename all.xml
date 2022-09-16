@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-09-16T10:08:05.617Z</updated>
+    <updated>2022-09-16T11:02:29.673Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[⚡️ 지금 천둥의 스피드로 ‘토르: 러브 앤 썬더‘ ([시리즈온] 이벤트)]]></title>
@@ -31,6 +31,13 @@
         <link href="https://serieson.naver.com/events/20316?productType=movie"/>
         <updated>2022-09-15T07:22:22.752Z</updated>
         <content type="html"><![CDATA[<a href="/events/20316?productType=movie" class="" onclick="nclk(this, 'mov.list', '20316', '');">🦇 배트맨 데이 기념! 배트맨 시리즈를 특별한 혜택으로!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[👀 연휴 끝! 혼자가 된 지금 보기 좋은 HOT한 영화 할인전! ([시리즈온] 이벤트)]]></title>
+        <id>https://serieson.naver.com/events/20318?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20318?productType=movie"/>
+        <updated>2022-09-16T11:02:29.116Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20318?productType=movie" class="" onclick="nclk(this, 'mov.list', '20318', '');">👀 연휴 끝! 혼자가 된 지금 보기 좋은 HOT한 영화 할인전!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🎁 영화 보기 딱 좋은 계절 가을! 가을맞이 천 원 쿠폰 무제한 선물 ([시리즈온] 이벤트)]]></title>
