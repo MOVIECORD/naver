@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-09-19T14:19:26.562Z</updated>
+    <updated>2022-09-19T15:05:36.318Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
     <entry>
@@ -60,13 +60,6 @@
         <link href="https://serieson.naver.com/events/20314?productType=movie"/>
         <updated>2022-09-14T10:07:48.379Z</updated>
         <content type="html"><![CDATA[<a href="/events/20314?productType=movie" class="" onclick="nclk(this, 'mov.list', '20314', '');">🏆 토론토 국제영화제 특집, 띵작 할인중!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[👽 '외계+인 1부' 소장하면 미공개 영상이!?]]></title>
-        <id>https://serieson.naver.com/events/20293?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20293?productType=movie"/>
-        <updated>2022-08-23T03:25:53.031Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20293?productType=movie" class="" onclick="nclk(this, 'mov.list', '20293', '');">👽 '외계+인 1부' 소장하면 미공개 영상이!?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[✅최신 영화 최고 혜택으로 보는 꿀팁! 네이버 플러스 멤버십]]></title>
