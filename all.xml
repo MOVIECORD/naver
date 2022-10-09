@@ -2,6 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-10-09T14:10:08.664Z</updated>
+    <updated>2022-10-09T15:08:37.611Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[💸 1등 57억을 위한 로또원정대, '육사오'는 지금 시리즈온에서! ([시리즈온] 이벤트)]]></title>
+        <id>https://serieson.naver.com/events/20331?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20331?productType=movie"/>
+        <updated>2022-10-09T15:08:36.791Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20331?productType=movie" class="" onclick="nclk(this, 'mov.list', '20331', '');">💸 1등 57억을 위한 로또원정대, '육사오'는 지금 시리즈온에서!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🕵️ '헌트'라는 띵작으로 감독 데뷔! 세계를 휩쓴 이정재! ([시리즈온] 이벤트)]]></title>
+        <id>https://serieson.naver.com/events/20328?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20328?productType=movie"/>
+        <updated>2022-10-09T15:08:36.791Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20328?productType=movie" class="" onclick="nclk(this, 'mov.list', '20328', '');">🕵️ '헌트'라는 띵작으로 감독 데뷔! 세계를 휩쓴 이정재!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🚅 브래드 피트의 B급 액션, '불릿 트레인’ 지금 할인 받고 구매하자! ([시리즈온] 이벤트)]]></title>
+        <id>https://serieson.naver.com/events/20325?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20325?productType=movie"/>
+        <updated>2022-10-09T15:08:36.793Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20325?productType=movie" class="" onclick="nclk(this, 'mov.list', '20325', '');">🚅 브래드 피트의 B급 액션, '불릿 트레인’ 지금 할인 받고 구매하자!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🐶 '블레이드 퍼피 워리어'와 함께 귀여운 경품 받아가세요! ([시리즈온] 이벤트)]]></title>
+        <id>https://serieson.naver.com/events/20330?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20330?productType=movie"/>
+        <updated>2022-10-09T15:08:36.793Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20330?productType=movie" class="" onclick="nclk(this, 'mov.list', '20330', '');">🐶 '블레이드 퍼피 워리어'와 함께 귀여운 경품 받아가세요!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[👀 매월 최신 영화 무료로 보는 법? ([시리즈온] 이벤트)]]></title>
+        <id>https://serieson.naver.com/events/20326?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20326?productType=movie"/>
+        <updated>2022-10-09T15:08:36.793Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20326?productType=movie" class="" onclick="nclk(this, 'mov.list', '20326', '');">👀 매월 최신 영화 무료로 보는 법? </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🎁 네이버 멤버십 영화 무제한을 소개합니다! ([시리즈온] 이벤트)]]></title>
+        <id>https://serieson.naver.com/events/20260?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20260?productType=movie"/>
+        <updated>2022-10-09T15:08:36.793Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20260?productType=movie" class="" onclick="nclk(this, 'mov.list', '20260', '');">🎁 네이버 멤버십 영화 무제한을 소개합니다!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[22년 10월 우수 이용자! 꼭 확인해보자! ([시리즈온] 이벤트)]]></title>
+        <id>https://serieson.naver.com/events/20332?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20332?productType=movie"/>
+        <updated>2022-10-09T15:08:36.796Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20332?productType=movie" class="" onclick="nclk(this, 'mov.list', '20332', '');">22년 10월 우수 이용자! 꼭 확인해보자!</a>]]></content>
+    </entry>
 </feed>
