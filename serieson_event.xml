@@ -2,7 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-10-22T19:10:47.893Z</updated>
+    <updated>2022-10-22T20:08:34.724Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[👨🏻‍✈️ 공조 이즈 백! 예약구매 하고 캐시쿠폰도 받고!]]></title>
+        <id>https://serieson.naver.com/events/20340?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20340?productType=movie"/>
+        <updated>2022-10-22T20:08:33.959Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20340?productType=movie" class="" onclick="nclk(this, 'mov.list', '20340', '');">👨🏻‍✈️ 공조 이즈 백! 예약구매 하고 캐시쿠폰도 받고!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[👄 '진실의 주둥이'의 컴백! '정직한 후보2' 예약구매하고 캐시받자!]]></title>
+        <id>https://serieson.naver.com/events/20338?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20338?productType=movie"/>
+        <updated>2022-10-22T20:08:33.961Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20338?productType=movie" class="" onclick="nclk(this, 'mov.list', '20338', '');">👄 '진실의 주둥이'의 컴백! '정직한 후보2' 예약구매하고 캐시받자!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🏠 본격 라이프 체인지 코미디, '컴백홈’ 지금 감상하고 10,000 캐시도 받고!]]></title>
+        <id>https://serieson.naver.com/events/20335?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20335?productType=movie"/>
+        <updated>2022-10-22T20:08:33.962Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20335?productType=movie" class="" onclick="nclk(this, 'mov.list', '20335', '');">🏠 본격 라이프 체인지 코미디, '컴백홈’ 지금 감상하고 10,000 캐시도 받고!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🎬 파라마운트 아카이브룸! 할인가로 소장하는 인생영화!]]></title>
+        <id>https://serieson.naver.com/events/20339?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20339?productType=movie"/>
+        <updated>2022-10-22T20:08:33.966Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20339?productType=movie" class="" onclick="nclk(this, 'mov.list', '20339', '');">🎬 파라마운트 아카이브룸! 할인가로 소장하는 인생영화!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🕸️ 그때는 비밀, 지금은 소장각! ‘스파이더맨: 노 웨이 홈 펀버전’]]></title>
+        <id>https://serieson.naver.com/events/20336?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20336?productType=movie"/>
+        <updated>2022-10-22T20:08:33.968Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20336?productType=movie" class="" onclick="nclk(this, 'mov.list', '20336', '');">🕸️ 그때는 비밀, 지금은 소장각! ‘스파이더맨: 노 웨이 홈 펀버전’</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🕵️ '헌트'라는 띵작으로 감독 데뷔! 세계를 휩쓴 이정재!]]></title>
+        <id>https://serieson.naver.com/events/20328?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20328?productType=movie"/>
+        <updated>2022-10-22T20:08:33.969Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20328?productType=movie" class="" onclick="nclk(this, 'mov.list', '20328', '');">🕵️ '헌트'라는 띵작으로 감독 데뷔! 세계를 휩쓴 이정재!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🤖 건프라 챙겨드려요! '기동전사 건담: 쿠쿠르스 도안의 섬']]></title>
+        <id>https://serieson.naver.com/events/20334?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20334?productType=movie"/>
+        <updated>2022-10-22T20:08:33.971Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20334?productType=movie" class="" onclick="nclk(this, 'mov.list', '20334', '');">🤖 건프라 챙겨드려요! '기동전사 건담: 쿠쿠르스 도안의 섬'</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[👀 매월 최신 영화 무료로 보는 법?]]></title>
+        <id>https://serieson.naver.com/events/20326?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20326?productType=movie"/>
+        <updated>2022-10-22T20:08:33.972Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20326?productType=movie" class="" onclick="nclk(this, 'mov.list', '20326', '');">👀 매월 최신 영화 무료로 보는 법? </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🎁 네이버 멤버십 영화 무제한을 소개합니다!]]></title>
+        <id>https://serieson.naver.com/events/20260?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20260?productType=movie"/>
+        <updated>2022-10-22T20:08:33.974Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20260?productType=movie" class="" onclick="nclk(this, 'mov.list', '20260', '');">🎁 네이버 멤버십 영화 무제한을 소개합니다!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[22년 10월 우수 이용자! 꼭 확인해보자!]]></title>
+        <id>https://serieson.naver.com/events/20332?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20332?productType=movie"/>
+        <updated>2022-10-22T20:08:33.975Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20332?productType=movie" class="" onclick="nclk(this, 'mov.list', '20332', '');">22년 10월 우수 이용자! 꼭 확인해보자!</a>]]></content>
+    </entry>
 </feed>
