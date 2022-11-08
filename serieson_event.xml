@@ -2,70 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-11-08T07:03:32.379Z</updated>
+    <updated>2022-11-08T08:10:56.326Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[👨🏻‍✈️ 한국형 어벤져스의 탄생! '공조2' 보면 1만 캐시 쏩니다!]]></title>
-        <id>https://serieson.naver.com/events/20348?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20348?productType=movie"/>
-        <updated>2022-11-08T07:03:31.620Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20348?productType=movie" class="" onclick="nclk(this, 'mov.list', '20348', '');">👨🏻‍✈️ 한국형 어벤져스의 탄생! '공조2' 보면 1만 캐시 쏩니다!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🎤 힙과 흥이 터진다! '대무가'보고 아이폰 14 pro 받아가세요!]]></title>
-        <id>https://serieson.naver.com/events/20353?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20353?productType=movie"/>
-        <updated>2022-11-08T07:03:31.628Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20353?productType=movie" class="" onclick="nclk(this, 'mov.list', '20353', '');">🎤 힙과 흥이 터진다! '대무가'보고 아이폰 14 pro 받아가세요!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🎁 개봉 전 온라인 무료 시사중! 11/23 개봉, '존 덴버 죽이기']]></title>
-        <id>https://serieson.naver.com/events/20351?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20351?productType=movie"/>
-        <updated>2022-11-08T07:03:31.630Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20351?productType=movie" class="" onclick="nclk(this, 'mov.list', '20351', '');">🎁 개봉 전 온라인 무료 시사중! 11/23 개봉, '존 덴버 죽이기'</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[👄 '진실의 주둥이'의 컴백! '정직한 후보2' 보고 캐시 받아가세요!]]></title>
-        <id>https://serieson.naver.com/events/20344?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20344?productType=movie"/>
-        <updated>2022-11-08T07:03:31.631Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20344?productType=movie" class="" onclick="nclk(this, 'mov.list', '20344', '');">👄 '진실의 주둥이'의 컴백! '정직한 후보2' 보고 캐시 받아가세요!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🎶 K-맘마미아의 탄생! 한국 최초 뮤지컬 주크박스 영화 '인생은 아름다워']]></title>
-        <id>https://serieson.naver.com/events/20352?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20352?productType=movie"/>
-        <updated>2022-11-08T07:03:31.633Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20352?productType=movie" class="" onclick="nclk(this, 'mov.list', '20352', '');">🎶 K-맘마미아의 탄생! 한국 최초 뮤지컬 주크박스 영화 '인생은 아름다워'</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🎷 재즈가 뭐라고 생각하세요? 50년대 재즈의 황홀함 '한여름밤의 재즈']]></title>
-        <id>https://serieson.naver.com/events/20347?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20347?productType=movie"/>
-        <updated>2022-11-08T07:03:31.634Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20347?productType=movie" class="" onclick="nclk(this, 'mov.list', '20347', '');">🎷 재즈가 뭐라고 생각하세요? 50년대 재즈의 황홀함 '한여름밤의 재즈'</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🔔 똑똑, '시리즈온 멤버십 영화 이용권'이 도착했습니다~! 누구나 첫 달 무료!]]></title>
-        <id>https://serieson.naver.com/events/20343?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20343?productType=movie"/>
-        <updated>2022-11-08T07:03:31.636Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20343?productType=movie" class="" onclick="nclk(this, 'mov.list', '20343', '');">🔔 똑똑, '시리즈온 멤버십 영화 이용권'이 도착했습니다~! 누구나 첫 달 무료!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[👀 매월 최신 영화 무료로 보는 법?]]></title>
-        <id>https://serieson.naver.com/events/20326?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20326?productType=movie"/>
-        <updated>2022-11-08T07:03:31.639Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20326?productType=movie" class="" onclick="nclk(this, 'mov.list', '20326', '');">👀 매월 최신 영화 무료로 보는 법? </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[22년 11월 우수 이용자! 꼭 확인해보자!]]></title>
-        <id>https://serieson.naver.com/events/20349?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20349?productType=movie"/>
-        <updated>2022-11-08T07:03:31.648Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20349?productType=movie" class="" onclick="nclk(this, 'mov.list', '20349', '');">22년 11월 우수 이용자! 꼭 확인해보자!</a>]]></content>
-    </entry>
 </feed>
