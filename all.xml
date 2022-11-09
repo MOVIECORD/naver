@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-11-09T06:11:04.287Z</updated>
+    <updated>2022-11-09T07:10:16.436Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[👨🏻‍✈️ 한국형 어벤져스의 탄생! '공조2' 보면 1만 캐시 쏩니다! ([시리즈온] 이벤트)]]></title>
@@ -17,6 +17,13 @@
         <link href="https://serieson.naver.com/events/20356?productType=movie"/>
         <updated>2022-11-09T06:11:03.544Z</updated>
         <content type="html"><![CDATA[<a href="/events/20356?productType=movie" class="" onclick="nclk(this, 'mov.list', '20356', '');">🎶 K-맘마미아의 탄생! 한국 최초 뮤지컬 주크박스 영화 '인생은 아름다워'</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🙂 세상에서 가장 흉측한 미소 '스마일' 보고 네이버 페이 1만 포인트 받자! ([시리즈온] 이벤트)]]></title>
+        <id>https://serieson.naver.com/events/20358?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20358?productType=movie"/>
+        <updated>2022-11-09T07:10:15.606Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20358?productType=movie" class="" onclick="nclk(this, 'mov.list', '20358', '');">🙂 세상에서 가장 흉측한 미소 '스마일' 보고 네이버 페이 1만 포인트 받자!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[💗 심장 저격하는 로코 '티켓 투 파라다이스' 보고 1만 캐시 받자! ([시리즈온] 이벤트)]]></title>
