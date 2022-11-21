@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-11-21T14:03:57.542Z</updated>
+    <updated>2022-11-21T15:03:59.370Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
     <entry>
@@ -74,13 +74,6 @@
         <link href="https://serieson.naver.com/events/20357?productType=movie"/>
         <updated>2022-11-16T17:10:15.040Z</updated>
         <content type="html"><![CDATA[<a href="/events/20357?productType=movie" class="" onclick="nclk(this, 'mov.list', '20357', '');">💗 심장 저격하는 로코 '티켓 투 파라다이스' 보고 1만 캐시 받자!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🎞️ 누벨바그 영화의 전설, '에릭 로메르 패키지' 경품 이벤트!]]></title>
-        <id>https://serieson.naver.com/events/20354?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20354?productType=movie"/>
-        <updated>2022-11-16T17:10:15.041Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20354?productType=movie" class="" onclick="nclk(this, 'mov.list', '20354', '');">🎞️ 누벨바그 영화의 전설, '에릭 로메르 패키지' 경품 이벤트!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[✅ 이번 주엔 이 영화 어때요? 따끈 따끈한 최신 영화 보고 가세요!]]></title>
