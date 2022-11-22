@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-11-22T00:32:52.097Z</updated>
+    <updated>2022-11-22T02:42:27.621Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[⚡️ DC 역사상 가장 강력한 히어로의 탄생! '블랙 아담' 보고 피규어 받아가세요! ([시리즈온] 이벤트)]]></title>
@@ -10,6 +10,13 @@
         <link href="https://serieson.naver.com/events/20362?productType=movie"/>
         <updated>2022-11-16T17:10:15.033Z</updated>
         <content type="html"><![CDATA[<a href="/events/20362?productType=movie" class="" onclick="nclk(this, 'mov.list', '20362', '');">⚡️ DC 역사상 가장 강력한 히어로의 탄생! '블랙 아담' 보고 피규어 받아가세요!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🎁 스케일이 다른 블프가 온다! 유니버셜 블랙프라이데이 고오급 경품 이벤트 오픈! ([시리즈온] 이벤트)]]></title>
+        <id>https://serieson.naver.com/events/20368?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20368?productType=movie"/>
+        <updated>2022-11-22T02:42:26.938Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20368?productType=movie" class="" onclick="nclk(this, 'mov.list', '20368', '');">🎁 스케일이 다른 블프가 온다! 유니버셜 블랙프라이데이 고오급 경품 이벤트 오픈!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[💣 '데시벨' 극장예매권과 소장VOD를 초특가로 구매하자! ([시리즈온] 이벤트)]]></title>
