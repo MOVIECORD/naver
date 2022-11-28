@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-11-28T05:02:47.071Z</updated>
+    <updated>2022-11-28T06:09:25.603Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[🕵️'시리즈온 멤버십 영화 이용권'이란? ([시리즈온] 이벤트)]]></title>
+        <id>https://serieson.naver.com/events/20376?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20376?productType=movie"/>
+        <updated>2022-11-28T06:09:25.068Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20376?productType=movie" class="" onclick="nclk(this, 'mov.list', '20376', '');">🕵️'시리즈온 멤버십 영화 이용권'이란?</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[⚡️ DC 역사상 가장 강력한 히어로의 탄생! '블랙 아담' 보고 피규어 받아가세요! ([시리즈온] 이벤트)]]></title>
         <id>https://serieson.naver.com/events/20362?productType=movie</id>
