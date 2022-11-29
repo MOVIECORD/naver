@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-11-29T08:08:59.911Z</updated>
+    <updated>2022-11-29T09:03:07.158Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
     <entry>
@@ -32,6 +32,13 @@
         <link href="https://serieson.naver.com/events/20368?productType=movie"/>
         <updated>2022-11-22T02:42:26.938Z</updated>
         <content type="html"><![CDATA[<a href="/events/20368?productType=movie" class="" onclick="nclk(this, 'mov.list', '20368', '');">💖 스케일이 다른 블프가 온다! 유니버셜 블랙프라이데이 고오급 경품 이벤트 오픈!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🎁 한꺼번에 소장각! 시리즈온이 엄선한 패키지 모음집 보고 가세요!]]></title>
+        <id>https://serieson.naver.com/events/20378?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20378?productType=movie"/>
+        <updated>2022-11-29T09:03:06.561Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20378?productType=movie" class="" onclick="nclk(this, 'mov.list', '20378', '');">🎁 한꺼번에 소장각! 시리즈온이 엄선한 패키지 모음집 보고 가세요!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🎁 시리즈온 영화 슈퍼딜! 띵작으로 소문난 영화만 모아모아!]]></title>
