@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-11-30T00:31:36.864Z</updated>
+    <updated>2022-11-30T02:18:31.548Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[🕵️'시리즈온 멤버십 영화 이용권'이란?]]></title>
-        <id>https://serieson.naver.com/events/20376?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20376?productType=movie"/>
-        <updated>2022-11-28T06:09:25.068Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20376?productType=movie" class="" onclick="nclk(this, 'mov.list', '20376', '');">🕵️'시리즈온 멤버십 영화 이용권'이란?</a>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[🔥 마지막일지도 모를 일주일, '리멤버' 보면 선착순 캐시를 드려요!]]></title>
         <id>https://serieson.naver.com/events/20373?productType=movie</id>
         <link href="https://serieson.naver.com/events/20373?productType=movie"/>
         <updated>2022-11-23T02:26:31.161Z</updated>
         <content type="html"><![CDATA[<a href="/events/20373?productType=movie" class="" onclick="nclk(this, 'mov.list', '20373', '');">🔥 마지막일지도 모를 일주일, '리멤버' 보면 선착순 캐시를 드려요!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[⚡️ DC 역사상 가장 강력한 히어로의 탄생! '블랙 아담' 보고 피규어 받아가세요!]]></title>
+        <id>https://serieson.naver.com/events/20362?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20362?productType=movie"/>
+        <updated>2022-11-30T02:18:30.959Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20362?productType=movie" class="" onclick="nclk(this, 'mov.list', '20362', '');">⚡️ DC 역사상 가장 강력한 히어로의 탄생! '블랙 아담' 보고 피규어 받아가세요!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[💖 스케일이 다른 블프가 온다! 유니버셜 블랙프라이데이 고오급 경품 이벤트 오픈!]]></title>
@@ -53,6 +53,13 @@
         <link href="https://serieson.naver.com/events/20365?productType=movie"/>
         <updated>2022-11-27T16:05:17.677Z</updated>
         <content type="html"><![CDATA[<a href="/events/20365?productType=movie" class="" onclick="nclk(this, 'mov.list', '20365', '');">🥳 수능 해방 기념! 시리즈온이 뽑은 추천 영화들!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🕵️'시리즈온 멤버십 영화 이용권'이란?]]></title>
+        <id>https://serieson.naver.com/events/20376?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20376?productType=movie"/>
+        <updated>2022-11-28T06:09:25.068Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20376?productType=movie" class="" onclick="nclk(this, 'mov.list', '20376', '');">🕵️'시리즈온 멤버십 영화 이용권'이란?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[✅ 이번 주엔 이 영화 어때요? 따끈 따끈한 최신 영화 보고 가세요!]]></title>
