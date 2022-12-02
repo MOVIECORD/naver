@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-12-02T00:28:58.768Z</updated>
+    <updated>2022-12-02T02:13:59.164Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[웰메이드 서스펜스 스릴러 '자백', 예약구매 시작!]]></title>
+        <id>https://serieson.naver.com/events/20380?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20380?productType=movie"/>
+        <updated>2022-12-02T02:13:58.424Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20380?productType=movie" class="" onclick="nclk(this, 'mov.list', '20380', '');">웰메이드 서스펜스 스릴러 '자백', 예약구매 시작!</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🔥 마지막일지도 모를 일주일, '리멤버' 보면 선착순 캐시를 드려요!]]></title>
         <id>https://serieson.naver.com/events/20373?productType=movie</id>
