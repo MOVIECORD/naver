@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-06T14:02:46.995Z</updated>
+    <updated>2022-12-06T15:03:07.733Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[그날의 진실은..? ‘자백’ 지금 감상하고 쿠폰받자! ([시리즈온] 이벤트)]]></title>
@@ -10,13 +10,6 @@
         <link href="https://serieson.naver.com/events/20381?productType=movie"/>
         <updated>2022-12-06T02:11:25.436Z</updated>
         <content type="html"><![CDATA[<a href="/events/20381?productType=movie" class="" onclick="nclk(this, 'mov.list', '20381', '');">그날의 진실은..? ‘자백’ 지금 감상하고 쿠폰받자!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🔥 마지막일지도 모를 일주일, '리멤버' 보면 선착순 캐시를 드려요! ([시리즈온] 이벤트)]]></title>
-        <id>https://serieson.naver.com/events/20373?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20373?productType=movie"/>
-        <updated>2022-11-23T02:26:31.161Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20373?productType=movie" class="" onclick="nclk(this, 'mov.list', '20373', '');">🔥 마지막일지도 모를 일주일, '리멤버' 보면 선착순 캐시를 드려요!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[💄 '미시즈 해리스 파리에 가다' 구매 시 디올 립글로우를 드려요! ([시리즈온] 이벤트)]]></title>
@@ -45,13 +38,6 @@
         <link href="https://serieson.naver.com/events/20378?productType=movie"/>
         <updated>2022-11-29T09:03:06.561Z</updated>
         <content type="html"><![CDATA[<a href="/events/20378?productType=movie" class="" onclick="nclk(this, 'mov.list', '20378', '');">🎁 한꺼번에 소장각! 시리즈온이 엄선한 패키지 모음집 보고 가세요!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[✨ 찬란하고 신비로운, '가재가 노래하는 곳' 경품 & 패키지 이벤트! ([시리즈온] 이벤트)]]></title>
-        <id>https://serieson.naver.com/events/20374?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20374?productType=movie"/>
-        <updated>2022-11-22T16:08:48.894Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20374?productType=movie" class="" onclick="nclk(this, 'mov.list', '20374', '');">✨ 찬란하고 신비로운, '가재가 노래하는 곳' 경품 &amp; 패키지 이벤트!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[💣 '데시벨' 극장예매권과 소장VOD를 초특가로 구매하자! ([시리즈온] 이벤트)]]></title>
