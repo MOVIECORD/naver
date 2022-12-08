@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-12-08T02:13:14.610Z</updated>
+    <updated>2022-12-08T03:10:17.136Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://serieson.naver.com/events/20362?productType=movie"/>
         <updated>2022-11-30T02:18:30.959Z</updated>
         <content type="html"><![CDATA[<a href="/events/20362?productType=movie" class="" onclick="nclk(this, 'mov.list', '20362', '');">⚡️ '블랙 아담' 경품 이벤트</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🎁 '폴 600미터' 경품 이벤트]]></title>
+        <id>https://serieson.naver.com/events/20383?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20383?productType=movie"/>
+        <updated>2022-12-08T03:10:16.426Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20383?productType=movie" class="" onclick="nclk(this, 'mov.list', '20383', '');">🎁 '폴 600미터' 경품 이벤트</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🎁 한꺼번에 소장각! 패키지 추천관]]></title>
