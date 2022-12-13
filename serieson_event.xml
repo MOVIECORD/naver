@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-12-13T14:03:24.320Z</updated>
+    <updated>2022-12-13T15:03:11.395Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
     <entry>
@@ -11,13 +11,6 @@
         <link href="https://serieson.naver.com/events/20381?productType=movie"/>
         <updated>2022-12-06T02:11:25.436Z</updated>
         <content type="html"><![CDATA[<a href="/events/20381?productType=movie" class="" onclick="nclk(this, 'mov.list', '20381', '');">🎁 '자백' 캐시 이벤트</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🎁 '데시벨' 할인 이벤트]]></title>
-        <id>https://serieson.naver.com/events/20385?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20385?productType=movie"/>
-        <updated>2022-12-09T02:13:08.201Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20385?productType=movie" class="" onclick="nclk(this, 'mov.list', '20385', '');">🎁 '데시벨' 할인 이벤트 </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🎁 '폴 600미터' 경품 이벤트]]></title>
@@ -46,20 +39,6 @@
         <link href="https://serieson.naver.com/events/20378?productType=movie"/>
         <updated>2022-11-29T09:03:06.561Z</updated>
         <content type="html"><![CDATA[<a href="/events/20378?productType=movie" class="" onclick="nclk(this, 'mov.list', '20378', '');">🎁 한꺼번에 소장각! 패키지 추천관</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[💣 '데시벨' 극장 예매권+소장 VOD 패키지 이벤트]]></title>
-        <id>https://serieson.naver.com/events/20361?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20361?productType=movie"/>
-        <updated>2022-12-05T09:03:49.469Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20361?productType=movie" class="" onclick="nclk(this, 'mov.list', '20361', '');">💣 '데시벨' 극장 예매권+소장 VOD 패키지 이벤트</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[💄 '미시즈 해리스 파리에 가다' 경품 이벤트]]></title>
-        <id>https://serieson.naver.com/events/20377?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20377?productType=movie"/>
-        <updated>2022-12-01T02:40:18.308Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20377?productType=movie" class="" onclick="nclk(this, 'mov.list', '20377', '');">💄 '미시즈 해리스 파리에 가다' 경품 이벤트</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[✨ 영화, 뭐 볼지 고민된다면?]]></title>
