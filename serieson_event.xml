@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-12-15T00:30:45.235Z</updated>
+    <updated>2022-12-15T02:16:02.325Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[🎁  '블랙 아담' 할인 이벤트]]></title>
-        <id>https://serieson.naver.com/events/20390?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20390?productType=movie"/>
-        <updated>2022-12-15T00:30:44.614Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20390?productType=movie" class="" onclick="nclk(this, 'mov.list', '20390', '');">🎁  '블랙 아담' 할인 이벤트</a>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[🎁 '에에올' 쿠폰 이벤트]]></title>
         <id>https://serieson.naver.com/events/20388?productType=movie</id>
         <link href="https://serieson.naver.com/events/20388?productType=movie"/>
         <updated>2022-12-15T00:30:44.616Z</updated>
         <content type="html"><![CDATA[<a href="/events/20388?productType=movie" class="" onclick="nclk(this, 'mov.list', '20388', '');">🎁 '에에올' 쿠폰 이벤트</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🎁 '자백' 캐시 이벤트]]></title>
+        <id>https://serieson.naver.com/events/20381?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20381?productType=movie"/>
+        <updated>2022-12-06T02:11:25.436Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20381?productType=movie" class="" onclick="nclk(this, 'mov.list', '20381', '');">🎁 '자백' 캐시 이벤트</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🎁  '데시벨' 쿠폰 이벤트]]></title>
@@ -27,11 +27,18 @@
         <content type="html"><![CDATA[<a href="/events/20389?productType=movie" class="" onclick="nclk(this, 'mov.list', '20389', '');">🎁  '데시벨' 쿠폰 이벤트</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[🎁 '자백' 캐시 이벤트]]></title>
-        <id>https://serieson.naver.com/events/20381?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20381?productType=movie"/>
-        <updated>2022-12-06T02:11:25.436Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20381?productType=movie" class="" onclick="nclk(this, 'mov.list', '20381', '');">🎁 '자백' 캐시 이벤트</a>]]></content>
+        <title type="html"><![CDATA[🎁  '블랙 아담' 할인 이벤트]]></title>
+        <id>https://serieson.naver.com/events/20390?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20390?productType=movie"/>
+        <updated>2022-12-15T00:30:44.614Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20390?productType=movie" class="" onclick="nclk(this, 'mov.list', '20390', '');">🎁  '블랙 아담' 할인 이벤트</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[☑️ 시리즈 올인원! 패키지 기획전]]></title>
+        <id>https://serieson.naver.com/events/20391?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20391?productType=movie"/>
+        <updated>2022-12-15T02:16:01.661Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20391?productType=movie" class="" onclick="nclk(this, 'mov.list', '20391', '');">☑️ 시리즈 올인원! 패키지 기획전</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🎁 '폴 600미터' 경품 이벤트]]></title>
