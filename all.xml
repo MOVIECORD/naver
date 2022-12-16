@@ -2,15 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-16T02:03:00.710Z</updated>
+    <updated>2022-12-16T03:03:58.822Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <entry>
-        <title type="html"><![CDATA[📞 <동감> 쿠폰 이벤트 ([시리즈온] 이벤트)]]></title>
-        <id>https://serieson.naver.com/events/20392?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20392?productType=movie"/>
-        <updated>2022-12-16T02:02:59.968Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20392?productType=movie" class="" onclick="nclk(this, 'mov.list', '20392', '');">📞 &lt;동감&gt; 쿠폰 이벤트</a>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[👁  '에에올' 쿠폰 이벤트 ([시리즈온] 이벤트)]]></title>
         <id>https://serieson.naver.com/events/20388?productType=movie</id>
@@ -19,11 +12,25 @@
         <content type="html"><![CDATA[<a href="/events/20388?productType=movie" class="" onclick="nclk(this, 'mov.list', '20388', '');">👁  '에에올' 쿠폰 이벤트</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[📞 <동감> 쿠폰 이벤트 ([시리즈온] 이벤트)]]></title>
+        <id>https://serieson.naver.com/events/20392?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20392?productType=movie"/>
+        <updated>2022-12-16T02:02:59.968Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20392?productType=movie" class="" onclick="nclk(this, 'mov.list', '20392', '');">📞 &lt;동감&gt; 쿠폰 이벤트</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[🏆 연말 결산! 시리즈온 영화 어워즈 ([시리즈온] 이벤트)]]></title>
         <id>https://serieson.naver.com/events/20387?productType=movie</id>
         <link href="https://serieson.naver.com/events/20387?productType=movie"/>
         <updated>2022-12-15T22:03:15.165Z</updated>
         <content type="html"><![CDATA[<a href="/events/20387?productType=movie" class="" onclick="nclk(this, 'mov.list', '20387', '');">🏆 연말 결산! 시리즈온 영화 어워즈</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🎁  '같은 속옷을 입는 두 여자' 쿠폰 이벤트 ([시리즈온] 이벤트)]]></title>
+        <id>https://serieson.naver.com/events/20393?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20393?productType=movie"/>
+        <updated>2022-12-16T03:03:58.113Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20393?productType=movie" class="" onclick="nclk(this, 'mov.list', '20393', '');">🎁  '같은 속옷을 입는 두 여자' 쿠폰 이벤트</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🎁 '자백' 캐시 이벤트 ([시리즈온] 이벤트)]]></title>
