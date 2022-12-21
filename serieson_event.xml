@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-12-20T23:03:06.228Z</updated>
+    <updated>2022-12-21T00:26:06.624Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://serieson.naver.com/events/20387?productType=movie"/>
         <updated>2022-12-15T22:03:15.165Z</updated>
         <content type="html"><![CDATA[<a href="/events/20387?productType=movie" class="" onclick="nclk(this, 'mov.list', '20387', '');">🏆 연말 결산! 시리즈온 영화 어워즈</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🎁  '크리스마스 캐럴' 쿠폰 이벤트]]></title>
+        <id>https://serieson.naver.com/events/20394?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20394?productType=movie"/>
+        <updated>2022-12-21T00:26:05.815Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20394?productType=movie" class="" onclick="nclk(this, 'mov.list', '20394', '');">🎁  '크리스마스 캐럴' 쿠폰 이벤트</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🎁  '같은 속옷을 입는 두 여자' 쿠폰 이벤트]]></title>
