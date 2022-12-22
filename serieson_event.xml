@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-12-22T00:28:49.197Z</updated>
+    <updated>2022-12-22T02:05:44.019Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[😎 '압꾸정' 예약구매 이벤트]]></title>
+        <id>https://serieson.naver.com/events/20396?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20396?productType=movie"/>
+        <updated>2022-12-22T02:05:43.330Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20396?productType=movie" class="" onclick="nclk(this, 'mov.list', '20396', '');">😎 '압꾸정' 예약구매 이벤트</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[👁  '에에올' 쿠폰 이벤트]]></title>
         <id>https://serieson.naver.com/events/20388?productType=movie</id>
