@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-25T14:02:37.924Z</updated>
+    <updated>2022-12-25T15:03:20.505Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[👁  '에에올' 쿠폰 이벤트 ([시리즈온] 이벤트)]]></title>
@@ -31,13 +31,6 @@
         <link href="https://serieson.naver.com/events/20387?productType=movie"/>
         <updated>2022-12-15T22:03:15.165Z</updated>
         <content type="html"><![CDATA[<a href="/events/20387?productType=movie" class="" onclick="nclk(this, 'mov.list', '20387', '');">🏆 연말 결산! 시리즈온 영화 어워즈</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🎄 주말 무제한 쿠폰 이벤트 ([시리즈온] 이벤트)]]></title>
-        <id>https://serieson.naver.com/events/20399?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20399?productType=movie"/>
-        <updated>2022-12-22T16:04:53.627Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20399?productType=movie" class="" onclick="nclk(this, 'mov.list', '20399', '');">🎄 주말 무제한 쿠폰 이벤트</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🎁 '스트레인지 월드' 경품 이벤트 ([시리즈온] 이벤트)]]></title>
@@ -108,13 +101,6 @@
         <link href="https://serieson.naver.com/events/20379?productType=movie"/>
         <updated>2022-12-01T02:40:18.315Z</updated>
         <content type="html"><![CDATA[<a href="/events/20379?productType=movie" class="" onclick="nclk(this, 'mov.list', '20379', '');">✨ 영화, 뭐 볼지 고민된다면?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🕵️ '시리즈온 멤버십 영화 이용권'이란? ([시리즈온] 이벤트)]]></title>
-        <id>https://serieson.naver.com/events/20376?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20376?productType=movie"/>
-        <updated>2022-11-28T06:09:25.068Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20376?productType=movie" class="" onclick="nclk(this, 'mov.list', '20376', '');">🕵️ '시리즈온 멤버십 영화 이용권'이란?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[✅ 최신 영화 빙고 타임! ([시리즈온] 이벤트)]]></title>
