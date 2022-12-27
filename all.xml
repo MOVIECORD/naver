@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-27T14:02:32.511Z</updated>
+    <updated>2022-12-27T15:02:58.951Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[🎉 1천만 돌파 기념 쿠폰 이벤트 ([시리즈온] 이벤트)]]></title>
@@ -10,6 +10,13 @@
         <link href="https://serieson.naver.com/events/20401?productType=movie"/>
         <updated>2022-12-26T02:06:24.516Z</updated>
         <content type="html"><![CDATA[<a href="/events/20401?productType=movie" class="" onclick="nclk(this, 'mov.list', '20401', '');">🎉 1천만 돌파 기념 쿠폰 이벤트</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[😎  '압꾸정' 캐시 이벤트 ([시리즈온] 이벤트)]]></title>
+        <id>https://serieson.naver.com/events/20400?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20400?productType=movie"/>
+        <updated>2022-12-27T15:02:58.272Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20400?productType=movie" class="" onclick="nclk(this, 'mov.list', '20400', '');">😎  '압꾸정' 캐시 이벤트</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[👁  '에에올' 쿠폰 이벤트 ([시리즈온] 이벤트)]]></title>
@@ -24,13 +31,6 @@
         <link href="https://serieson.naver.com/events/20387?productType=movie"/>
         <updated>2022-12-15T22:03:15.165Z</updated>
         <content type="html"><![CDATA[<a href="/events/20387?productType=movie" class="" onclick="nclk(this, 'mov.list', '20387', '');">🏆 연말 결산! 시리즈온 영화 어워즈</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[😎 '압꾸정' 예약구매 이벤트 ([시리즈온] 이벤트)]]></title>
-        <id>https://serieson.naver.com/events/20396?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20396?productType=movie"/>
-        <updated>2022-12-22T02:05:43.330Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20396?productType=movie" class="" onclick="nclk(this, 'mov.list', '20396', '');">😎 '압꾸정' 예약구매 이벤트</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🎀 시리즈온 홀리데이 할인 이벤트 ([시리즈온] 이벤트)]]></title>
@@ -73,13 +73,6 @@
         <link href="https://serieson.naver.com/events/20393?productType=movie"/>
         <updated>2022-12-16T03:03:58.113Z</updated>
         <content type="html"><![CDATA[<a href="/events/20393?productType=movie" class="" onclick="nclk(this, 'mov.list', '20393', '');">🎁  '같은 속옷을 입는 두 여자' 쿠폰 이벤트</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🎁  '데시벨' 쿠폰 이벤트 ([시리즈온] 이벤트)]]></title>
-        <id>https://serieson.naver.com/events/20389?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20389?productType=movie"/>
-        <updated>2022-12-14T00:28:26.445Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20389?productType=movie" class="" onclick="nclk(this, 'mov.list', '20389', '');">🎁  '데시벨' 쿠폰 이벤트</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🎁  '블랙 아담' 할인 이벤트 ([시리즈온] 이벤트)]]></title>
