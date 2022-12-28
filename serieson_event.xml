@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-12-28T14:02:38.796Z</updated>
+    <updated>2022-12-28T15:02:57.192Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
     <entry>
@@ -74,13 +74,6 @@
         <link href="https://serieson.naver.com/events/20393?productType=movie"/>
         <updated>2022-12-16T03:03:58.113Z</updated>
         <content type="html"><![CDATA[<a href="/events/20393?productType=movie" class="" onclick="nclk(this, 'mov.list', '20393', '');">🎁  '같은 속옷을 입는 두 여자' 쿠폰 이벤트</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🎁  '블랙 아담' 할인 이벤트]]></title>
-        <id>https://serieson.naver.com/events/20390?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20390?productType=movie"/>
-        <updated>2022-12-15T00:30:44.614Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20390?productType=movie" class="" onclick="nclk(this, 'mov.list', '20390', '');">🎁  '블랙 아담' 할인 이벤트</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[☑️ 시리즈 올인원! 패키지 기획전]]></title>
