@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-31T14:02:22.916Z</updated>
+    <updated>2022-12-31T15:02:51.010Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[🎉 1천만 돌파 기념 쿠폰 이벤트 ([시리즈온] 이벤트)]]></title>
@@ -26,13 +26,6 @@
         <content type="html"><![CDATA[<a href="/events/20388?productType=movie" class="" onclick="nclk(this, 'mov.list', '20388', '');">👁  '에에올' 쿠폰 이벤트</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[🏆 연말 결산! 시리즈온 영화 어워즈 ([시리즈온] 이벤트)]]></title>
-        <id>https://serieson.naver.com/events/20387?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20387?productType=movie"/>
-        <updated>2022-12-15T22:03:15.165Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20387?productType=movie" class="" onclick="nclk(this, 'mov.list', '20387', '');">🏆 연말 결산! 시리즈온 영화 어워즈</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[🎁 '지옥의 화원' 캐시 이벤트 ([시리즈온] 이벤트)]]></title>
         <id>https://serieson.naver.com/events/20402?productType=movie</id>
         <link href="https://serieson.naver.com/events/20402?productType=movie"/>
@@ -52,13 +45,6 @@
         <link href="https://serieson.naver.com/events/20397?productType=movie"/>
         <updated>2022-12-22T15:03:09.563Z</updated>
         <content type="html"><![CDATA[<a href="/events/20397?productType=movie" class="" onclick="nclk(this, 'mov.list', '20397', '');">🎁  '2023 디즈니와 함께' 경품 이벤트</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🎀 시리즈온 홀리데이 할인 이벤트 ([시리즈온] 이벤트)]]></title>
-        <id>https://serieson.naver.com/events/20395?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20395?productType=movie"/>
-        <updated>2022-12-22T05:03:01.968Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20395?productType=movie" class="" onclick="nclk(this, 'mov.list', '20395', '');">🎀 시리즈온 홀리데이 할인 이벤트</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[📞 '동감' 쿠폰 이벤트 ([시리즈온] 이벤트)]]></title>
