@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2023-01-01T14:02:28.002Z</updated>
+    <updated>2023-01-01T15:02:39.620Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[🎉 1천만 돌파 기념 쿠폰 이벤트]]></title>
-        <id>https://serieson.naver.com/events/20401?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20401?productType=movie"/>
-        <updated>2022-12-26T02:06:24.516Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20401?productType=movie" class="" onclick="nclk(this, 'mov.list', '20401', '');">🎉 1천만 돌파 기념 쿠폰 이벤트</a>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[😎  '압꾸정' 캐시 이벤트]]></title>
         <id>https://serieson.naver.com/events/20400?productType=movie</id>
@@ -39,13 +32,6 @@
         <link href="https://serieson.naver.com/events/20398?productType=movie"/>
         <updated>2022-12-22T15:03:09.574Z</updated>
         <content type="html"><![CDATA[<a href="/events/20398?productType=movie" class="" onclick="nclk(this, 'mov.list', '20398', '');">🎁 '스트레인지 월드' 경품 이벤트</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🎁  '2023 디즈니와 함께' 경품 이벤트]]></title>
-        <id>https://serieson.naver.com/events/20397?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20397?productType=movie"/>
-        <updated>2022-12-22T15:03:09.563Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20397?productType=movie" class="" onclick="nclk(this, 'mov.list', '20397', '');">🎁  '2023 디즈니와 함께' 경품 이벤트</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[📞 '동감' 쿠폰 이벤트]]></title>
